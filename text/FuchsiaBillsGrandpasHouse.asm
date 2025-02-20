@@ -1,27 +1,26 @@
 _FuchsiaBillsGrandpasHouseMiddleAgedWomanText::
-	text "SAFARI ZONE's"
-	line "WARDEN is old,"
-	cont "but still active!"
+	text "STRAZCE SAFARI ZONE je"
+	line "stary, ale stale cinny!"
 
-	para "All his teeth are"
-	line "false, though."
+	para "Vsechny jeho zuby"
+	line "jsou ale falesne."
 	done
 
 _FuchsiaBillsGrandpasHouseBillsGrandpaText::
-	text "Hmm? You've met"
-	line "BILL?"
+	text "Hmm? Potkal(a) jsi"
+	line "BILLA?"
 
-	para "He's my grandson!"
+	para "Je to muj vnuk!"
 
-	para "He always liked"
-	line "collecting things"
-	cont "even as a child!"
+	para "Vzdy rad"
+	line "sbiral veci"
+	cont "uz jako dite!"
 	done
 
 _FuchsiaBillsGrandpasHouseYoungsterText::
-	text "BILL files his"
-	line "own #MON data"
-	cont "on his PC!"
+	text "BILL uklada"
+	line "sva data #MON"
+	cont "do sveho PC!"
 
-	para "Did he show you?"
+	para "Ukazal ti to?"
 	done

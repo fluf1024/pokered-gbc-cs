@@ -1,56 +1,56 @@
 _PalletTownOakHeyWaitDontGoOutText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@"
+	text "OAK: Hej! Pockej!"
+	line "Neodchazej!"
 	text_end
 
 _PalletTownOakItsUnsafeText::
-	text "OAK: It's unsafe!"
-	line "Wild #MON live"
-	cont "in tall grass!"
+	text "OAK: Je to nebezpecne!"
+	line "Divoci #MON ziji"
+	cont "ve vysoke trave!"
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
+	para "Potrebujes sveho"
+	line "#MON pro svou"
+	cont "ochranu."
+	cont "Vim!"
 
-	para "Here, come with"
-	line "me!"
+	para "Tady, pojd se mnou!"
+	line ""
 	done
 
 _PalletTownGirlText::
-	text "I'm raising"
-	line "#MON too!"
+	text "Take trenuji"
+	line "#MON!"
 
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	para "Kdyz zesili,"
+	line "mohou me"
+	cont "chranit!"
 	done
 
 _PalletTownFisherText::
-	text "Technology is"
-	line "incredible!"
+	text "Technologie je"
+	line "neuveritelna!"
 
-	para "You can now store"
-	line "and recall items"
-	cont "and #MON as"
-	cont "data via PC!"
+	para "Nyni muzes ukladat"
+	line "a vyvolavat predmety"
+	cont "a #MON jako"
+	cont "data pres PC!"
 	done
 
 _PalletTownOaksLabSignText::
-	text "OAK #MON"
-	line "RESEARCH LAB"
+	text "LABORATOR VYZKUMU"
+	line "#MON OAKA"
 	done
 
 _PalletTownSignText::
 	text "PALLET TOWN"
-	line "Shades of your"
-	cont "journey await!"
+	line "Ocekavaji te"
+	cont "stiny tve cesty!"
 	done
 
 _PalletTownPlayersHouseSignText::
-	text "<PLAYER>'s house "
+	text "Dum <PLAYER>"
 	done
 
 _PalletTownRivalsHouseSignText::
-	text "<RIVAL>'s house "
+	text "Dum <RIVAL>"
 	done

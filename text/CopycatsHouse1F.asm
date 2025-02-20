@@ -1,21 +1,21 @@
 _CopycatsHouse1FMiddleAgedWomanText::
-	text "My daughter is so"
-	line "self-centered."
-	cont "She only has a"
-	cont "few friends."
+	text "Moje dcera je tak"
+	line "sobecka."
+	cont "Ma jen par"
+	cont "pratel."
 	done
 
 _CopycatsHouse1FMiddleAgedManText::
-	text "My daughter likes"
-	line "to mimic people."
+	text "Moje dcera rada"
+	line "napodobuje lidi."
 
-	para "Her mimicry has"
-	line "earned her the"
-	cont "nickname COPYCAT"
-	cont "around here!"
+	para "Jeji napodobovani ji"
+	line "vydobylo prezdivku"
+	cont "KOPIACKA"
+	cont "tady!"
 	done
 
 _CopycatsHouse1FChanseyText::
-	text "CHANSEY: Chaan!"
-	line "Sii!@"
+	text "CHANSEY: Can!"
+	line "Si!@"
 	text_end

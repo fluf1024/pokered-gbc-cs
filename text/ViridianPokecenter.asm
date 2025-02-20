@@ -1,16 +1,16 @@
 _ViridianPokecenterGentlemanText::
-	text "You can use that"
-	line "PC in the corner."
+	text "Muzes pouzit ten"
+	line "PC v rohu."
 
-	para "The receptionist"
-	line "told me. So kind!"
+	para "Recepcni"
+	line "mi to rekla. Tak mila!"
 	done
 
 _ViridianPokecenterCooltrainerMText::
-	text "There's a #MON"
-	line "CENTER in every"
-	cont "town ahead."
+	text "V kazdem meste"
+	line "dopredu je #MON"
+	cont "CENTRUM."
 
-	para "They don't charge"
-	line "any money either!"
+	para "Ani si neuctuji"
+	line "zadne penize!"
 	done

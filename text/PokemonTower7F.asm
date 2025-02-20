@@ -1,78 +1,80 @@
+   
 _PokemonTower7FMrFujiRescueText::
-	text "MR.FUJI: Heh? You"
-	line "came to save me?"
+	text "PAN FUJI: Heh? Ty"
+	line "jsi me prisel zachranit?"
 
-	para "Thank you. But, I"
-	line "came here of my"
-	cont "own free will."
+	para "Dekuji ti. Ale prisel"
+	line "jsem sem ze sve"
+	cont "vlastni vule."
 
-	para "I came to calm"
-	line "the soul of"
-	cont "CUBONE's mother."
+	para "Prisel jsem uklidnit"
+	line "dusi CUBONEovy"
+	cont "matky."
 
-	para "I think MAROWAK's"
-	line "spirit has gone"
-	cont "to the afterlife."
+	para "Myslim, ze MAROWAKuv"
+	line "duch odesel"
+	cont "do rise mrtvych."
 
-	para "I must thank you"
-	line "for your kind"
-	cont "concern!"
+	para "Musim ti podekovat"
+	line "za tvou laskavou"
+	cont "starost!"
 
-	para "Follow me to my"
-	line "home, #MON"
-	cont "HOUSE at the foot"
-	cont "of this tower."
+	para "Sleduj me do meho"
+	line "domova, #MON"
+	cont "HOUSE na upati"
+	cont "teto veze."
 	done
 
 _PokemonTower7FRocket1BattleText::
-	text "What do you want?"
-	line "Why are you here?"
+	text "Co chces?"
+	line "Proc jsi tady?"
 	done
 
 _PokemonTower7FRocket1EndBattleText::
-	text "I give up!"
+	text "Vzdavam se!"
 	prompt
 
 _PokemonTower7FRocket1AfterBattleText::
-	text "I'm not going to"
-	line "forget this!"
+	text "Na tohle"
+	line "nezapomenu!"
 	done
 
 _PokemonTower7FRocket2BattleText::
-	text "This old guy came"
-	line "and complained"
-	cont "about us harming"
-	cont "useless #MON!"
+	text "Tenhle stary chlapek"
+	line "prisel a stezoval si"
+	cont "na to, ze ublizujeme"
+	cont "nepotrebnym #MON!"
 
-	para "We're talking it"
-	line "over as adults!"
+	para "Resime to"
+	line "jako dospeli!"
 	done
 
 _PokemonTower7FRocket2EndBattleText::
-	text "Please!"
-	line "No more!"
+	text "Prosim!"
+	line "Uz zadne nasili!"
 	prompt
 
 _PokemonTower7FRocket2AfterBattleText::
-	text "#MON are only"
-	line "good for making"
-	cont "money!"
+	text "#MON jsou dobri"
+	line "jen na vydelavani"
+	cont "penez!"
 
-	para "Stay out of our"
-	line "business!"
+	para "Drz se dal od"
+	line "nasi prace!"
 	done
 
 _PokemonTower7FRocket3BattleText::
-	text "You're not saving"
-	line "anyone, kid!"
+	text "Nikdo te nezachrani,"
+	line "kluk jeden!"
 	done
 
 _PokemonTower7FRocket3EndBattleText::
-	text "Don't"
-	line "fight us ROCKETs!"
+	text "Nebojuj"
+	line "proti nam ROCKETum!"
 	prompt
 
 _PokemonTower7FRocket3AfterBattleText::
-	text "You're not getting"
-	line "away with this!"
+	text "Tohle ti"
+	line "neprojde!"
 	done
+   

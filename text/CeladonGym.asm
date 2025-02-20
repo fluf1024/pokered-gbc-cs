@@ -1,68 +1,68 @@
 _CeladonGymErikaPreBattleText::
-	text "Hello. Lovely"
-	line "weather isn't it?"
-	cont "It's so pleasant."
+	text "Ahoj. Krasne"
+	line "pocasi, ze ano?"
+	cont "Je tak prijemne."
 
-	para "...Oh dear..."
-	line "I must have dozed"
-	cont "off. Welcome."
+	para "...Ach, prominte..."
+	line "Asi jsem usnula."
+	cont "Vitej."
 
-	para "My name is ERIKA."
-	line "I am the LEADER"
-	cont "of CELADON GYM."
+	para "Jmenuji se ERIKA."
+	line "Jsem VUDCE"
+	cont "telocvicny CELADON."
 
-	para "I teach the art of"
-	line "flower arranging."
-	cont "My #MON are of"
-	cont "the grass-type."
+	para "Ucim umeni"
+	line "aranzovani kvetin."
+	cont "Moji #MON jsou"
+	cont "typu trava."
 
-	para "Oh, I'm sorry, I"
-	line "had no idea that"
-	cont "you wished to"
-	cont "challenge me."
+	para "Ach, promin, nemela"
+	line "jsem tuseni, ze"
+	cont "mne chces"
+	cont "vyzvat."
 
-	para "Very well, but I"
-	line "shall not lose."
+	para "Dobra, ale ja"
+	line "neprohraju."
 	done
 
 _CeladonGymErikaReceivedRainbowBadgeText::
-	text "Oh!"
-	line "I concede defeat."
+	text "Ach!"
+	line "Priznavam porazku."
 
-	para "You are remarkably"
-	line "strong."
+	para "Jsi obdivuhodne"
+	line "silny."
 
-	para "I must confer you"
-	line "the RAINBOWBADGE."
+	para "Musim ti predat"
+	line "DUHOVYODZNAK."
 	prompt
 
 _CeladonGymErikaPostBattleAdviceText::
-	text "You are cataloging"
-	line "#MON? I must"
-	cont "say I'm impressed."
+	text "Zaznamenavas"
+	line "#MON? Musim rict,"
+	cont "ze jsem ohromena."
 
-	para "I would never"
-	line "collect #MON"
-	cont "if they were"
-	cont "unattractive."
+	para "Nikdy bych"
+	line "nesbirala #MON,"
+	cont "kdyby nebyli"
+	cont "pritazlivi."
 	done
 
 _CeladonGymRainbowBadgeInfoText::
-	text "The RAINBOWBADGE"
-	line "will make #MON"
-	cont "up to L50 obey."
+	text "DUHOVYODZNAK"
+	line "primeje #MON"
+	cont "s urovni az L50 poslouchat."
 
-	para "It also allows"
-	line "#MON to use"
-	cont "STRENGTH in and"
-	cont "out of battle."
+	para "Umoznuje"
+	line "#MON pouzit"
+	cont "SILU v i"
+	cont "mimo souboj."
 
-	para "Please also take"
-	line "this with you."
+	para "Prosim, vezmi si"
+	line "tohle take s sebou."
 	done
 
 _CeladonGymReceivedTM21Text::
-	text "<PLAYER> received"
+	text "<PLAYER> obdrzel"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -71,150 +71,151 @@ _CeladonGymReceivedTM21Text::
 _TM21ExplanationText::
 	text_start
 
-	para "TM21 contains"
+	para "TM21 obsahuje"
 	line "MEGA DRAIN."
 
-	para "Half the damage"
-	line "it inflicts is"
-	cont "drained to heal"
-	cont "your #MON!"
+	para "Polovinu zpusobene"
+	line "skody vyuziva k"
+	cont "leceni tveho"
+	cont "#MON!"
 	done
 
 _CeladonGymTM21NoRoomText::
-	text "You should make"
-	line "room for this."
+	text "Mel bys udelat"
+	line "misto pro tohle."
 	done
 
 _CeladonGymBattleText2::
-	text "Hey!"
+	text "Hej!"
 
-	para "You are not"
-	line "allowed in here!"
+	para "Nemas sem"
+	line "pristup!"
 	done
 
 _CeladonGymEndBattleText2::
-	text "You're"
-	line "too rough!"
+	text "Jsi"
+	line "prilis hruby!"
 	prompt
 
 _CeladonGymAfterBattleText2::
-	text "Bleaah!"
-	line "I hope ERIKA"
-	cont "wipes you out!"
+	text "Blee!"
+	line "Doufam, ze te"
+	cont "ERIKA zlikviduje!"
 	done
 
 _CeladonGymBattleText3::
-	text "I was getting"
-	line "bored."
+	text "Zacinala jsem se"
+	line "nudit."
 	done
 
 _CeladonGymEndBattleText3::
-	text "My"
-	line "makeup!"
+	text "Moje"
+	line "licidla!"
 	prompt
 
 _CeladonGymAfterBattleText3::
-	text "Grass-type #MON"
-	line "are tough against"
-	cont "the water-type!"
+	text "Travovi #MON jsou"
+	line "odolni proti"
+	cont "vodnim #MON!"
 
-	para "They also have an"
-	line "edge on rock and"
-	cont "ground #MON!"
+	para "Maji take"
+	line "vyhodu proti"
+	cont "kamennym a"
+	cont "zemnim #MON!"
 	done
 
 _CeladonGymBattleText4::
-	text "Aren't you the"
-	line "peeping Tom?"
+	text "Nejsi nahodou"
+	line "posuk?"
 	done
 
 _CeladonGymEndBattleText4::
-	text "I'm"
-	line "in shock!"
+	text "Jsem"
+	line "v soku!"
 	prompt
 
 _CeladonGymAfterBattleText4::
-	text "Oh, you weren't"
-	line "peeping? We get a"
-	cont "lot of gawkers!"
+	text "Och, ty nejsi"
+	line "posuk? Mame tu"
+	cont "spoustu cumilu!"
 	done
 
 _CeladonGymBattleText5::
-	text "Look at my grass"
-	line "#MON!"
+	text "Podivej se na"
+	line "me travove #MON!"
 
-	para "They're so easy"
-	line "to raise!"
+	para "Jsou tak snadno"
+	line "vychovatelni!"
 	done
 
 _CeladonGymEndBattleText5::
-	text "No!"
+	text "Ne!"
 	prompt
 
 _CeladonGymAfterBattleText5::
-	text "We only use grass-"
-	line "type #MON at"
-	cont "our GYM!"
+	text "Pouzivame jen"
+	line "travove #MON v"
+	cont "nasi telocvicne!"
 
-	para "We also use them"
-	line "for making flower"
-	cont "arrangements!"
+	para "Pouzivame je take"
+	line "na delani aranzi"
+	cont "kvetin!"
 	done
 
 _CeladonGymBattleText6::
-	text "Don't bring any"
-	line "bugs or fire"
-	cont "#MON in here!"
+	text "Nenos sem zadne"
+	line "hmyzi ani ohnive"
+	cont "#MON!"
 	done
 
 _CeladonGymEndBattleText6::
-	text "Oh!"
-	line "You!"
+	text "Ach!"
+	line "Ty!"
 	prompt
 
 _CeladonGymAfterBattleText6::
-	text "Our LEADER, ERIKA,"
-	line "might be quiet,"
-	cont "but she's also"
-	cont "very skilled!"
+	text "Nase vudkyne, ERIKA,"
+	line "mozna pusobi tise,"
+	cont "ale je take"
+	cont "velmi schopna!"
 	done
 
 _CeladonGymBattleText7::
-	text "Pleased to meet"
-	line "you. My hobby is"
-	cont "#MON training."
+	text "Rad te poznavam."
+	line "Mym konickem je"
+	cont "trenovani #MON."
 	done
 
 _CeladonGymEndBattleText7::
-	text "Oh!"
-	line "Splendid!"
+	text "Ach!"
+	line "Nadhera!"
 	prompt
 
 _CeladonGymAfterBattleText7::
-	text "I have a blind"
-	line "date coming up."
-	cont "I have to learn"
-	cont "to be polite."
+	text "Mam naslepo domluvene"
+	line "rande."
+	cont "Musim se naucit"
+	cont "byt zdvorily."
 	done
 
 _CeladonGymBattleText8::
-	text "Welcome to"
-	line "CELADON GYM!"
+	text "Vitej v"
+	line "telocvicne CELADON!"
 
-	para "You better not"
-	line "underestimate"
-	cont "girl power!"
+	para "Radsi bys nemel"
+	line "podcenovat"
+	cont "divci silu!"
 	done
 
 _CeladonGymEndBattleText8::
-	text "Oh!"
-	line "Beaten!"
+	text "Ach!"
+	line "Porazena!"
 	prompt
 
 _CeladonGymAfterBattleText8::
-	text "I didn't bring my"
-	line "best #MON!"
+	text "Neprinesla jsem sva"
+	line "nejlepsi #MON!"
 
-	para "Wait 'til next"
-	line "time!"
+	para "Pockej do priste!"
+	line ""
 	done

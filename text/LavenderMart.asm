@@ -1,30 +1,30 @@
 _LavenderMartBaldingGuyText::
-	text "I'm searching for"
-	line "items that raise"
-	cont "the abilities of"
-	cont "#MON during a"
-	cont "single battle."
+	text "Hledam polozky,"
+	line "ktere zvysi"
+	cont "schopnosti #MON"
+	cont "behem jedineho"
+	cont "souboje."
 
-	para "X ATTACK, X"
-	line "DEFEND, X SPEED"
-	cont "and X SPECIAL are"
-	cont "what I'm after."
+	para "X UTOK, X"
+	line "OBRANA, X RYCHLOST"
+	cont "a X SPECIAL jsou"
+	cont "to, co hledam."
 
-	para "Do you know where"
-	line "I can get them?"
+	para "Vis, kde bych je"
+	line "mohl sehnat?"
 	done
 
 _LavenderMartCooltrainerMReviveText::
-	text "You know REVIVE?"
-	line "It revives any"
-	cont "fainted #MON!"
+	text "Znas OZIVENI?"
+	line "Ozivi to kazdeho"
+	cont "omdleleho #MON!"
 	done
 
 _LavenderMartCooltrainerMNuggetText::
-	text "I found a NUGGET"
-	line "in the mountains."
+	text "Nasel jsem NUGGET"
+	line "v horach."
 
-	para "I thought it was"
-	line "useless, but it"
-	cont "sold for ¥5000!"
+	para "Myslel jsem, ze je"
+	line "to k nicemu, ale"
+	cont "prodal jsem to za ¥5000!"
 	done

@@ -1,231 +1,230 @@
 _SaffronGymSabrinaText::
-	text "I had a vision of"
-	line "your arrival!"
+	text "Mela jsem vizi"
+	line "tveho prichodu!"
 
-	para "I have had psychic"
-	line "powers since I"
-	cont "was a child."
+	para "Mam psychicke"
+	line "schopnosti uz od"
+	cont "detstvi."
 
-	para "I first learned"
-	line "to bend spoons"
-	cont "with my mind."
+	para "Nejprve jsem se"
+	line "naucila ohybat"
+	cont "lzice mysli."
 
-	para "I dislike fight-"
-	line "ing, but if you"
-	cont "wish, I will show"
-	cont "you my powers!"
+	para "Nerada bojuji,"
+	line "ale pokud si"
+	cont "prejes, ukazu ti"
+	cont "sve schopnosti!"
 	done
 
 _SaffronGymSabrinaReceivedMarshBadgeText::
-	text "I'm"
-	line "shocked!"
-	cont "But, a loss is a"
-	cont "loss."
+	text "Jsem"
+	line "v soku!"
+	cont "Ale porazka je"
+	cont "porazka."
 
-	para "I admit I didn't"
-	line "work hard enough"
-	cont "to win!"
+	para "Priznavam, ze jsem"
+	line "nedrela dostatecne"
+	cont "tvrde na vyhru!"
 
-	para "You earned the"
-	line "MARSHBADGE!@"
+	para "Ziskal jsi"
+	line "MARSHPLOSKU!@"
 	text_end
 
 _SaffronGymSabrinaPostBattleAdviceText::
-	text "Everyone has"
-	line "psychic power!"
-	cont "People just don't"
-	cont "realize it!"
+	text "Kazdy ma"
+	line "psychickou silu!"
+	cont "Lide si to jen"
+	cont "neuvedomuji!"
 	done
 
 _SaffronGymSabrinaMarshBadgeInfoText::
-	text "The MARSHBADGE"
-	line "makes #MON up"
-	cont "to L70 obey you!"
+	text "MARSHPLOSKA"
+	line "zpusobi, ze te"
+	cont "#MON poslouchaji"
+	cont "az do L70!"
 
-	para "Stronger #MON"
-	line "will become wild,"
-	cont "ignoring your"
-	cont "orders in battle!"
+	para "Silnejsi #MON"
+	line "se stanou divokymi,"
+	cont "ignoruji tve"
+	cont "prikazy v boji!"
 
-	para "Just don't raise"
-	line "your #MON too"
-	cont "much!"
+	para "Jen nezvysuj"
+	line "sve #MON prilis"
+	cont "moc!"
 
-	para "Wait, please take"
-	line "this TM with you!"
+	para "Pockej, vezmi si"
+	line "tento TM s sebou!"
 	done
 
 _SaffronGymSabrinaReceivedTM46Text::
-	text "<PLAYER> received"
+	text "<PLAYER> ziskal"
 	line "TM46!@"
 	text_end
 
 _TM46ExplanationText::
 	text_start
 
-	para "TM46 is PSYWAVE!"
-	line "It uses powerful"
-	cont "psychic waves to"
-	cont "inflict damage!"
+	para "TM46 je PSYWAVE!"
+	line "Pouziva silne"
+	cont "psychicke vlny pro"
+	cont "zpusobeni skod!"
 	done
 
 _SaffronGymSabrinaTM46NoRoomText::
-	text "Your pack is full"
-	line "of other items!"
+	text "Tvuj batoh je plny"
+	line "jinych predmetu!"
 	done
 
 _SaffronGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Hej! Budouci"
+	line "sampione!"
 
-	para "SABRINA's #MON"
-	line "use psychic power"
-	cont "instead of force!"
+	para "SABRININ #MON"
+	line "pouziva psychickou"
+	cont "silu misto sily!"
 
-	para "Fighting #MON"
-	line "are weak against"
-	cont "psychic #MON!"
+	para "Bojovy #MON"
+	line "jsou slabi proti"
+	cont "psychickym #MON!"
 
-	para "They get creamed"
-	line "before they can"
-	cont "even aim a punch!"
+	para "Jsou porazeni"
+	line "driv, nez staci"
+	cont "vubec zasadit ranu!"
 	done
 
 _SaffronGymGuideBeatSabrinaText::
-	text "Psychic power,"
-	line "huh?"
+	text "Psychicka sila,"
+	line "vid?"
 
-	para "If I had that,"
-	line "I'd make a bundle"
-	cont "at the slots!"
+	para "Kdybych ji mel,"
+	line "vydelal bych balik"
+	cont "na automatech!"
 	done
 
 _SaffronGymChanneler1BattleText::
-	text "SABRINA is younger"
-	line "than I, but I"
-	cont "respect her!"
+	text "SABRINA je mladsi"
+	line "nez ja, ale"
+	cont "respektuji ji!"
 	done
 
 _SaffronGymChanneler1EndBattleText::
-	text "Not"
-	line "good enough!"
+	text "Neni"
+	line "dost dobre!"
 	prompt
 
 _SaffronGymChanneler1AfterBattleText::
-	text "In a battle of"
-	line "equals, the one"
-	cont "with the stronger"
-	cont "will wins!"
+	text "V souboji"
+	line "rovnocennych vyhraje"
+	cont "ten s vetsi"
+	cont "vuli!"
 
-	para "If you wish"
-	line "to beat SABRINA,"
-	cont "focus on winning!"
+	para "Pokud chces"
+	line "porazit SABRINU,"
+	cont "soustred se na vitezstvi!"
 	done
 
 _SaffronGymYoungster1BattleText::
-	text "Does our unseen"
-	line "power scare you?"
+	text "Desi te nase"
+	line "neviditelna sila?"
 	done
 
 _SaffronGymYoungster1EndBattleText::
-	text "I never"
-	line "foresaw this!"
+	text "Nikdy jsem"
+	line "to nepredpovedel!"
 	prompt
 
 _SaffronGymYoungster1AfterBattleText::
-	text "Psychic #MON"
-	line "fear only ghosts"
-	cont "and bugs!"
+	text "Psychicke #MON"
+	line "se boji jen duchu"
+	cont "a brouku!"
 	done
 
 _SaffronGymChanneler2BattleText::
-	text "#MON take on"
-	line "the appearance of"
-	cont "their trainers."
+	text "#MON prebiraji"
+	line "vzhled svych"
+	cont "treneru."
 
-	para "Your #MON must"
-	line "be tough, then!"
+	para "Tvoji #MON musi"
+	line "byt pak tuzi!"
 	done
 
 _SaffronGymChanneler2EndBattleText::
-	text "I knew"
-	line "it!"
+	text "Vedel jsem"
+	line "to!"
 	prompt
 
 _SaffronGymChanneler2AfterBattleText::
-	text "I must teach"
-	line "better techniques"
-	cont "to my #MON!"
+	text "Musim naucit"
+	line "sve #MON lepsi"
+	cont "techniky!"
 	done
 
 _SaffronGymYoungster2BattleText::
-	text "You know that"
-	line "power alone isn't"
-	cont "enough!"
+	text "Vis, ze samotna"
+	line "sila nestaci!"
 	done
 
 _SaffronGymYoungster2EndBattleText::
-	text "I don't"
-	line "believe this!"
+	text "Tomu"
+	line "neverim!"
 	prompt
 
 _SaffronGymYoungster2AfterBattleText::
-	text "SABRINA just wiped"
-	line "out the KARATE"
-	cont "MASTER next door!"
+	text "SABRINA prave porazila"
+	line "KARATE"
+	cont "MISTRA od vedle!"
 	done
 
 _SaffronGymChanneler3BattleText::
-	text "You and I, our"
-	line "#MON shall"
-	cont "fight!"
+	text "Ty a ja, nasi"
+	line "#MON budou"
+	cont "bojovat!"
 	done
 
 _SaffronGymChanneler3EndBattleText::
-	text "I lost"
-	line "after all!"
+	text "Nakonec jsem"
+	line "prohral!"
 	prompt
 
 _SaffronGymChanneler3AfterBattleText::
-	text "I knew that this"
-	line "was going to take"
-	cont "place."
+	text "Vedel jsem, ze"
+	line "se to stane."
 	done
 
 _SaffronGymYoungster3BattleText::
-	text "SABRINA is young,"
-	line "but she's also"
-	cont "our LEADER!"
+	text "SABRINA je mlada,"
+	line "ale je take"
+	cont "nase VUDKYNE!"
 
-	para "You won't reach"
-	line "her easily!"
+	para "K ni se snadno"
+	line "nedostanes!"
 	done
 
 _SaffronGymYoungster3EndBattleText::
-	text "I lost"
-	line "my concentration!"
+	text "Ztratil jsem"
+	line "soustredeni!"
 	prompt
 
 _SaffronGymYoungster3AfterBattleText::
-	text "There used to be"
-	line "2 #MON GYMs in"
-	cont "SAFFRON."
+	text "Kdyzsi tu byly"
+	line "2 #MON GYMY v"
+	cont "SAFFRONU."
 
-	para "The FIGHTING DOJO"
-	line "next door lost"
-	cont "its GYM status"
-	cont "when we went and"
-	cont "creamed them!"
+	para "BOJOVE DOJO"
+	line "vedle ztratilo"
+	cont "status GYMU"
+	cont "kdyz jsme je silene"
+	cont "porazili!"
 	done
 
 _SaffronGymYoungster4BattleText::
 	text "SAFFRON #MON"
-	line "GYM is famous for"
-	cont "its psychics!"
+	line "GYM je znamy svymi"
+	cont "psychiky!"
 
-	para "You want to see"
-	line "SABRINA!"
-	cont "I can tell!"
+	para "Chces videt"
+	line "SABRINU!"
+	cont "To vim!"
 	done
 
 _SaffronGymYoungster4EndBattleText::
@@ -233,7 +232,7 @@ _SaffronGymYoungster4EndBattleText::
 	prompt
 
 _SaffronGymYoungster4AfterBattleText::
-	text "That's right! I"
-	line "used telepathy to"
-	cont "read your mind!"
+	text "To je pravda! Ja"
+	line "pouzil telepatii"
+	cont "abych cetl tvou mysl!"
 	done

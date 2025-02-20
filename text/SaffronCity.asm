@@ -1,67 +1,66 @@
 _SaffronCityRocket1Text::
-	text "What do you want?"
-	line "Get lost!"
+	text "Co chces?"
+	line "Zmizni!"
 	done
 
 _SaffronCityRocket2Text::
-	text "BOSS said he'll"
-	line "take this town!"
+	text "SEF rikal, ze"
+	line "prevezme toto mesto!"
 	done
 
 _SaffronCityRocket3Text::
-	text "Get out of the"
-	line "way!"
+	text "Uhni z cesty!"
 	done
 
 _SaffronCityRocket4Text::
-	text "SAFFRON belongs"
-	line "to TEAM ROCKET!"
+	text "SAFFRON patri"
+	line "tymu ROCKET!"
 	done
 
 _SaffronCityRocket5Text::
-	text "Being evil makes"
-	line "me feel so alive!"
+	text "Zlo mi dava"
+	line "pocit, ze ziju!"
 	done
 
 _SaffronCityRocket6Text::
-	text "Ow! Watch where"
-	line "you're walking!"
+	text "Au! Koukej, kam"
+	line "slapes!"
 	done
 
 _SaffronCityRocket7Text::
-	text "With SILPH under"
-	line "control, we can"
-	cont "exploit #MON"
-	cont "around the world!"
+	text "SILPH mame pod"
+	line "kontrolou, muzeme"
+	cont "#MON vyuzivat"
+	cont "po celem svete!"
 	done
 
 _SaffronCityScientistText::
-	text "You beat TEAM"
-	line "ROCKET all alone?"
-	cont "That's amazing!"
+	text "Porazil jsi TYM"
+	line "ROCKET sam?"
+	cont "To je uzasne!"
 	done
 
 _SaffronCitySilphWorkerMText::
-	text "Yeah! TEAM ROCKET"
-	line "is gone!"
-	cont "It's safe to go"
-	cont "out again!"
+	text "Jo! TYM ROCKET"
+	line "je pryc!"
+	cont "Je bezpecne"
+	cont "jit zase ven!"
 	done
 
 _SaffronCitySilphWorkerFText::
-	text "People should be"
-	line "flocking back to"
-	cont "SAFFRON now."
+	text "Lide by se ted"
+	line "meli vracet"
+	cont "do SAFFRON."
 	done
 
 _SaffronCityGentlemanText::
-	text "I flew here on my"
-	line "PIDGEOT when I"
-	cont "read about SILPH."
+	text "Priletel jsem sem na"
+	line "PIDGEOTU, kdyz jsem"
+	cont "cetl o SILPH."
 
-	para "It's already over?"
-	line "I missed the"
-	cont "media action."
+	para "Uz je po vsem?"
+	line "Zmeskal jsem"
+	cont "medialni akci."
 	done
 
 _SaffronCityPidgeotText::
@@ -69,31 +68,31 @@ _SaffronCityPidgeotText::
 	text_end
 
 _SaffronCityRockerText::
-	text "I saw ROCKET"
-	line "BOSS escaping"
-	cont "SILPH's building."
+	text "Videl jsem sefa"
+	line "ROCKET unikat z"
+	cont "budovy SILPH."
 	done
 
 _SaffronCityRocket8Text::
-	text "I'm a security"
-	line "guard."
+	text "Jsem bezpecnostni"
+	line "hlidac."
 
-	para "Suspicious kids I"
-	line "don't allow in!"
+	para "Podezrele deti"
+	line "nepoustim dovnitr!"
 	done
 
 _SaffronCityRocket9Text::
 	text "..."
-	line "Snore..."
+	line "Chrrr..."
 
-	para "Hah! He's taking"
-	line "a snooze!"
+	para "Ha! On si dava"
+	line "slofika!"
 	done
 
 _SaffronCitySignText::
 	text "SAFFRON CITY"
-	line "Shining, Golden"
-	cont "Land of Commerce"
+	line "Zarici, zlata"
+	cont "zeme obchodu"
 	done
 
 _SaffronCityFightingDojoSignText::
@@ -102,51 +101,51 @@ _SaffronCityFightingDojoSignText::
 
 _SaffronCityGymSignText::
 	text "SAFFRON CITY"
-	line "#MON GYM"
-	cont "LEADER: SABRINA"
+	line "#MON TELOCVICNA"
+	cont "VEDOUCI: SABRINA"
 
-	para "The Master of"
-	line "Psychic #MON!"
+	para "Mistryne"
+	line "Psychickych #MON!"
 	done
 
 _SaffronCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "POKER TYPY"
 
-	para "FULL HEAL cures"
-	line "all ailments like"
-	cont "sleep and burns."
+	para "UPLNE VYLECENI leci"
+	line "vsechny neduhy jako"
+	cont "spanek a popaleniny."
 
-	para "It costs a bit"
-	line "more, but it's"
-	cont "more convenient."
+	para "Stoji to trochu"
+	line "vice, ale je to"
+	cont "pohodlnejsi."
 	done
 
 _SaffronCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "POKER TYPY"
 
-	para "New GREAT BALL"
-	line "offers improved"
-	cont "capture rates."
+	para "Novy SKVELY MIC"
+	line "nabizi lepsi"
+	cont "miru uspesnosti."
 
-	para "Try it on those"
-	line "hard-to-catch"
+	para "Zkus to na tech"
+	line "tezko polapitelnych"
 	cont "#MON."
 	done
 
 _SaffronCitySilphCoSignText::
 	text "SILPH CO."
-	line "OFFICE BUILDING"
+	line "KANCELARSKA BUDOVA"
 	done
 
 _SaffronCityMrPsychicsHouseSignText::
-	text "MR.PSYCHIC's"
-	line "HOUSE"
+	text "DUM PANA"
+	line "PSYCHIKA"
 	done
 
 _SaffronCitySilphCoLatestProductSignText::
-	text "SILPH's latest"
-	line "product!"
+	text "Nejnovejsi"
+	line "produkt SILPH!"
 
-	para "Release to be"
-	line "determined..."
+	para "Uvedeni na trh"
+	line "bude urceno..."
 	done

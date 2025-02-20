@@ -1,115 +1,116 @@
+
 _RockTunnel1FHiker1BattleText::
-	text "This tunnel goes"
-	line "a long way, kid!"
+	text "Tento tunel jde"
+	line "dlouhou cestu, kluku!"
 	done
 
 _RockTunnel1FHiker1EndBattleText::
 	text "Doh!"
-	line "You win!"
+	line "Vyhral jsi!"
 	prompt
 
 _RockTunnel1FHiker1AfterBattleText::
-	text "Watch for ONIX!"
-	line "It can put the"
-	cont "squeeze on you!"
+	text "Dej si pozor na ONIXE!"
+	line "Muze te"
+	cont "rozmacknout!"
 	done
 
 _RockTunnel1FHiker2BattleText::
-	text "Hmm. Maybe I'm"
-	line "lost in here..."
+	text "Hmm. Mozna jsem"
+	line "se tu ztratil..."
 	done
 
 _RockTunnel1FHiker2EndBattleText::
-	text "Ease up!"
-	line "What am I doing?"
-	cont "Which way is out?"
+	text "Zklidni!"
+	line "Co to delam?"
+	cont "Ktera cesta ven?"
 	prompt
 
 _RockTunnel1FHiker2AfterBattleText::
-	text "That sleeping"
-	line "#MON on ROUTE"
-	cont "12 forced me to"
-	cont "take this detour."
+	text "Ten spici"
+	line "#MON na ROUCE"
+	cont "12 me prinutil"
+	cont "tuto objizdku."
 	done
 
 _RockTunnel1FHiker3BattleText::
-	text "Outsiders like"
-	line "you need to show"
-	cont "me some respect!"
+	text "Cizinci jako"
+	line "ty mi musis projevit"
+	cont "trochu respektu!"
 	done
 
 _RockTunnel1FHiker3EndBattleText::
-	text "I give!"
+	text "Vzdavam se!"
 	prompt
 
 _RockTunnel1FHiker3AfterBattleText::
-	text "You're talented"
-	line "enough to hike!"
+	text "Jsi dostatecne"
+	line "talentovany, abys sel!"
 	done
 
 _RockTunnel1FSuperNerdBattleText::
-	text "#MON fight!"
-	line "Ready, go!"
+	text "#MON souboj!"
+	line "Pripraveni, start!"
 	done
 
 _RockTunnel1FSuperNerdEndBattleText::
-	text "Game"
-	line "over!"
+	text "Hra"
+	line "skoncena!"
 	prompt
 
 _RockTunnel1FSuperNerdAfterBattleText::
-	text "Oh well, I'll get"
-	line "a ZUBAT as I go!"
+	text "No, ziskam"
+	line "ZUBATA po ceste!"
 	done
 
 _RockTunnel1FCooltrainerF1BattleText::
-	text "Eek! Don't try"
-	line "anything funny in"
-	cont "the dark!"
+	text "Eek! Nepokousej se"
+	line "o nic vtipneho v"
+	cont "temnote!"
 	done
 
 _RockTunnel1FCooltrainerF1EndBattleText::
-	text "It"
-	line "was too dark!"
+	text "Bylo"
+	line "prilis temne!"
 	prompt
 
 _RockTunnel1FCooltrainerF1AfterBattleText::
-	text "I saw a MACHOP"
-	line "in this tunnel!"
+	text "Videla jsem MACHOPA"
+	line "v tomto tunelu!"
 	done
 
 _RockTunnel1FCooltrainerF2BattleText::
-	text "I came this far"
-	line "for #MON!"
+	text "Prisla jsem sem"
+	line "k vuli #MON!"
 	done
 
 _RockTunnel1FCooltrainerF2EndBattleText::
-	text "I'm"
-	line "out of #MON!"
+	text "Jsem"
+	line "bez #MON!"
 	prompt
 
 _RockTunnel1FCooltrainerF2AfterBattleText::
-	text "You looked cute"
-	line "and harmless!"
+	text "Vypadal jsi roztomile"
+	line "a neskodne!"
 	done
 
 _RockTunnel1FCooltrainerF3BattleText::
-	text "You have #MON!"
-	line "Let's start!"
+	text "Mas #MON!"
+	line "Zacneme!"
 	done
 
 _RockTunnel1FCooltrainerF3EndBattleText::
-	text "You"
-	line "play hard!"
+	text "Hrajes"
+	line "tvrde!"
 	prompt
 
 _RockTunnel1FCooltrainerF3AfterBattleText::
-	text "Whew! I'm all"
-	line "sweaty now!"
+	text "Uf! Ted jsem"
+	line "cela zpocena!"
 	done
 
 _RockTunnel1FSignText::
-	text "ROCK TUNNEL"
-	line "CERULEAN CITY -"
-	cont "LAVENDER TOWN"
+	text "ROCK TUNEL"
+	line "CERULEAN MESTO -"
+	cont "LAVENDROVE MESTO"
 	done

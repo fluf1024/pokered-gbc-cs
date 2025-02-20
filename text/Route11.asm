@@ -1,133 +1,132 @@
 _Route11Gambler1BattleText::
-	text "Win, lose or draw!"
+	text "Vyhra, prohra nebo remiza!"
 	done
 
 _Route11Gambler1EndBattleText::
 	text "Atcha!"
-	line "Didn't go my way!"
+	line "Neslo to podle mych predstav!"
 	prompt
 
 _Route11Gambler1AfterBattleText::
-	text "#MON is life!"
-	line "And to live is to"
-	cont "gamble!"
+	text "#MON je zivot!"
+	line "A zit znamena"
+	cont "riskovat!"
 	done
 
 _Route11Gambler2BattleText::
-	text "Competition! I"
-	line "can't get enough!"
+	text "Soutezeni! Nemuzu"
+	line "se toho nabazit!"
 	done
 
 _Route11Gambler2EndBattleText::
-	text "I had"
-	line "a chance!"
+	text "Mel jsem"
+	line "sanci!"
 	prompt
 
 _Route11Gambler2AfterBattleText::
-	text "You can't be a"
-	line "coward in the"
-	cont "world of #MON!"
+	text "Nemuzes byt"
+	line "zbabelec v"
+	cont "svete #MON!"
 	done
 
 _Route11Youngster1BattleText::
-	text "Let's go, but"
-	line "don't cheat!"
+	text "Pojdme na to, ale"
+	line "nepodvadej!"
 	done
 
 _Route11Youngster1EndBattleText::
-	text "Huh?"
-	line "That's not right!"
+	text "Coze?"
+	line "To neni spravne!"
 	prompt
 
 _Route11Youngster1AfterBattleText::
-	text "I did my best! I"
-	line "have no regrets!"
+	text "Dal jsem do toho vse! Nemam"
+	line "ceho litovat!"
 	done
 
 _Route11SuperNerd1BattleText::
-	text "Careful!"
-	line "I'm laying down"
-	cont "some cables!"
+	text "Opatrne!"
+	line "Pokladam nejake"
+	cont "kabely!"
 	done
 
 _Route11SuperNerd1EndBattleText::
-	text "That"
-	line "was electric!"
+	text "To"
+	line "bylo elektrizujici!"
 	prompt
 
 _Route11SuperNerd1AfterBattleText::
-	text "Spread the word"
-	line "to save energy!"
+	text "Reknete dal,"
+	line "at se setri energie!"
 	done
 
 _Route11Youngster2BattleText::
-	text "I just became a"
-	line "trainer! But, I"
-	cont "think I can win!"
+	text "Prave jsem se stal"
+	line "trenerem! Ale myslim,"
+	cont "ze muzu vyhrat!"
 	done
 
 _Route11Youngster2EndBattleText::
-	text "My"
-	line "#MON couldn't!"
+	text "Muj"
+	line "#MON nemohl!"
 	prompt
 
 _Route11Youngster2AfterBattleText5::
-	text "What do you want?"
-	line "Leave me alone!"
+	text "Co chces?"
+	line "Nech me na pokoji!"
 	done
 
 _Route11Gambler3BattleText::
-	text "Fwahaha! I have"
-	line "never lost!"
+	text "Fwahaha! Nikdy jsem"
+	line "neprohral!"
 	done
 
 _Route11Gambler3EndBattleText::
-	text "My"
-	line "first loss!"
+	text "Moje"
+	line "prvni prohra!"
 	prompt
 
 _Route11Gambler3AfterBattleText::
-	text "Luck of the draw!"
-	line "Just luck!"
+	text "Stesti z losu!"
+	line "Jen stesti!"
 	done
 
 _Route11Gambler4BattleText::
-	text "I have never won"
-	line "before..."
+	text "Jeste jsem nikdy nevyhral..."
 	done
 
 _Route11Gambler4EndBattleText::
-	text "I saw"
-	line "this coming..."
+	text "Tusil jsem,"
+	line "ze to prijde..."
 	prompt
 
 _Route11Gambler4AfterBattleText::
-	text "It's just luck."
-	line "Luck of the draw."
+	text "Je to jen stesti."
+	line "Stesti z losu."
 	done
 
 _Route11Youngster3BattleText::
-	text "I'm the best in"
-	line "my class!"
+	text "Jsem nejlepsi ze"
+	line "sve tridy!"
 	done
 
 _Route11Youngster3EndBattleText::
-	text "Darn!"
-	line "I need to make my"
-	cont "#MON stronger!"
+	text "Sakra!"
+	line "Musim udelat ze svych"
+	cont "#MON silnejsi!"
 	prompt
 
 _Route11Youngster3AfterBattleText::
-	text "There's a fat"
-	line "#MON that"
-	cont "comes down from"
-	cont "the mountains."
+	text "Je tu tlusty"
+	line "#MON, ktery"
+	cont "prichazi z"
+	cont "hor."
 
-	para "It's strong if"
-	line "you can get it."
+	para "Je silny, pokud ho"
+	line "ziskas."
 	done
 
 _Route11SuperNerd2BattleText::
-	text "Watch out for"
-	line "live wires!"
+	text "Pozor na zive"
+	line "draty!"
 	done

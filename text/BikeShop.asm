@@ -1,71 +1,70 @@
 _BikeShopClerkWelcomeText::
-	text "Hi! Welcome to"
-	line "our BIKE SHOP."
+	text "Ahoj! Vitej v"
+	line "nasem OBCHODE KOLY."
 
-	para "Have we got just"
-	line "the BIKE for you!"
+	para "Mame pro tebe prave"
+	line "to KOLO!"
 	prompt
 
 _BikeShopClerkDoYouLikeItText::
-	text "It's a cool BIKE!"
-	line "Do you want it?"
+	text "To je paradni KOLO!"
+	line "Chces ho?"
 	done
 
 _BikeShopCantAffordText::
-	text "Sorry! You can't"
-	line "afford it!"
+	text "Promin! Nemas na to"
+	line "dost penez!"
 	prompt
 
 _BikeShopClerkOhThatsAVoucherText::
-	text "Oh, that's..."
+	text "Ach, to je..."
 
-	para "A BIKE VOUCHER!"
+	para "Poukaz na KOLO!"
 
-	para "OK! Here you go!"
+	para "Dobre! Tady mas!"
 	prompt
 
 _BikeShopExchangedVoucherText::
-	text "<PLAYER> exchanged"
-	line "the BIKE VOUCHER"
-	cont "for a BICYCLE.@"
+	text "<PLAYER> vymenil"
+	line "POUKAZ na KOLO"
+	cont "za BICYKL.@"
 	text_end
 
 _BikeShopComeAgainText::
-	text "Come back again"
-	line "some time!"
+	text "Zase se nekdy"
+	line "zastav!"
 	done
 
 _BikeShopClerkHowDoYouLikeYourBicycleText::
-	text "How do you like"
-	line "your new BICYCLE?"
+	text "Jak se ti libi"
+	line "tvuj novy BICYKL?"
 
-	para "You can take it"
-	line "on CYCLING ROAD"
-	cont "and in caves!"
+	para "Muzes ho vzit na"
+	line "CYKLISTICKOU CESTU"
+	cont "a do jeskyni!"
 	done
 
 _BikeShopBagFullText::
-	text "You better make"
-	line "room for this!"
+	text "Radeji si udelej"
+	line "misto pro tohle!"
 	done
 
 _BikeShopMiddleAgedWomanText::
-	text "A plain city BIKE"
-	line "is good enough"
-	cont "for me!"
+	text "Jednoduche mestske KOLO"
+	line "je pro me dost dobre"
 
-	para "You can't put a"
-	line "shopping basket"
-	cont "on an MTB!"
+	cont "Nemuzes dat"
+	line "nakupni kosik"
+	cont "na MTB!"
 	done
 
 _BikeShopYoungsterTheseBikesAreExpensiveText::
-	text "These BIKEs are"
-	line "cool, but they're"
-	cont "way expensive!"
+	text "Tato KOLA jsou"
+	line "skvela, ale jsou"
+	cont "velmi draha!"
 	done
 
 _BikeShopYoungsterCoolBikeText::
-	text "Wow. Your BIKE is"
-	line "really cool!"
+	text "Wow. Tvoje KOLO je"
+	line "opravdu skvele!"
 	done

@@ -1,12 +1,12 @@
 _CeladonPokecenterGentlemanText::
-	text "# FLUTE awakens"
-	line "#MON with a"
-	cont "sound that only"
-	cont "they can hear!"
+	text "# FLETNA probudi"
+	line "#MON s"
+	cont "zvukem, ktery slysi"
+	cont "pouze oni!"
 	done
 
 _CeladonPokecenterBeautyText::
-	text "I rode uphill on"
-	line "CYCLING ROAD from"
-	cont "FUCHSIA!"
+	text "Jela jsem do kopce"
+	line "po CYKLISTICKE CESTE"
+	cont "z FUCHSIE!"
 	done

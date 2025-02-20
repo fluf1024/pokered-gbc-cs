@@ -1,67 +1,67 @@
 _CeladonMansion3FProgrammerText::
-	text "Me? I'm the"
-	line "programmer!"
+	text "Ja? Jsem"
+	line "programator!"
 	done
 
 _CeladonMansion3FGraphicArtistText::
-	text "I'm the graphic"
-	line "artist!"
-	cont "I drew you!"
+	text "Jsem graficky"
+	line "umelec!"
+	cont "Nakreslil jsem te!"
 	done
 
 _CeladonMansion3FWriterText::
-	text "I wrote the story!"
-	line "Isn't ERIKA cute?"
+	text "Napsal jsem pribeh!"
+	line "Neni ERIKA roztomila?"
 
-	para "I like MISTY a"
-	line "lot too!"
+	para "Mam rad i MISTY"
+	line "opravdu hodne!"
 
-	para "Oh, and SABRINA,"
-	line "I like her!"
+	para "Oh, a SABRINA,"
+	line "tu mam rad!"
 	done
 
 _CeladonMansion3FGameDesignerText::
-	text "Is that right?"
+	text "Opravdu?"
 
-	para "I'm the game"
+	para "Jsem herni"
 	line "designer!"
 
-	para "Filling up your"
-	line "#DEX is tough,"
-	cont "but don't quit!"
+	para "Vyplneni tveho"
+	line "#DEX je narocne,"
+	cont "ale nevzdavej to!"
 
-	para "When you finish,"
-	line "come tell me!"
+	para "Az budes hotov,"
+	line "prijd mi rict!"
 	done
 
 _CeladonMansion3FGameDesignerCompletedDexText::
-	text "Wow! Excellent!"
-	line "You completed"
-	cont "your #DEX!"
-	cont "Congratulations!"
+	text "Wow! Vyborne!"
+	line "Dokoncil jsi"
+	cont "sveho #DEX!"
+	cont "Gratuluji!"
 	cont "...@"
 	text_end
 
 _CeladonMansion3FGameProgramPCText::
-	text "It's the game"
-	line "program! Messing"
-	cont "with it could bug"
-	cont "out the game!"
+	text "To je herni"
+	line "program! Zasahovat"
+	cont "do nej by mohlo"
+	cont "rozbit hru!"
 	done
 
 _CeladonMansion3FPlayingGamePCText::
-	text "Someone's playing"
-	line "a game instead of"
-	cont "working!"
+	text "Nekdo hraje"
+	line "hru misto"
+	cont "pracovani!"
 	done
 
 _CeladonMansion3FGameScriptPCText::
-	text "It's the script!"
-	line "Better not look"
-	cont "at the ending!"
+	text "To je scenar!"
+	line "Radeji se"
+	cont "nedivej na konec!"
 	done
 
 _CeladonMansion3FDevRoomSignText::
-	text "GAME FREAK"
-	line "Development Room"
+	text "Herni"
+	line "vyvojova mistnost"
 	done

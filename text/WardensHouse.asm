@@ -1,5 +1,5 @@
 _WardensHouseWardenGibberish1Text::
-	text "WARDEN: Hif fuff"
+	text "OPATROVNIK: Hif fuff"
 	line "hefifoo!"
 
 	para "Ha lof ha feef ee"
@@ -8,7 +8,7 @@ _WardensHouseWardenGibberish1Text::
 	done
 
 _WardensHouseWardenGibberish2Text::
-	text "Ah howhee ho hoo!"
+	text "Ach howhee ho hoo!"
 	line "Eef ee hafahi ho!"
 	done
 
@@ -18,69 +18,69 @@ _WardensHouseWardenGibberish3Text::
 	done
 
 _WardensHouseWardenGaveTheGoldTeethText::
-	text "<PLAYER> gave the"
-	line "GOLD TEETH to the"
-	cont "WARDEN!@"
+	text "<PLAYER> dal"
+	line "ZLATE ZUBY"
+	cont "OPATROVNIKOVI!@"
 	text_end
 
 _WardensHouseWardenTeethPoppedInHisTeethText::
 	text_start
 
-	para "The WARDEN popped"
-	line "in his teeth!"
+	para "OPATROVNIK si"
+	line "nasadil zuby!"
 	prompt
 
 _WardensHouseWardenThanksText::
-	text "WARDEN: Thanks,"
-	line "kid! No one could"
-	cont "understand a word"
-	cont "that I said."
+	text "OPATROVNIK: Diky,"
+	line "decko! Nikdo"
+	cont "nerozumel ani"
+	cont "slovo, ktere jsem rikal."
 
-	para "I couldn't work"
-	line "that way."
-	cont "Let me give you"
-	cont "something for"
-	cont "your trouble."
+	para "Nemohl jsem tak"
+	line "pracovat."
+	cont "Dovol mi, abych"
+	cont "ti dal neco za"
+	cont "tvou namahu."
 	prompt
 
 _WardensHouseWardenReceivedHM04Text::
-	text "<PLAYER> received"
+	text "<PLAYER> dostal"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _WardensHouseWardenHM04ExplanationText::
-	text "WARDEN: HM04"
-	line "teaches STRENGTH!"
+	text "OPATROVNIK: HM04"
+	line "uci SILU!"
 
-	para "It lets #MON"
-	line "move boulders"
-	cont "when you're out-"
-	cont "side of battle."
+	para "To umoznuje #MON"
+	line "presouvat balvany"
+	cont "kdyz nejsi v"
+	cont "boji."
 
-	para "Oh yes, did you"
-	line "find SECRET HOUSE"
-	cont "in SAFARI ZONE?"
+	para "Ach ano, nasel jsi"
+	line "TAJNY DUM ve"
+	cont "SAFARI ZONE?"
 
-	para "If you do, you"
-	line "win an HM!"
+	para "Pokud ano, vyhrajes"
+	line "HM!"
 
-	para "I hear it's the"
-	line "rare SURF HM."
+	para "Slysel jsem, ze"
+	line "je to vzacny HM SURF."
 	done
 
 _WardensHouseWardenHM04NoRoomText::
-	text "Your pack is"
-	line "stuffed full!"
+	text "Tvuj batoh je"
+	line "plny!"
 	done
 
 _WardensHouseDisplayPhotosAndFossilsText::
-	text "#MON photos"
-	line "and fossils."
+	text "Fotografie"
+	line "a fosilie #MON."
 	done
 
 _WardensHouseDisplayMerchandiseText::
-	text "Old #MON"
-	line "merchandise."
+	text "Stare zbozi"
+	line "#MON."
 	done

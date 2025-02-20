@@ -1,51 +1,50 @@
 _Route16Biker1BattleText::
-	text "What do you want?"
+	text "Co chces?"
 	done
 
 _Route16Biker1EndBattleText::
-	text "Don't you"
-	line "dare laugh!"
+	text "Ani se"
+	line "neopovazuj smat!"
 	prompt
 
 _Route16Biker1AfterBattleText::
-	text "We like just"
-	line "hanging here,"
-	cont "what's it to you?"
+	text "Radi se tady jen"
+	line "toulame, co je ti do toho?"
 	done
 
 _Route16Biker2BattleText::
-	text "Nice BIKE!"
-	line "Hand it over!"
+	text "Pekna KOLO!"
+	line "Odevzdej ho!"
 	done
 
 _Route16Biker2EndBattleText::
-	text "Knock"
-	line "out!"
+	text "Vyrazeno"
+	line "ze hry!"
 	prompt
 
 _Route16Biker2AfterBattleText::
-	text "Forget it, who"
-	line "needs your BIKE!"
+	text "Na to zapomen, kdo"
+	line "by potreboval tve KOLO!"
 	done
 
 _Route16Biker3BattleText::
-	text "Come out and play,"
-	line "little mouse!"
+	text "Pojd si hrat,"
+	line "mala mysko!"
 	done
 
 _Route16Biker3EndBattleText::
-	text "You"
-	line "little rat!"
+	text "Ty"
+	line "maly kryso!"
 	prompt
 
 _Route16Biker3AfterBattleText::
-	text "I hate losing!"
-	line "Get away from me!"
+	text "Nesnasim prohry!"
+	line "Jdi ode me pryc!"
 	done
 
 _Route16biker4BattleText::
-	text "Hey, you just"
-	line "bumped me!"
+	text "Hej, prave jsi"
+	line "do me narazil!"
 	done
 
 _Route16Biker4EndBattleText::
@@ -53,68 +52,67 @@ _Route16Biker4EndBattleText::
 	prompt
 
 _Route16Biker4AfterBattleText::
-	text "You can also get"
-	line "to FUCHSIA from"
-	cont "VERMILION using a"
-	cont "coastal road."
+	text "Do FUCHSIE se da take dostat"
+	line "z VERMILIONU po"
+	cont "pobrezni ceste."
 	done
 
 _Route16Biker5BattleText::
-	text "I'm feeling"
-	line "hungry and mean!"
+	text "Mame hlad a"
+	line "spatnou naladu!"
 	done
 
 _Route16Biker5EndBattleText::
-	text "Bad,"
-	line "bad, bad!"
+	text "Spatne,"
+	line "spatne, spatne!"
 	prompt
 
 _Route16Biker5AfterBattleText::
-	text "I like my #MON"
-	line "ferocious! They"
-	cont "tear up enemies!"
+	text "Mam rad sve #MON,"
+	line "kdyz jsou dravi! Oni"
+	cont "trhaji nepratele na kusy!"
 	done
 
 _Route16Biker6BattleText::
-	text "Sure, I'll go!"
+	text "Jasne, jdu na to!"
 	done
 
 _Route16Biker6EndBattleText::
-	text "Don't make"
-	line "me mad!"
+	text "Nedrazdi"
+	line "me!"
 	prompt
 
 _Route16Biker6AfterBattleText::
-	text "I like harassing"
-	line "people with my"
-	cont "vicious #MON!"
+	text "Rad otravuji"
+	line "lidi se svymi"
+	cont "zlovestnymi #MON!"
 	done
 
 _Route16Text7::
-	text "A sleeping #MON"
-	line "blocks the way!"
+	text "Spici #MON"
+	line "blokuje cestu!"
 	done
 
 _Route16SnorlaxWokeUpText::
-	text "SNORLAX woke up!"
+	text "SNORLAX se probudil!"
 
-	para "It attacked in a"
-	line "grumpy rage!"
+	para "Zautocil ve stavu"
+	line "rozcilene zurivosti!"
 	done
 
 _Route16SnorlaxReturnedToMountainsText::
-	text "With a big yawn,"
-	line "SNORLAX returned"
-	cont "to the mountains!"
+	text "S velkym zivnutim"
+	line "SNORLAX se vratil"
+	cont "do hor!"
 	done
 
 _Route16CyclingRoadSignText::
-	text "Enjoy the slope!"
-	line "CYCLING ROAD"
+	text "Uzijte si svah!"
+	line "CYKLOSTEZKA"
 	done
 
 _Route16SignText::
-	text "ROUTE 16"
+	text "TRASA 16"
 	line "CELADON CITY -"
 	cont "FUCHSIA CITY"
 	done

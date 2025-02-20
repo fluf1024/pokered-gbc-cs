@@ -4,102 +4,102 @@ _SSAnne1FRoomsWigglytuffText::
 	text_end
 
 _SSAnne1FRoomsGentleman1BattleText::
-	text "I travel alone"
-	line "on my journeys!"
+	text "Cestuju sam"
+	line "na svych cestach!"
 
-	para "My #MON are my"
-	line "only friends!"
+	para "Moji #MON jsou moji"
+	line "jedini pratele!"
 	done
 
 _SSAnne1FRoomsGentleman1EndBattleText::
-	text "My, my"
-	line "friends..."
+	text "Moji, moji"
+	line "pratele..."
 	prompt
 
 _SSAnne1FRoomsGentleman1AfterBattleText::
-	text "You should be"
-	line "nice to friends!"
+	text "Mel bys byt"
+	line "mily na pratele!"
 	done
 
 _SSAnne1FRoomsGentleman2BattleText::
-	text "You pup! How dare"
-	line "you barge in!"
+	text "Ty spratku! Jak se"
+	line "opovazujes vtrhnout sem!"
 	done
 
 _SSAnne1FRoomsGentleman2EndBattleText::
-	text "Humph!"
-	line "You rude child!"
+	text "Hm!"
+	line "Ty nevychovane dite!"
 	prompt
 
 _SSAnne1FRoomsGentleman2AfterBattleText::
-	text "I wish to be left"
-	line "alone! Get out!"
+	text "Chci byt nechan"
+	line "o samote! Vypadni!"
 	done
 
 _SSAnne1FRoomsYoungsterBattleText::
-	text "I love #MON!"
-	line "Do you?"
+	text "Miluji #MON!"
+	line "A ty?"
 	done
 
 _SSAnne1FRoomsYoungsterEndBattleText::
 	text "Wow! "
-	line "You're great!"
+	line "Jsi skvely!"
 	prompt
 
 _SSAnne1FRoomsYoungsterAfterBattleText::
-	text "Let me be your"
-	line "friend, OK?"
+	text "Nech me byt tvym"
+	line "pritelem, OK?"
 
-	para "Then we can trade"
-	line "#MON!"
+	para "Pak muzeme"
+	line "vymenovat #MON!"
 	done
 
 _SSAnne1FRoomsCooltrainerFBattleText::
-	text "I collected these"
-	line "#MON from all"
-	cont "around the world!"
+	text "Nasbiral jsem tyto"
+	line "#MON z celeho"
+	cont "sveta!"
 	done
 
 _SSAnne1FRoomsCooltrainerFEndBattleText::
-	text "Oh no!"
-	line "I went around the"
-	cont "world for these!"
+	text "Ach ne!"
+	line "Procestoval jsem svet"
+	cont "pro ne!"
 	prompt
 
 _SSAnne1FRoomsCooltrainerFAfterBattleText::
-	text "You hurt my poor"
-	line "worldly #MON!"
+	text "Zranil jsi me"
+	line "ubohe svetove #MON!"
 
-	para "I demand that you"
-	line "heal them at a"
-	cont "#MON CENTER!"
+	para "Pozaduji, aby ses"
+	line "o ne postaral na"
+	cont "#MON CENTRUM!"
 	done
 
 _SSAnne1FRoomsGirl1Text::
-	text "Waiter, I would"
-	line "like a cherry pie"
-	cont "please!"
+	text "Cisniku, dala bych si"
+	line "tresnovy kolac,"
+	cont "prosim!"
 	done
 
 _SSAnne1FRoomsMiddleAgedManText::
-	text "A cruise is so"
-	line "elegant yet cozy!"
+	text "Plavba je tak"
+	line "elegantni a presto utulna!"
 	done
 
 _SSAnne1FRoomsLittleGirlText::
-	text "I always travel"
-	line "with WIGGLYTUFF!"
+	text "Vzdy cestuji"
+	line "s WIGGLYTUFFEM!"
 	done
 
 _SSAnne1FRoomsGirl2Text::
-	text "We are cruising"
-	line "around the world."
+	text "Plavime se"
+	line "kolem sveta."
 	done
 
 _SSAnne1FRoomsGentleman3Text::
-	text "Ssh! I'm a GLOBAL"
-	line "POLICE agent!"
+	text "Psst! Jsem agent"
+	line "GLOBALNI POLICIE!"
 
-	para "I'm on the trail"
-	line "of TEAM ROCKET!"
+	para "Sleduji stopu"
+	line "TEAMU ROCKET!"
 	done

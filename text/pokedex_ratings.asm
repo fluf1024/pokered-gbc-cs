@@ -1,117 +1,116 @@
 _DexCompletionText::
-	text "#DEX comp-"
-	line "letion is:"
+	text "#DEX dokoncen-"
+	line "i je:"
 
 	para "@"
 	text_decimal hDexRatingNumMonsSeen, 1, 3
-	text " #MON seen"
+	text " #MON videno"
 	line "@"
 	text_decimal hDexRatingNumMonsOwned, 1, 3
-	text " #MON owned"
+	text " #MON vlastneno"
 
-	para "PROF.OAK's"
-	line "Rating:"
+	para "PROF.OAKovo"
+	line "Hodnoceni:"
 	prompt
 
 _DexRatingText_Own0To9::
-	text "You still have"
-	line "lots to do."
-	cont "Look for #MON"
-	cont "in grassy areas!"
+	text "Stale mas"
+	line "hodne co delat."
+	cont "Hledej #MON"
+	cont "v travnatych oblastech!"
 	done
 
 _DexRatingText_Own10To19::
-	text "You're on the"
-	line "right track! "
-	cont "Get a FLASH HM"
-	cont "from my AIDE!"
+	text "Jsi na spravne"
+	line "ceste!"
+	cont "Ziskej BLESK HM"
+	cont "od meho ASISTENTA!"
 	done
 
 _DexRatingText_Own20To29::
-	text "You still need"
-	line "more #MON!"
-	cont "Try to catch"
-	cont "other species!"
+	text "Stale potrebujes"
+	line "vice #MON!"
+	cont "Zkus chytit"
+	cont "jine druhy!"
 	done
 
 _DexRatingText_Own30To39::
-	text "Good, you're"
-	line "trying hard!"
-	cont "Get an ITEMFINDER"
-	cont "from my AIDE!"
+	text "Dobre, snazis"
+	line "se tvrde!"
+	cont "Ziskej POHLEDAVAC"
+	cont "od meho ASISTENTA!"
 	done
 
 _DexRatingText_Own40To49::
-	text "Looking good!"
-	line "Go find my AIDE"
-	cont "when you get 50!"
+	text "Vypada to dobre!"
+	line "Najdi meho ASISTENTA"
+	cont "az jich budes mit 50!"
 	done
 
 _DexRatingText_Own50To59::
-	text "You finally got at"
-	line "least 50 species!"
-	cont "Be sure to get"
-	cont "EXP.ALL from my"
-	cont "AIDE!"
+	text "Konecne mas"
+	line "alespon 50 druhu!"
+	cont "Nezapomen ziskat"
+	cont "EXP.ALL od meho"
+	cont "ASISTENTA!"
 	done
 
 _DexRatingText_Own60To69::
-	text "Ho! This is geting"
-	line "even better!"
+	text "Ho! To se zacina"
+	line "zlepsovat!"
 	done
 
 _DexRatingText_Own70To79::
-	text "Very good!"
-	line "Go fish for some"
-	cont "marine #MON!"
+	text "Velmi dobre!"
+	line "Zkus chytit"
+	cont "nejake vodni #MON!"
 	done
 
 _DexRatingText_Own80To89::
-	text "Wonderful!"
-	line "Do you like to"
-	cont "collect things?"
+	text "Uzasne!"
+	line "Libi se ti"
+	cont "sbirat veci?"
 	done
 
 _DexRatingText_Own90To99::
-	text "I'm impressed!"
-	line "It must have been"
-	cont "difficult to do!"
+	text "Jsem ohromen!"
+	line "To muselo byt"
+	cont "obtizne!"
 	done
 
 _DexRatingText_Own100To109::
-	text "You finally got at"
-	line "least 100 species!"
-	cont "I can't believe"
-	cont "how good you are!"
+	text "Konecne mas"
+	line "alespon 100 druhu!"
+	cont "Nemohu uverit,"
+	cont "jak dobry jsi!"
 	done
 
 _DexRatingText_Own110To119::
-	text "You even have the"
-	line "evolved forms of"
-	cont "#MON! Super!"
+	text "Mas dokonce"
+	line "vyvinute formy"
+	cont "#MON! Skvele!"
 	done
 
 _DexRatingText_Own120To129::
-	text "Excellent! Trade"
-	line "with friends to"
-	cont "get some more!"
+	text "Skvele! Vymenuj"
+	line "s prateli, abys"
+	cont "ziskal vice!"
 	done
 
 _DexRatingText_Own130To139::
-	text "Outstanding!"
-	line "You've become a"
-	cont "real pro at this!"
+	text "Vyjimecne!"
+	line "Stal ses"
+	cont "skutecnym odbornikem!"
 	done
 
 _DexRatingText_Own140To149::
-	text "I have nothing"
-	line "left to say!"
-	cont "You're the"
-	cont "authority now!"
+	text "Nemam nic"
+	line "vice co rict!"
+	cont "Jsi ted autoritou!"
 	done
 
 _DexRatingText_Own150To151::
-	text "Your #DEX is"
-	line "entirely complete!"
-	cont "Congratulations!"
+	text "Tvuj #DEX je"
+	line "zcela kompletni!"
+	cont "Gratuluji!"
 	done

@@ -1,25 +1,25 @@
 _PewterNidoranHouseNidoranText::
-	text "NIDORAN: Bowbow!@"
+	text "NIDORAN: Hafhaf!@"
 	text_end
 
 _PewterNidoranHouseLittleBoyText::
-	text "NIDORAN sit!"
+	text "NIDORAN sedni!"
 	done
 
 _PewterNidoranHouseMiddleAgedManText::
-	text "Our #MON's an"
-	line "outsider, so it's"
-	cont "hard to handle."
+	text "Nase #MON je"
+	line "cizinec, takze je"
+	cont "tezke ho zvladnout."
 
-	para "An outsider is a"
-	line "#MON that you"
-	cont "get in a trade."
+	para "Cizinec je #MON,"
+	line "ktereho ziskate"
+	cont "vymenou."
 
-	para "It grows fast, but"
-	line "it may ignore an"
-	cont "unskilled trainer"
-	cont "in battle!"
+	para "Roste rychle, ale"
+	line "muze ignorovat"
+	cont "nezkuseneho trenera"
+	cont "v boji!"
 
-	para "If only we had"
-	line "some BADGEs..."
+	para "Kdybychom jen meli"
+	line "nejake ODZNAKY..."
 	done

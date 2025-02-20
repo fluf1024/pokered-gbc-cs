@@ -1,31 +1,31 @@
 _Route4CooltrainerF1Text::
-	text "Ouch! I tripped"
-	line "over a rocky"
+	text "Au! Zakopl jsem"
+	line "o kamenity"
 	cont "#MON, GEODUDE!"
 	done
 
 _Route4CooltrainerF2BattleText::
-	text "I came to get my"
-	line "mushroom #MON!"
+	text "Prisel jsem si"
+	line "pro sveho houboveho #MON!"
 	done
 
 _Route4CooltrainerF2EndBattleText::
-	text "Oh! My cute"
-	line "mushroom #MON!"
+	text "Oh! Muj roztomily"
+	line "houbovy #MON!"
 	prompt
 
 _Route4CooltrainerF2AfterBattleText::
-	text "There might not"
-	line "be any more"
-	cont "mushrooms here."
+	text "Mozna tu uz"
+	line "nebudou zadne"
+	cont "dalsi houby."
 
-	para "I think I got"
-	line "them all."
+	para "Myslim, ze"
+	line "jsem nasel vsechny."
 	done
 
 _Route4MtMoonSignText::
 	text "MT.MOON"
-	line "Tunnel Entrance"
+	line "Vstup do tunelu"
 	done
 
 _Route4SignText::

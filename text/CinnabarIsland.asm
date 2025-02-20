@@ -1,26 +1,26 @@
 _CinnabarIslandDoorIsLockedText::
-	text "The door is"
-	line "locked..."
+	text "Dvere jsou"
+	line "zamcene..."
 	done
 
 _CinnabarIslandGirlText::
-	text "CINNABAR GYM's"
-	line "BLAINE is an odd"
-	cont "man who has lived"
-	cont "here for decades."
+	text "CINNABAR GYM ma"
+	line "BLAINE, je podivny"
+	cont "muz, ktery tu zije"
+	cont "desitky let."
 	done
 
 _CinnabarIslandGamblerText::
-	text "Scientists conduct"
-	line "experiments in"
-	cont "the burned out"
-	cont "building."
+	text "Vedci provadeji"
+	line "experimenty v"
+	cont "vyhorele"
+	cont "budove."
 	done
 
 _CinnabarIslandSignText::
 	text "CINNABAR ISLAND"
-	line "The Fiery Town of"
-	cont "Burning Desire"
+	line "Ohnive mesto"
+	cont "horici touhy"
 	done
 
 _CinnabarIslandPokemonLabSignText::
@@ -30,8 +30,8 @@ _CinnabarIslandPokemonLabSignText::
 _CinnabarIslandGymSignText::
 	text "CINNABAR ISLAND"
 	line "#MON GYM"
-	cont "LEADER: BLAINE"
+	cont "VUDCE: BLAINE"
 
-	para "The Hot-Headed"
-	line "Quiz Master!"
+	para "Horkokrevny"
+	line "mistr kvizu!"
 	done

@@ -1,22 +1,22 @@
 _CeladonChiefHouseChiefText::
-	text "Hehehe! The slots"
-	line "just reel in the"
-	cont "dough, big time!"
+	text "Hehehe! Tyto automaty"
+	line "proste hrabou"
+	cont "prachy, a to ve velkem!"
 	done
 
 _CeladonChiefHouseRocketText::
-	text "CHIEF!"
+	text "SEFE!"
 
-	para "We just shipped"
-	line "2000 #MON as"
-	cont "slot prizes!"
+	para "Prave jsme poslali"
+	line "2000 #MON jako"
+	cont "vyhry v automatech!"
 	done
 
 _CeladonChiefHouseSailorText::
-	text "Don't touch the"
-	line "poster at the"
-	cont "GAME CORNER!"
+	text "Nedotykej se"
+	line "plakatu v"
+	cont "HERNI ARENE!"
 
-	para "There's no secret"
-	line "switch behind it!"
+	para "Za nim neni zadny"
+	line "tajnym spinac!"
 	done

@@ -1,47 +1,47 @@
 _PokemonMansion2FSuperNerdBattleText::
-	text "I can't get out!"
-	line "This old place is"
-	cont "one big puzzle!"
+	text "Nemohu se dostat ven!"
+	line "Toto stare misto je"
+	cont "jedna velka hadanka!"
 	done
 
 _PokemonMansion2FSuperNerdEndBattleText::
-	text "Oh no!"
-	line "My bag of loot!"
+	text "Oh ne!"
+	line "Muj pytel s koristi!"
 	prompt
 
 _PokemonMansion2FSuperNerdAfterBattleText::
-	text "Switches open and"
-	line "close alternating"
-	cont "sets of doors!"
+	text "Prepinace oteviraji a"
+	line "zaviraji alternujici"
+	cont "sady dveri!"
 	done
 
 _PokemonMansion2FDiary1Text::
-	text "Diary: July 5"
+	text "Denik: 5. cervence"
 	line "Guyana,"
-	cont "South America"
+	cont "Jizni Amerika"
 
-	para "A new #MON was"
-	line "discovered deep"
-	cont "in the jungle."
+	para "Byl objeven novy #MON"
+	line "hluboko v"
+	cont "dzungli."
 	done
 
 _PokemonMansion2FDiary2Text::
-	text "Diary: July 10"
-	line "We christened the"
-	cont "newly discovered"
-	cont "#MON, MEW."
+	text "Denik: 10. cervence"
+	line "Nove objeveneho"
+	cont "#MON jsme pojmenovali"
+	cont "MEW."
 	done
 
 _PokemonMansion2FSwitchText::
-	text "A secret switch!"
+	text "Tajny prepinac!"
 
-	para "Press it?"
+	para "Stisknout ho?"
 	done
 
 _PokemonMansion2FSwitchPressedText::
-	text "Who wouldn't?"
+	text "Kdo by ne?"
 	prompt
 
 _PokemonMansion2FSwitchNotPressedText::
-	text "Not quite yet!"
+	text "Jeste ne!"
 	done

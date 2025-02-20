@@ -1,46 +1,46 @@
 _SilphCo3FSilphWorkerMWhatShouldIDoText::
-	text "I work for SILPH."
-	line "What should I do?"
+	text "Pracuji pro SILPH."
+	line "Co bych mel delat?"
 	done
 
 _SilphCo3FSilphWorkerMYouSavedUsText::
-	text "<PLAYER>! You and"
-	line "your #MON"
-	cont "saved us!"
+	text "<PLAYER>! Ty a"
+	line "tvuj #MON"
+	cont "jste nas zachranili!"
 	done
 
 _SilphCo3FRocketBattleText::
-	text "Quit messing with"
-	line "us, kid!"
+	text "Prestan si"
+	line "s nami zahravat, kluku!"
 	done
 
 _SilphCo3FRocketEndBattleText::
-	text "I give"
-	line "up!"
+	text "Vzdavam"
+	line "se!"
 	prompt
 
 _SilphCo3FRocketAfterBattleText::
-	text "A hint? You can"
-	line "open doors with a"
-	cont "CARD KEY!"
+	text "Tip? Muzes"
+	line "otevrit dvere"
+	cont "KARTICKOU KLICEM!"
 	done
 
 _SilphCo3FScientistBattleText::
-	text "I support TEAM"
-	line "ROCKET more than"
-	cont "I support SILPH!"
+	text "Podporuji TYM"
+	line "ROCKET vic nez"
+	cont "podporuji SILPH!"
 	done
 
 _SilphCo3FScientistEndBattleText::
-	text "You"
-	line "really got me!"
+	text "Opravdu jsi"
+	line "me dostal!"
 	prompt
 
 _SilphCo3FScientistAfterBattleText::
-	text "Humph..."
+	text "No jo..."
 
-	para "TEAM ROCKET said"
-	line "that if I helped"
-	cont "them, they'd let"
-	cont "me study #MON!"
+	para "TYM ROCKET rekl"
+	line "ze pokud jim pomohu,"
+	cont "dovoli mi studovat"
+	cont "#MON!"
 	done

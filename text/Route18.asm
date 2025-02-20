@@ -1,7 +1,7 @@
 _Route18CooltrainerM1BattleText::
-	text "I always check"
-	line "every grassy area"
-	cont "for new #MON."
+	text "Vzdy kontroluji"
+	line "kazdou travnatou oblast"
+	cont "pro nove #MON."
 	done
 
 _Route18CooltrainerM1EndBattleText::
@@ -9,50 +9,50 @@ _Route18CooltrainerM1EndBattleText::
 	prompt
 
 _Route18CooltrainerM1AfterBattleText::
-	text "I wish I had a"
-	line "BIKE!"
+	text "Pral bych si mit"
+	line "KOLO!"
 	done
 
 _Route18CooltrainerM2BattleText::
 	text "Kurukkoo!"
-	line "How do you like"
-	cont "my bird call?"
+	line "Jak se ti libi"
+	cont "muj ptaci volani?"
 	done
 
 _Route18CooltrainerM2EndBattleText::
-	text "I"
-	line "had to bug you!"
+	text "Musel jsem te"
+	line "nastvat!"
 	prompt
 
 _Route18CooltrainerM2AfterBattleText::
-	text "I also collect sea"
-	line "#MON on"
-	cont "weekends!"
+	text "Take sbiram morske"
+	line "#MON o"
+	cont "vikendech!"
 	done
 
 _Route18CooltrainerM3BattleText::
-	text "This is my turf!"
-	line "Get out of here!"
+	text "Toto je me uzemi!"
+	line "Vypadni odtud!"
 	done
 
 _Route18CooltrainerM3EndBattleText::
-	text "Darn!"
+	text "Sakra!"
 	prompt
 
 _Route18CooltrainerM3AfterBattleText::
-	text "This is my fave"
-	line "#MON hunting"
-	cont "area!"
+	text "Toto je moje oblibena"
+	line "oblast pro lov"
+	cont "#MON!"
 	done
 
 _Route18SignText::
-	text "ROUTE 18"
-	line "CELADON CITY -"
-	cont "FUCHSIA CITY"
+	text "TRASA 18"
+	line "MESTO CELADON -"
+	cont "MESTO FUCHSIA"
 	done
 
 _Route18CyclingRoadSignText::
-	text "CYCLING ROAD"
-	line "No pedestrians"
-	cont "permitted!"
+	text "CYKLISTICKA TRASA"
+	line "Pesi nejsou"
+	cont "povoleni!"
 	done

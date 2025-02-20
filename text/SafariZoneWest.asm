@@ -1,31 +1,31 @@
 _SafariZoneWestRestHouseSignText::
-	text "REST HOUSE"
+	text "ODPOCIVARNA"
 	done
 
 _SafariZoneWestFindWardensTeethSignText::
-	text "REQUEST NOTICE"
+	text "INFORMACNI OZNAMENI"
 
-	para "Please find the"
-	line "SAFARI WARDEN's"
-	cont "lost GOLD TEETH."
-	cont "They're around"
-	cont "here somewhere."
+	para "Prosime, najdete"
+	line "ztracene ZLATE ZUBY"
+	cont "vedouciho SAFARI."
+	cont "Jsou nekde"
+	cont "tady pobliz."
 
-	para "Reward offered!"
-	line "Contact: WARDEN"
+	para "Nabizena odmena!"
+	line "Kontakt: VEDOUCI"
 	done
 
 _SafariZoneWestTrainerTipsText::
-	text "TRAINER TIPS"
+	text "TIPY PRO TRENERY"
 
-	para "Zone Exploration"
-	line "Campaign!"
+	para "Kampan pro"
+	line "pruzkum zony!"
 
-	para "The Search for"
-	line "the SECRET HOUSE!"
+	para "Hledani"
+	line "TAJNEHO DOMU!"
 	done
 
 _SafariZoneWestSignText::
-	text "AREA 3"
-	line "EAST: CENTER AREA"
+	text "OBLAST 3"
+	line "VYCHOD: CENTRALNI OBLAST"
 	done

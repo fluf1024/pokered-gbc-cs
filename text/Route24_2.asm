@@ -1,90 +1,90 @@
 _Route24CooltrainerM2EndBattleText::
-	text "I"
-	line "thought not!"
+	text "Myslel"
+	line "jsem si, ze ne!"
 	prompt
 
 _Route24CooltrainerM2AfterBattleText::
-	text "I hid because the"
-	line "people on the"
-	cont "bridge scared me!"
+	text "Schoval jsem se, protoze"
+	line "lide na"
+	cont "moste me vydesili!"
 	done
 
 _Route24CooltrainerM3BattleText::
-	text "OK! I'm No. 5!"
-	line "I'll stomp you!"
+	text "OK! Jsem c. 5!"
+	line "Rozdupu te!"
 	done
 
 _Route24CooltrainerM3EndBattleText::
-	text "Whoa!"
-	line "Too much!"
+	text "Pani!"
+	line "Prilis mnoho!"
 	prompt
 
 _Route24CooltrainerM3AfterBattleText::
-	text "I did my best, I"
-	line "have no regrets!"
+	text "Snazil jsem se, nemam"
+	line "zadne vycitky!"
 	done
 
 _Route24CooltrainerF1BattleText::
-	text "I'm No. 4!"
-	line "Getting tired?"
+	text "Jsem c. 4!"
+	line "Uz jsi unaveny?"
 	done
 
 _Route24CooltrainerF1EndBattleText::
-	text "I lost"
-	line "too!"
+	text "Prohrala"
+	line "jsem taky!"
 	prompt
 
 _Route24CooltrainerF1AfterBattleText::
-	text "I did my best, so"
-	line "I've no regrets!"
+	text "Snazila jsem se, takze"
+	line "nemam zadne vycitky!"
 	done
 
 _Route24Youngster1BattleText::
-	text "Here's No. 3!"
-	line "I won't be easy!"
+	text "Tady je c. 3!"
+	line "Nebudu snadny!"
 	done
 
 _Route24Youngster1EndBattleText::
-	text "Ow!"
-	line "Stomped flat!"
+	text "Au!"
+	line "Uplne rozmackany!"
 	prompt
 
 _Route24Youngster1AfterBattleText::
-	text "I did my best, I"
-	line "have no regrets!"
+	text "Snazil jsem se, nemam"
+	line "zadne vycitky!"
 	done
 
 _Route24CooltrainerF2BattleText::
-	text "I'm second!"
-	line "Now it's serious!"
+	text "Jsem druha!"
+	line "Ted je to vazne!"
 	done
 
 _Route24CooltrainerF2EndBattleText::
-	text "How could I"
-	line "lose?"
+	text "Jak jsem mohl"
+	line "prohrat?"
 	prompt
 
 _Route24CooltrainerF2AfterBattleText::
-	text "I did my best, I"
-	line "have no regrets!"
+	text "Snazila jsem se, nemam"
+	line "zadne vycitky!"
 	done
 
 _Route24Youngster2BattleText::
-	text "This is NUGGET"
-	line "BRIDGE! Beat us 5"
-	cont "trainers and win"
-	cont "a fabulous prize!"
+	text "Toto je NUGGET"
+	line "BRIDGE! Premoz nas 5"
+	cont "treneru a vyhraj"
+	cont "uzasnou cenu!"
 
-	para "Think you got"
-	line "what it takes?"
+	para "Myslis, ze na to"
+	line "mas?"
 	done
 
 _Route24Youngster2EndBattleText::
-	text "Whoo!"
-	line "Good stuff!"
+	text "Woo!"
+	line "Dobra prace!"
 	prompt
 
 _Route24Youngster2AfterBattleText::
-	text "I did my best, I"
-	line "have no regrets!"
+	text "Snazil jsem se, nemam"
+	line "zadne vycitky!"
 	done

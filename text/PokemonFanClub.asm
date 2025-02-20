@@ -1,32 +1,33 @@
+
 _PokemonFanClubPikachuFanNormalText::
-	text "Won't you admire"
-	line "my PIKACHU's"
-	cont "adorable tail?"
+	text "Nebudes obdivovat"
+	line "ocasek meho"
+	cont "PIKACHU?"
 	done
 
 _PokemonFanClubPikachuFanBetterText::
-	text "Humph! My PIKACHU"
-	line "is twice as cute"
-	cont "as that one!"
+	text "Hmm! Muj PIKACHU"
+	line "je dvakrat roztomilejsi"
+	cont "nez ten tvuj!"
 	done
 
 _PokemonFanClubSeelFanNormalText::
-	text "I just love my"
-	line "SEEL!"
+	text "Ja proste miluju"
+	line "sveho SEELA!"
 
-	para "It squeals when I"
-	line "hug it!"
+	para "Piska, kdyz"
+	line "ho objimam!"
 	done
 
 _PokemonFanClubSeelFanBetterText::
-	text "Oh dear!"
+	text "Ach boze!"
 
-	para "My SEEL is far"
-	line "more attractive!"
+	para "Muj SEEL je daleko"
+	line "pritazlivejsi!"
 	done
 
 _PokemonFanClubPikachuText::
-	text "PIKACHU: Chu!"
+	text "PIKACHU: Pika!"
 	line "Pikachu!"
 	done
 
@@ -35,56 +36,57 @@ _PokemonFanClubSeelText::
 	done
 
 _PokemonFanClubChairmanIntroText::
-	text "I chair the"
-	line "#MON Fan Club!"
+	text "Vedu klub"
+	line "fanousku #MON!"
 
-	para "I have collected"
-	line "over 100 #MON!"
+	para "Nasbiral jsem"
+	line "pres 100 #MON!"
 
-	para "I'm very fussy"
-	line "when it comes to"
+	para "Jsem velmi vybiravy"
+	line "pokud jde o"
 	cont "#MON!"
 
-	para "So..."
+	para "Takze..."
 
-	para "Did you come"
-	line "visit to hear"
-	cont "about my #MON?"
+	para "Prisel jsi"
+	line "me navstivit a"
+	cont "poslechnout si o"
+	cont "mych #MON?"
 	done
 
 _PokemonFanClubChairmanStoryText::
-	text "Good!"
-	line "Then listen up!"
+	text "Dobre!"
+	line "Tak poslouchej!"
 
-	para "My favorite"
+	para "Muj oblibeny"
 	line "RAPIDASH..."
 
-	para "It...cute..."
-	line "lovely...smart..."
-	cont "plus...amazing..."
-	cont "you think so?..."
-	cont "oh yes...it..."
-	cont "stunning..."
-	cont "kindly..."
-	cont "love it!"
+	para "On... roztomily..."
+	line "krasny...chytry..."
+	cont "navic...uzasny..."
+	cont "myslis si to?..."
+	cont "oh ano...on..."
+	cont "uchvatny..."
+	cont "mily..."
+	cont "miluj ho!"
 
-	para "Hug it...when..."
-	cont "sleeping...warm"
-	cont "and cuddly..."
-	cont "spectacular..."
-	cont "ravishing..."
-	cont "...Oops! Look at"
-	cont "the time! I kept"
-	cont "you too long!"
+	para "Objimam ho...kdyz..."
+	cont "spi...teply"
+	cont "a hebky..."
+	cont "nadherny..."
+	cont "oslnivy..."
+	cont "...Ups! Podivej se na"
+	cont "ten cas! Zdrzel jsem"
+	cont "te prilis dlouho!"
 
-	para "Thanks for hearing"
-	line "me out! I want"
-	cont "you to have this!"
+	para "Diky, ze jsi mi"
+	line "naslouchal! Chci,"
+	cont "abys mel toto!"
 	prompt
 
 _PokemonFanClubReceivedBikeVoucherText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> obdrzel"
+	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -92,54 +94,54 @@ _PokemonFanClubReceivedBikeVoucherText::
 _PokemonFanClubExplainBikeVoucherText::
 	text_start
 
-	para "Exchange that for"
-	line "a BICYCLE!"
+	para "Vymen to za"
+	line "BICYKL!"
 
-	para "Don't worry, my"
-	line "FEAROW will FLY"
-	cont "me anywhere!"
+	para "Neboj se, muj"
+	line "FEAROW me vyveze"
+	cont "kamkoliv!"
 
-	para "So, I don't need a"
-	line "BICYCLE!"
+	para "Takze, nepotrebuji"
+	line "BICYKL!"
 
-	para "I hope you like"
-	line "cycling!"
+	para "Doufam, ze mas"
+	line "rad jizdu na kole!"
 	done
 
 _PokemonFanClubNoStoryText::
-	text "Oh. Come back"
-	line "when you want to"
-	cont "hear my story!"
+	text "Oh. Vrat se, az"
+	line "budes chtit slyset"
+	cont "muj pribeh!"
 	done
 
 _PokemonFanClubChairFinalText::
-	text "Hello, <PLAYER>!"
+	text "Ahoj, <PLAYER>!"
 
-	para "Did you come see"
-	line "me about my"
-	cont "#MON again?"
+	para "Prisel jsi me navstivit"
+	line "a poslechnout si o"
+	cont "mych #MON znovu?"
 
-	para "No? Too bad!"
+	para "Ne? To je skoda!"
 	done
 
 _PokemonFanClubBagFullText::
-	text "Make room for"
-	line "this!"
+	text "Udelej misto pro"
+	line "toto!"
 	done
 
 _PokemonFanClubReceptionistText::
-	text "Our Chairman is"
-	line "very vocal about"
-	cont "#MON."
+	text "Nas predseda je"
+	line "velmi upovidany, pokud"
+	cont "jde o #MON."
 	done
 
 _PokemonFanClubSign1Text::
-	text "Let's all listen"
-	line "politely to other"
-	cont "trainers!"
+	text "Poslouchejme vsichni"
+	line "zdvorile ostatni"
+	cont "trenery!"
 	done
 
 _PokemonFanClubSign2Text::
-	text "If someone brags,"
-	line "brag right back!"
+	text "Pokud se nekdo chvasta,"
+	line "chvastej se take!"
 	done

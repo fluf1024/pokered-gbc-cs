@@ -1,15 +1,15 @@
 _Route18Gate2FLeftBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Podivejte se do"
+	line "dalekohledu."
 
-	para "PALLET TOWN is in"
-	line "the west!"
+	para "PALLET TOWN je na"
+	line "zapade!"
 	done
 
 _Route18Gate2FRightBinocularsText::
-	text "Looked into the"
-	line "binoculars."
+	text "Podivejte se do"
+	line "dalekohledu."
 
-	para "There are people"
-	line "swimming!"
+	para "Jsou tam lide"
+	line "koupajici se!"
 	done

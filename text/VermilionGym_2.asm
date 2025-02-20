@@ -1,30 +1,30 @@
 _VermilionGymLTSurgePostBattleAdviceText::
-	text "A little word of"
-	line "advice, kid!"
+	text "Mala rada,"
+	line "chlapce!"
 
-	para "Electricity is"
-	line "sure powerful!"
+	para "Elektrika je"
+	line "fakt silna!"
 
-	para "But, it's useless"
-	line "against ground-"
-	cont "type #MON!"
+	para "Ale je k nicemu"
+	line "proti zemnim"
+	cont "typu #MON!"
 	done
 
 _VermilionGymLTSurgeThunderBadgeInfoText::
-	text "The THUNDERBADGE"
-	line "cranks up your"
-	cont "#MON's SPEED!"
+	text "THUNDERODZNAK"
+	line "zvysi rychlost"
+	cont "tveho #MON!"
 
-	para "It also lets your"
-	line "#MON FLY any"
-	cont "time, kid!"
+	para "Taky umozni tvemu"
+	line "#MON letat kdykoliv,"
+	cont "chlapce!"
 
-	para "You're special,"
-	line "kid! Take this!"
+	para "Jsi zvlastni,"
+	line "chlapce! Vezmi si tohle!"
 	done
 
 _VermilionGymLTSurgeReceivedTM24Text::
-	text "<PLAYER> received "
+	text "<PLAYER> dostal"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -33,113 +33,112 @@ _VermilionGymLTSurgeReceivedTM24Text::
 _TM24ExplanationText::
 	text_start
 
-	para "TM24 contains"
-	line "THUNDERBOLT!"
+	para "TM24 obsahuje"
+	line "BLESKOVY UDER!"
 
-	para "Teach it to an"
-	line "electric #MON!"
+	para "Nauc to elektriky"
+	line "#MON!"
 	done
 
 _VermilionGymLTSurgeTM24NoRoomText::
-	text "Yo kid, make room"
-	line "in your pack!"
+	text "Hej, chlapce, udelej"
+	line "misto v batohu!"
 	done
 
 _VermilionGymLTSurgeReceivedThunderBadgeText::
-	text "Whoa!"
+	text "Wow!"
 
-	para "You're the real"
-	line "deal, kid!"
+	para "Jsi skutecny"
+	line "profik, chlapce!"
 
-	para "Fine then, take"
-	line "the THUNDERBADGE!"
+	para "Dobra, tak vezmi"
+	line "THUNDERODZNAK!"
 	prompt
 
 _VermilionGymGentlemanBattleText::
-	text "When I was in the"
-	line "Army, LT.SURGE"
-	cont "was my strict CO!"
+	text "Kdyz jsem byl v"
+	line "armade, LT.SURGE"
+	cont "byl muj prisny CO!"
 	done
 
 _VermilionGymGentlemanEndBattleText::
 	text "Stop!"
-	line "You're very good!"
+	line "Jsi velmi dobry!"
 	prompt
 
 _VermilionGymGentlemanAfterBattleText::
-	text "The door won't"
-	line "open?"
+	text "Dvere se neotevrou?"
 
-	para "LT.SURGE always"
-	line "was cautious!"
+	para "LT.SURGE vzdycky"
+	line "byl opatrny!"
 	done
 
 _VermilionGymSuperNerdBattleText::
-	text "I'm a lightweight,"
-	line "but I'm good with"
-	cont "electricity!"
+	text "Jsem lehka vaha,"
+	line "ale s elektrikou to"
+	cont "umim!"
 	done
 
 _VermilionGymSuperNerdEndBattleText::
-	text "Fried!"
+	text "Smazeny!"
 	prompt
 
 _VermilionGymSuperNerdAfterBattleText::
-	text "OK, I'll talk!"
+	text "OK, budu mluvit!"
 
-	para "LT.SURGE said he"
-	line "hid door switches"
-	cont "inside something!"
+	para "LT.SURGE rekl, ze"
+	line "dverni spinace"
+	cont "skryl uvnitr neceho!"
 	done
 
 _VermilionGymSailorBattleText::
-	text "This is no place"
-	line "for kids!"
+	text "Tohle neni misto"
+	line "pro deti!"
 	done
 
 _VermilionGymSailorEndBattleText::
 	text "Wow!"
-	line "Surprised me!"
+	line "Prekvapil jsi me!"
 	prompt
 
 _VermilionGymSailorAfterBattleText::
-	text "LT.SURGE set up"
-	line "double locks!"
-	cont "Here's a hint!"
+	text "LT.SURGE nastavil"
+	line "dvojite zamky!"
+	cont "Tady je napoveda!"
 
-	para "When you open the"
-	line "1st lock, the 2nd"
-	cont "lock is right"
-	cont "next to it!"
+	para "Kdyz otevres"
+	line "prvni zamek, druhy"
+	cont "zamek je hned"
+	cont "vedle nej!"
 	done
 
 _VermilionGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Yo! Sampione ve"
+	line "vyrobe!"
 
-	para "LT.SURGE has a"
-	line "nickname. People"
-	cont "refer to him as"
-	cont "the Lightning"
+	para "LT.SURGE ma prezdivku."
+	line "Lide ho"
+	cont "oznacuji jako"
+	cont "Bleskovy"
 	cont "American!"
 
-	para "He's an expert on"
-	line "electric #MON!"
+	para "Je expertem na"
+	line "elektricke #MON!"
 
-	para "Birds and water"
-	line "#MON are at"
-	cont "risk! Beware of"
-	cont "paralysis too!"
+	para "Ptaci a vodni"
+	line "#MON jsou v"
+	cont "riziku! Davej pozor na"
+	cont "paralyzu take!"
 
-	para "LT.SURGE is very"
-	line "cautious!"
+	para "LT.SURGE je velmi"
+	line "opatrny!"
 
-	para "You'll have to"
-	line "break a code to"
-	cont "get to him!"
+	para "Budes muset"
+	line "prolomit kod, abys"
+	cont "se k nemu dostal!"
 	done
 
 _VermilionGymGymGuideBeatLTSurgeText::
-	text "Whew! That match"
-	line "was electric!"
+	text "Uf! Ten zapas"
+	line "byl elektrizujici!"
 	done

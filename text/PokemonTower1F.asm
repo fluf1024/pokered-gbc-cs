@@ -1,31 +1,31 @@
 _PokemonTower1FReceptionistText::
-	text "#MON TOWER was"
-	line "erected in the"
-	cont "memory of #MON"
-	cont "that had died."
+	text "POKEMON TOWER byla"
+	line "postavena na"
+	cont "pamatku POKEMONU,"
+	cont "kteri zemreli."
 	done
 
 _PokemonTower1FMiddleAgedWomanText::
-	text "Did you come to"
-	line "pay respects?"
-	cont "Bless you!"
+	text "Prisel jsi vzdat"
+	line "hold?"
+	cont "Pozehnej ti!"
 	done
 
 _PokemonTower1FBaldingGuyText::
-	text "I came to pray"
-	line "for my CLEFAIRY."
+	text "Prisel jsem se"
+	line "modlit za meho CLEFAIRY."
 
-	para "Sniff! I can't"
-	line "stop crying..."
+	para "Fnuk! Nemohu"
+	line "prestat plakat..."
 	done
 
 _PokemonTower1FGirlText::
-	text "My GROWLITHE..."
-	line "Why did you die?"
+	text "Muj GROWLITHE..."
+	line "Proc jsi zemrel?"
 	done
 
 _PokemonTower1FChannelerText::
-	text "I am a CHANNELER!"
-	line "There are spirits"
-	cont "up to mischief!"
+	text "Jsem VEDMA!"
+	line "Jsou tu duchove,"
+	cont "kteri tropi neplechu!"
 	done

@@ -1,10 +1,10 @@
 _SaffronPidgeyHouseBrunetteGirlText::
-	text "Thank you for"
-	line "writing. I hope"
-	cont "to see you soon!"
+	text "Dekuji za"
+	line "psani. Doufam,"
+	cont "ze te brzy uvidim!"
 
-	para "Hey! Don't look"
-	line "at my letter!"
+	para "Hej! Nekoukej"
+	line "na muj dopis!"
 	done
 
 _SaffronPidgeyHousePidgeyText::
@@ -12,16 +12,16 @@ _SaffronPidgeyHousePidgeyText::
 	text_end
 
 _SaffronPidgeyHouseYoungsterText::
-	text "The COPYCAT is"
-	line "cute! I'm getting"
-	cont "her a # DOLL!"
+	text "COPYCAT je"
+	line "roztomila! Koupim ji"
+	cont "# PANENKU!"
 	done
 
 _SaffronPidgeyHousePaperText::
-	text "I was given a PP"
-	line "UP as a gift."
+	text "Dostal jsem PP"
+	line "UP jako darek."
 
-	para "It's used for"
-	line "increasing the PP"
-	cont "of techniques!"
+	para "Pouziva se ke"
+	line "zvyseni PP"
+	cont "techniky!"
 	done

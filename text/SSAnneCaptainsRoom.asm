@@ -1,64 +1,65 @@
+
 _SSAnneCaptainsRoomRubCaptainsBackText::
-	text "CAPTAIN: Ooargh..."
-	line "I feel hideous..."
-	cont "Urrp! Seasick..."
+	text "KAPITAN: Ooouu..."
+	line "Citim se priserne..."
+	cont "Urrp! Morska nemoc..."
 
-	para "<PLAYER> rubbed"
-	line "the CAPTAIN's"
-	cont "back!"
+	para "<PLAYER> trel"
+	line "kapitanova"
+	cont "zada!"
 
-	para "Rub-rub..."
-	line "Rub-rub...@"
+	para "Trit trit..."
+	line "Trit trit...@"
 	text_end
 
 _SSAnneCaptainsRoomCaptainIFeelMuchBetterText::
-	text "CAPTAIN: Whew!"
-	line "Thank you! I"
-	cont "feel much better!"
+	text "KAPITAN: Uf!"
+	line "Dekuji! Ja"
+	cont "se citim mnohem lepe!"
 
-	para "You want to see"
-	line "my CUT technique?"
+	para "Chces videt"
+	line "moji techniku CUT?"
 
-	para "I could show you"
-	line "if I wasn't ill..."
+	para "Mohl bych ti ji ukazat,"
+	line "kdybych nebyl nemocny..."
 
-	para "I know! You can"
-	line "have this!"
+	para "Vim! Muzes"
+	line "dostat toto!"
 
-	para "Teach it to your"
-	line "#MON and you"
-	cont "can see it CUT"
-	cont "any time!"
+	para "Nauc to sveho"
+	line "#MON a muzes"
+	cont "to videt CUT"
+	cont "kdykoliv!"
 	prompt
 
 _SSAnneCaptainsRoomCaptainReceivedHM01Text::
-	text "<PLAYER> got"
+	text "<PLAYER> ziskal"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SSAnneCaptainsRoomCaptainNotSickAnymoreText::
-	text "CAPTAIN: Whew!"
+	text "KAPITAN: Uf!"
 
-	para "Now that I'm not"
-	line "sick any more, I"
-	cont "guess it's time."
+	para "Ted kdyz uz nejsem"
+	line "nemocny, myslim, ze"
+	cont "je cas."
 	done
 
 _SSAnneCaptainsRoomCaptainHM01NoRoomText::
-	text "Oh no! You have"
-	line "no room for this!"
+	text "Oh ne! Nemas"
+	line "misto pro toto!"
 	done
 
 _SSAnneCaptainsRoomTrashText::
-	text "Yuck! Shouldn't"
-	line "have looked!"
+	text "Fuj! Nemel jsem"
+	line "se divat!"
 	done
 
 _SSAnneCaptainsRoomSeasickBookText::
-	text "How to Conquer"
-	line "Seasickness..."
-	cont "The CAPTAIN's"
-	cont "reading this!"
+	text "Jak prekonat"
+	line "morskou nemoc..."
+	cont "KAPITAN"
+	cont "tohle cte!"
 	done

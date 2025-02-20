@@ -1,22 +1,22 @@
 _Route22GateGuardNoBoulderbadgeText::
-	text "Only truly skilled"
-	line "trainers are"
-	cont "allowed through."
+	text "Pouze skutecne zkuseni"
+	line "treneri smeji"
+	cont "projit."
 
-	para "You don't have the"
-	line "BOULDERBADGE yet!@"
+	para "Jeste nemate"
+	line "ODZNAK BALVAN!@"
 	text_end
 
 _Route22GateGuardICantLetYouPassText::
 	text_start
 
-	para "The rules are"
-	line "rules. I can't"
-	cont "let you pass."
+	para "Pravidla jsou"
+	line "pravidla. Nemohu"
+	cont "vas pustit."
 	done
 
 _Route22GateGuardGoRightAheadText::
-	text "Oh! That is the"
-	line "BOULDERBADGE!"
-	cont "Go right ahead!@"
+	text "Oh! To je"
+	line "ODZNAK BALVAN!"
+	cont "Pokracujte vpravo!@"
 	text_end

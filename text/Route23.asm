@@ -1,28 +1,28 @@
 _Route23YouDontHaveTheBadgeYetText::
-	text "You can pass here"
-	line "only if you have"
-	cont "the @"
+	text "Tudy muzete projit"
+	line "jen pokud mate"
+	cont "@"
 	text_ram wNameBuffer
 	text "!"
 
-	para "You don't have the"
+	para "Zatim nemate"
 	line "@"
 	text_ram wNameBuffer
-	text " yet!"
+	text "!"
 
-	para "You have to have"
-	line "it to get to"
-	cont "#MON LEAGUE!@"
+	para "Musite ji mit,"
+	line "abyste se dostali do"
+	cont "ligy #MON!@"
 	text_end
 
 _Route23OhThatIsTheBadgeText::
-	text "You can pass here"
-	line "only if you have"
-	cont "the @"
+	text "Tudy muzete projit"
+	line "jen pokud mate"
+	cont "@"
 	text_ram wNameBuffer
 	text "!"
 
-	para "Oh! That is the"
+	para "Oh! To je"
 	line "@"
 	text_ram wNameBuffer
 	text "!@"
@@ -31,11 +31,11 @@ _Route23OhThatIsTheBadgeText::
 _Route23GoRightAheadText::
 	text_start
 
-	para "OK then! Please,"
-	line "go right ahead!"
+	para "Tak dobre! Prosim,"
+	line "jdete primo dal!"
 	done
 
 _Route23VictoryRoadGateSignText::
-	text "VICTORY ROAD GATE"
-	line "- #MON LEAGUE"
+	text "BRANA CESTY K VITEZSTVI"
+	line "- LIGA #MON"
 	done

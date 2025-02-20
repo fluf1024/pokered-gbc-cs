@@ -1,78 +1,79 @@
+
 _CinnabarLabFossilRoomScientist1Text::
-	text "Hiya!"
+	text "Ahoj!"
 
-	para "I am important"
-	line "doctor!"
+	para "Jsem dulezity"
+	line "doktor!"
 
-	para "I study here rare"
-	line "#MON fossils!"
+	para "Studuji zde vzacne"
+	line "fosilie #MON!"
 
-	para "You! Have you a"
-	line "fossil for me?"
+	para "Ty! Mas pro me"
+	line "nejakou fosilii?"
 	prompt
 
 _CinnabarLabFossilRoomScientist1NoFossilsText::
-	text "No! Is too bad!"
+	text "Ne! To je skoda!"
 	done
 
 _CinnabarLabFossilRoomScientist1GoForAWalkText::
-	text "I take a little"
-	line "time!"
+	text "Zabere to trochu"
+	line "casu!"
 
-	para "You go for walk a"
-	line "little while!"
+	para "Jdi se projit na"
+	line "chvilku!"
 	done
 
 _CinnabarLabFossilRoomScientist1FossilIsBackToLifeText::
-	text "Where were you?"
+	text "Kde jsi byl?"
 
-	para "Your fossil is"
-	line "back to life!"
+	para "Tvoje fosilie je"
+	line "zpet k zivotu!"
 
-	para "It was @"
+	para "Byl to @"
 	text_ram wStringBuffer
 	text_start
-	line "like I think!"
+	line "jak jsem si myslel!"
 	prompt
 
 _CinnabarLabFossilRoomScientist1SeesFossilText::
-	text "Oh! That is"
+	text "Oh! To je"
 	line "@"
 	text_ram wNameBuffer
 	text "!"
 
-	para "It is fossil of"
+	para "Je to fosilie"
 	line "@"
 	text_ram wStringBuffer
 	text ", a"
-	cont "#MON that is"
-	cont "already extinct!"
+	cont "#MON, ktery je"
+	cont "uz vyhynuly!"
 
-	para "My Resurrection"
-	line "Machine will make"
-	cont "that #MON live"
-	cont "again!"
+	para "Ma resuscitacni"
+	line "stroj ozivi"
+	cont "toho #MON"
+	cont "znovu!"
 	done
 
 _CinnabarLabFossilRoomScientist1TakesFossilText::
-	text "So! You hurry and"
-	line "give me that!"
+	text "Tak! Rychle mi to"
+	line "dej!"
 
-	para "<PLAYER> handed"
-	line "over @"
+	para "<PLAYER> predal"
+	line "@"
 	text_ram wNameBuffer
 	text "!"
 	prompt
 
 _CinnabarLabFossilRoomScientist1GoForAWalkText2::
-	text "I take a little"
-	line "time!"
+	text "Zabere to trochu"
+	line "casu!"
 
-	para "You go for walk a"
-	line "little while!"
+	para "Jdi se projit na"
+	line "chvilku!"
 	done
 
 _CinnabarLabFossilRoomScientist1ComeAgainText::
-	text "Aiyah! You come"
-	line "again!"
+	text "Aiyah! Prisel jsi"
+	line "znovu!"
 	done

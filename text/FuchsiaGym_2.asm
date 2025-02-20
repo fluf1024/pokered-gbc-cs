@@ -1,31 +1,31 @@
 _FuchsiaGymKogaPostBattleAdviceText::
-	text "When afflicted by"
+	text "Kdyz jste postizeni"
 	line "TOXIC, #MON"
-	cont "suffer more and"
-	cont "more as battle"
-	cont "progresses!"
+	cont "trpi cim dal"
+	cont "vice, jak"
+	cont "boj pokracuje!"
 
-	para "It will surely"
-	line "terrorize foes!"
+	para "To jiste"
+	line "vydesi nepratele!"
 	done
 
 _FuchsiaGymKogaSoulBadgeInfoText::
-	text "Now that you have"
-	line "the SOULBADGE,"
-	cont "the DEFENSE of"
-	cont "your #MON"
-	cont "increases!"
+	text "Ted, kdyz mate"
+	line "SOULBADGE,"
+	cont "defenziva vasich"
+	cont "#MON se"
+	cont "zvysuje!"
 
-	para "It also lets you"
-	line "SURF outside of"
-	cont "battle!"
+	para "Umoznuje vam take"
+	line "SURFOVAT mimo"
+	cont "boj!"
 
-	para "Ah! Take this"
-	line "too!"
+	para "Ah! Vezmete si"
+	line "take toto!"
 	done
 
 _FuchsiaGymKogaReceivedTM06Text::
-	text "<PLAYER> received"
+	text "<PLAYER> ziskal"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -33,108 +33,107 @@ _FuchsiaGymKogaReceivedTM06Text::
 
 _FuchsiaGymKogaTM06ExplanationText::
 	text_start
-	para "TM06 contains"
+	para "TM06 obsahuje"
 	line "TOXIC!"
 
-	para "It is a secret"
-	line "technique over"
-	cont "400 years old!"
+	para "Je to tajna"
+	line "technika stara"
+	cont "pres 400 let!"
 	done
 
 _FuchsiaGymKogaTM06NoRoomText::
-	text "Make space for"
-	line "this, child!"
+	text "Udelej misto pro"
+	line "tohle, dite!"
 	done
 
 _FuchsiaGymRocker1BattleText::
-	text "Strength isn't"
-	line "the key for"
+	text "Sila neni"
+	line "klicem pro"
 	cont "#MON!"
 
-	para "It's strategy!"
+	para "Je to strategie!"
 
-	para "I'll show you how"
-	line "strategy can beat"
-	cont "brute strength!"
+	para "Ukazu ti, jak"
+	line "strategie muze porazit"
+	cont "hrubou silu!"
 	done
 
 _FuchsiaGymRocker1EndBattleText::
-	text "What?"
-	line "Extraordinary!"
+	text "Co?"
+	line "Neskutecne!"
 	prompt
 
 _FuchsiaGymRocker1AfterBattleText::
-	text "So, you mix brawn"
-	line "with brains?"
-	cont "Good strategy!"
+	text "Takze michas silu"
+	line "s mozkem?"
+	cont "Dobra strategie!"
 	done
 
 _FuchsiaGymRocker2BattleText::
-	text "I wanted to become"
-	line "a ninja, so I"
-	cont "joined this GYM!"
+	text "Chtel jsem se stat"
+	line "ninjou, tak jsem se"
+	cont "pripojil k teto telocvicne!"
 	done
 
 _FuchsiaGymRocker2EndBattleText::
-	text "I'm done"
-	line "for!"
+	text "Jsem hotov"
+	line "na dobro!"
 	prompt
 
 _FuchsiaGymRocker2AfterBattleText::
-	text "I will keep on"
-	line "training under"
-	cont "KOGA, my ninja"
-	cont "master!"
+	text "Pokracuji v treninku"
+	line "pod vedenim"
+	cont "KOGY, meho"
+	cont "ninja mistra!"
 	done
 
 _FuchsiaGymRocker3BattleText::
-	text "Let's see you"
-	line "beat my special"
-	cont "techniques!"
+	text "Ukazte, jak"
+	line "prekonate me"
+	cont "specialni techniky!"
 	done
 
 _FuchsiaGymRocker3EndBattleText::
-	text "You"
-	line "had me fooled!"
+	text "Oklamal jsi me!"
 	prompt
 
 _FuchsiaGymRocker3AfterBattleText::
-	text "I like poison and"
-	line "sleep techniques,"
-	cont "as they linger"
-	cont "after battle!"
+	text "Mam rad jedove"
+	line "a uspavaci techniky,"
+	cont "protoze pretrvavaji"
+	cont "i po boji!"
 	done
 
 _FuchsiaGymRocker4BattleText::
-	text "Stop right there!"
+	text "Zastav se hned!"
 
-	para "Our invisible"
-	line "walls have you"
-	cont "frustrated?"
+	para "Nase neviditelne"
+	line "zdi vas"
+	cont "frustruji?"
 	done
 
 _FuchsiaGymRocker4EndBattleText::
 	text "Whoa!"
-	line "He's got it!"
+	line "On to dokazal!"
 	prompt
 
 _FuchsiaGymRocker4AfterBattleText::
-	text "You impressed me!"
-	line "Here's a hint!"
+	text "Ohromil jsi me!"
+	line "Tady mas napovedu!"
 
-	para "Look very closely"
-	line "for gaps in the"
-	cont "invisible walls!"
+	para "Podivejte se velmi"
+	line "peclive na mezery"
+	cont "v neviditelnych stenach!"
 	done
 
 _FuchsiaGymRocker5BattleText::
-	text "I also study the"
-	line "way of the ninja"
-	cont "with master KOGA!"
+	text "Take studuji cestu"
+	line "ninjy s mistrem"
+	cont "KOGOU!"
 
-	para "Ninja have a long"
-	line "history of using"
-	cont "animals!"
+	para "Ninja ma dlouhou"
+	line "tradici vyuzivani"
+	cont "zvirat!"
 	done
 
 _FuchsiaGymRocker5EndBattleText::
@@ -142,53 +141,52 @@ _FuchsiaGymRocker5EndBattleText::
 	prompt
 
 _FuchsiaGymRocker5AfterBattleText::
-	text "I still have much"
-	line "to learn!"
+	text "Mam se jeste hodne"
+	line "co ucit!"
 	done
 
 _FuchsiaGymRocker6BattleText::
-	text "Master KOGA comes"
-	line "from a long line"
-	cont "of ninjas!"
+	text "Mistr KOGA pochazi"
+	line "z dlouhe linie"
+	cont "ninju!"
 
-	para "What did you"
-	line "descend from?"
+	para "Z ceho"
+	line "pochazite vy?"
 	done
 
 _FuchsiaGymRocker6EndBattleText::
-	text "Dropped"
-	line "my balls!"
+	text "Upustil jsem"
+	line "mice!"
 	prompt
 
 _FuchsiaGymRocker6AfterBattleText::
-	text "Where there is"
-	line "light, there is"
-	cont "shadow!"
+	text "Kde je svetlo,"
+	line "je i stin!"
 
-	para "Light and shadow!"
-	line "Which do you"
-	cont "choose?"
+	para "Svetlo a stin!"
+	line "Co si"
+	cont "vyberete?"
 	done
 
 _FuchsiaGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Yo! Sampione na"
+	line "vzestupu!"
 
-	para "FUCHSIA GYM is"
-	line "riddled with"
-	cont "invisible walls!"
+	para "FUCHSIA GYM je"
+	line "plna neviditelnych"
+	cont "zdi!"
 
-	para "KOGA might appear"
-	line "close, but he's"
-	cont "blocked off!"
+	para "KOGA se muze zdat"
+	line "blizko, ale je"
+	cont "blokovan!"
 
-	para "You have to find"
-	line "gaps in the walls"
-	cont "to reach him!"
+	para "Musite najit"
+	line "mezery ve zdech,"
+	cont "abyste se k nemu dostali!"
 	done
 
 _FuchsiaGymGymGuideBeatKogaText::
-	text "It's amazing how"
-	line "ninja can terrify"
-	cont "even now!"
+	text "Je uzasne, jak"
+	line "muze ninja desit"
+	cont "i dnes!"
 	done

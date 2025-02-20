@@ -1,55 +1,55 @@
 _SilphCo5FRockerEndBattleText::
 	text "Oh"
-	line "goodness!"
+	line "boze!"
 	prompt
 
 _SilphCo5FRockerAfterBattleText::
-	text "You're only on 5F."
-	line "It's a long way"
-	cont "to my BOSS!"
+	text "Jsi teprve na 5F."
+	line "Je to dlouha cesta"
+	cont "k memu SEFOVI!"
 	done
 
 _SilphCo5FRocket2BattleText::
-	text "Show TEAM ROCKET"
-	line "a little respect!"
+	text "Ukaz TEAM ROCKET"
+	line "trochu ucty!"
 	done
 
 _SilphCo5FRocket2EndBattleText::
-	text "Cough..."
-	line "Cough..."
+	text "Kasel..."
+	line "Kasel..."
 	prompt
 
 _SilphCo5FRocket2AfterBattleText::
-	text "Which reminds me."
+	text "Co mi to pripomina."
 
-	para "KOFFING evolves"
-	line "into WEEZING!"
+	para "KOFFING se vyviji"
+	line "do WEEZING!"
 	done
 
 _SilphCo5FPokemonReport1Text::
-	text "It's a #MON"
-	line "REPORT!"
+	text "Je to #MON"
+	line "ZPRAVA!"
 
 	para "#MON LAB"
-	line "created PORYGON,"
-	cont "the first virtual"
-	cont "reality #MON."
+	line "vytvorila PORYGONA,"
+	cont "prvniho virtualniho"
+	cont "realitu #MON."
 	done
 
 _SilphCo5FPokemonReport2Text::
-	text "It's a #MON"
-	line "REPORT!"
+	text "Je to #MON"
+	line "ZPRAVA!"
 
-	para "Over 160 #MON"
-	line "techniques have"
-	cont "been confirmed."
+	para "Bylo potvrzeno"
+	line "pres 160 #MON"
+	cont "technik."
 	done
 
 _SilphCo5FPokemonReport3Text::
-	text "It's a #MON"
-	line "REPORT!"
+	text "Je to #MON"
+	line "ZPRAVA!"
 
-	para "4 #MON evolve"
-	line "only when traded"
-	cont "by link-cable."
+	para "4 #MON se vyvijeji"
+	line "pouze pri obchodovani"
+	cont "pres propojovaci kabel."
 	done

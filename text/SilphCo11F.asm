@@ -1,135 +1,135 @@
 _SilphCo11FSilphPresidentText::
-	text "PRESIDENT: Thank"
-	line "you for saving"
+	text "PREZIDENT: Dekuji"
+	line "za zachranu"
 	cont "SILPH!"
 
-	para "I will never"
-	line "forget you saved"
-	cont "us in our moment"
-	cont "of peril!"
+	para "Nikdy nezapomenu,"
+	line "ze jsi nas"
+	cont "zachranil v nasem"
+	cont "okamziku nouze!"
 
-	para "I have to thank"
-	line "you in some way!"
+	para "Musim ti nejak"
+	line "podekovat!"
 
-	para "Because I am rich,"
-	line "I can give you"
-	cont "anything!"
+	para "Protoze jsem bohaty,"
+	line "mohu ti dat"
+	cont "cokoliv!"
 
-	para "Here, maybe this"
-	line "will do!"
+	para "Tady, snad ti to"
+	line "bude stacit!"
 	prompt
 
 _SilphCo11FSilphPresidentReceivedMasterBallText::
-	text "<PLAYER> got a"
+	text "<PLAYER> ziskal"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SilphCo11FSilphPresidentMasterBallDescriptionText::
-	text "PRESIDENT: You"
-	line "can't buy that"
-	cont "anywhere!"
+	text "PREZIDENT: Nemuzes"
+	line "to koupit"
+	cont "nikde!"
 
-	para "It's our secret"
-	line "prototype MASTER"
+	para "Je to nas tajny"
+	line "prototyp MASTER"
 	cont "BALL!"
 
-	para "It will catch any"
-	line "#MON without"
-	cont "fail!"
+	para "Chyti jakehokoliv"
+	line "#MON bez"
+	cont "selhani!"
 
-	para "You should be"
-	line "quiet about using"
-	cont "it, though."
+	para "Ale mel bys byt"
+	line "potichu, kdyz ho"
+	cont "pouzijes."
 	done
 
 _SilphCo11FSilphPresidentNoRoomText::
-	text "You have no"
-	line "room for this."
+	text "Nemas misto"
+	line "pro tohle."
 	done
 
 _SilphCo11FBeautyText::
-	text "SECRETARY: Thank"
-	line "you for rescuing"
-	cont "all of us!"
+	text "SEKRETARKA: Dekujeme,"
+	line "ze jsi nas"
+	cont "vsechny zachranil!"
 
-	para "We admire your"
-	line "courage."
+	para "Obdivujeme tvou"
+	line "odvahu."
 	done
 
 _SilphCo11FGiovanniText::
 	text "Ah <PLAYER>!"
-	line "So we meet again!"
+	line "Tak se opet setkavame!"
 
-	para "The PRESIDENT and"
-	line "I are discussing"
-	cont "a vital business"
-	cont "proposition."
+	para "PREZIDENT a ja"
+	line "diskutujeme o"
+	cont "dulezitem obchodnim"
+	cont "navrhu."
 
-	para "Keep your nose"
-	line "out of grown-up"
-	cont "matters..."
+	para "Drz se dal"
+	line "od zalezitosti"
+	cont "dospelych..."
 
-	para "Or, experience a"
-	line "world of pain!"
+	para "Nebo zazijes"
+	line "svet bolesti!"
 	done
 
 _SilphCo10FGiovanniILostAgainText::
 	text "Arrgh!!"
-	line "I lost again!?"
+	line "Opet jsem prohral!?"
 	prompt
 
 _SilphCo11FGiovanniYouRuinedOurPlansText::
-	text "Blast it all!"
-	line "You ruined our"
-	cont "plans for SILPH!"
+	text "Proklinam to!"
+	line "Znicil jsi nase"
+	cont "plany pro SILPH!"
 
-	para "But, TEAM ROCKET"
-	line "will never fall!"
+	para "Ale TEAM ROCKET"
+	line "nikdy nepadne!"
 
-	para "<PLAYER>! Never"
-	line "forget that all"
-	cont "#MON exist"
-	cont "for TEAM ROCKET!"
+	para "<PLAYER>! Nikdy"
+	line "nezapomen, ze"
+	cont "#MON existuji"
+	cont "pro TEAM ROCKET!"
 
-	para "I must go, but I"
-	line "shall return!"
+	para "Musim jit, ale"
+	line "vratim se!"
 	done
 
 _SilphCo11FRocket1BattleText::
-	text "Stop right there!"
-	line "Don't you move!"
+	text "Stuj tam!"
+	line "Nepohybuj se!"
 	done
 
 _SilphCo11FRocket1EndBattleText::
-	text "Don't..."
-	line "Please!"
+	text "Ne..."
+	line "Prosim!"
 	prompt
 
 _SilphCo11FRocket1AfterBattleText::
-	text "So, you want to"
-	line "see my BOSS?"
+	text "Takze, chces videt"
+	line "meho SEFA?"
 	done
 
 _SilphCo11FRocket2BattleText::
-	text "Halt! Do you have"
-	line "an appointment"
-	cont "with my BOSS?"
+	text "Stuj! Mas"
+	line "schuzku s mym"
+	cont "SEFEM?"
 	done
 
 _SilphCo11FRocket2EndBattleText::
 	text "Gaah!"
-	line "Demolished!"
+	line "Znicen!"
 	prompt
 
 _SilphCo11FRocket2AfterBattleText::
-	text "Watch your step,"
-	line "my BOSS likes his"
-	cont "#MON tough!"
+	text "Sleduj si krok,"
+	line "muj SEF ma rad"
+	cont "#MON drsne!"
 	done
 
 _SilphCo10FPorygonText::
-	text "The monitor has"
-	line "#MON on it!"
+	text "Na monitoru je"
+	line "#MON!"
 	done

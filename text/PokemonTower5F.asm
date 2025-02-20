@@ -1,41 +1,41 @@
 _PokemonTower5FChanneler1Text::
-	text "Come, child! I"
-	line "sealed this space"
-	cont "with white magic!"
+	text "Pojd, dite! Ja"
+	line "jsem zapecetila tento prostor"
+	cont "bilou magii!"
 
-	para "You can rest here!"
+	para "Muzes si tu odpocinout!"
 	done
 
 _PokemonTower5FChanneler2BattleText::
-	text "Give...me..."
-	line "your...soul..."
+	text "Dej...mi..."
+	line "svou...dusi..."
 	done
 
 _PokemonTower5FChanneler2EndBattleText::
-	text "Gasp!"
+	text "Ach!"
 	prompt
 
 _PokemonTower5FChanneler2AfterBattleText::
-	text "I was under"
-	line "possession!"
+	text "Byla jsem posedla!"
+	line ""
 	done
 
 _PokemonTower5FChanneler3BattleText::
-	text "You...shall..."
-	line "join...us..."
+	text "Ty...se..."
+	line "k nam pripojis..."
 	done
 
 _PokemonTower5FChanneler3EndBattleText::
-	text "What"
-	line "a nightmare!"
+	text "Jaka"
+	line "nocni mura!"
 	prompt
 
 _PokemonTower5FChanneler3AfterBattleText::
-	text "I was possessed!"
+	text "Byla jsem posedla!"
 	done
 
 _PokemonTower5FChanneler4BattleText::
-	text "Zombies!"
+	text "Zombie!"
 	done
 
 _PokemonTower5FChanneler4EndBattleText::
@@ -43,8 +43,8 @@ _PokemonTower5FChanneler4EndBattleText::
 	prompt
 
 _PokemonTower5FChanneler4AfterBattleText::
-	text "I regained my"
-	line "senses!"
+	text "Znovu jsem nasla"
+	line "rozum!"
 	done
 
 _PokemonTower5FChanneler5BattleText::
@@ -53,19 +53,19 @@ _PokemonTower5FChanneler5BattleText::
 	done
 
 _PokemonTower5FChanneler5EndBattleText::
-	text "Whoo!"
+	text "Kdooo!"
 	prompt
 
 _PokemonTower5FChanneler5AfterBattleText::
-	text "I fell to evil"
-	line "spirits despite"
-	cont "my training!"
+	text "Padla jsem do rukou zlym"
+	line "duchum, prestoze"
+	cont "jsem trenovala!"
 	done
 
 _PokemonTower5FPurifiedZoneText::
-	text "Entered purified,"
-	line "protected zone!"
+	text "Vstoupili jste do ocistene,"
+	line "chranene zony!"
 
-	para "<PLAYER>'s #MON"
-	line "are fully healed!"
+	para "<PLAYER>ova #MON"
+	line "jsou plne uzdraveni!"
 	done

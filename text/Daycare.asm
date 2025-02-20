@@ -1,62 +1,62 @@
 _DaycareGentlemanIntroText::
-	text "I run a DAYCARE."
-	line "Would you like me"
-	cont "to raise one of"
-	cont "your #MON?"
+	text "Vedlu JESLE."
+	line "Chces, abych"
+	cont "se postaral o"
+	cont "tveho #MON?"
 	done
 
 _DaycareGentlemanWhichMonText::
-	text "Which #MON"
-	line "should I raise?"
+	text "Ktereho #MON"
+	line "mam vychovat?"
 	prompt
 
 _DaycareGentlemanWillLookAfterMonText::
-	text "Fine, I'll look"
-	line "after @"
+	text "Dobre, postaram"
+	line "se o @"
 	text_ram wNameBuffer
 	text_start
-	cont "for a while."
+	cont "nejakou dobu."
 	prompt
 
 _DaycareGentlemanComeSeeMeInAWhileText::
-	text "Come see me in"
-	line "a while."
+	text "Prijd se na me"
+	line "podivat pozdeji."
 	done
 
 _DaycareGentlemanMonHasGrownText::
-	text "Your @"
+	text "Tvuj @"
 	text_ram wNameBuffer
 	text_start
-	line "has grown a lot!"
+	line "hodne vyrostl!"
 
-	para "By level, it's"
-	line "grown by @"
+	para "Podle urovne se"
+	line "zvysil o @"
 	text_decimal wDayCareNumLevelsGrown, 1, 3
 	text "!"
 
-	para "Aren't I great?"
+	para "Nejsem snad skvely?"
 	prompt
 
 _DaycareGentlemanOweMoneyText::
-	text "You owe me ¥@"
+	text "Dluzis mi ¥@"
 	text_bcd wDayCareTotalCost, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text_start
-	line "for the return"
-	cont "of this #MON."
+	line "za navraceni"
+	cont "tohoto #MON."
 	done
 
 _DaycareGentlemanGotMonBackText::
-	text "<PLAYER> got"
+	text "<PLAYER> si vzal"
 	line "@"
 	text_ram wDayCareMonName
-	text " back!"
+	text " zpet!"
 	done
 
 _DaycareGentlemanMonNeedsMoreTimeText::
-	text "Back already?"
-	line "Your @"
+	text "Zpatky uz?"
+	line "Tvuj @"
 	text_ram wNameBuffer
 	text_start
-	cont "needs some more"
-	cont "time with me."
+	cont "potrebuje jeste"
+	cont "chvili se mnou."
 	prompt

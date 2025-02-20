@@ -1,146 +1,144 @@
 _PewterGymBrockPostBattleAdviceText::
-	text "There are all"
-	line "kinds of trainers"
-	cont "in the world!"
+	text "Ve svete je"
+	line "spousta treneru"
 
-	para "You appear to be"
-	line "very gifted as a"
-	cont "#MON trainer!"
+	cont "Pripada mi, ze"
+	line "jsi velmi nadany"
+	cont "trener #MONu!"
 
-	para "Go to the GYM in"
-	line "CERULEAN and test"
-	cont "your abilities!"
+	para "Jdi do stadionu"
+	line "v CERULEAN a"
+	cont "otestuj sve schopnosti!"
 	done
 
 _PewterGymBrockWaitTakeThisText::
-	text "Wait! Take this"
-	line "with you!"
+	text "Pockej! Vezmi"
+	line "si tohle s sebou!"
 	done
 
 _PewterGymReceivedTM34Text::
-	text "<PLAYER> received"
+	text "<PLAYER> dostal"
 	line "TM34!@"
 	text_end
 
 _TM34ExplanationText::
 	text_start
 
-	para "A TM contains a"
-	line "technique that"
-	cont "can be taught to"
+	para "TM obsahuje"
+	line "techniku, ktera"
+	cont "se muze naucit"
 	cont "#MON!"
 
-	para "A TM is good only"
-	line "once! So when you"
-	cont "use one to teach"
-	cont "a new technique,"
-	cont "pick the #MON"
-	cont "carefully!"
+	para "TM je dobry"
+	line "jenom jednou! Takze kdyz"
+	cont "ho pouzijes ke"
+	cont "vyuceni nove techniky,"
+	cont "vyber si #MON"
+	cont "opatrne!"
 
-	para "TM34 contains"
+	para "TM34 obsahuje"
 	line "BIDE!"
 
-	para "Your #MON will"
-	line "absorb damage in"
-	cont "battle then pay"
-	cont "it back double!"
+	para "Tvuj #MON bude"
+	line "absorbovat poskozeni"
+	cont "v boji a pote ho"
+	cont "vrati dvojnasobne!"
 	done
 
 _PewterGymTM34NoRoomText::
-	text "You don't have"
-	line "room for this!"
+	text "Na tohle nemas"
+	line "misto!"
 	done
 
 _PewterGymBrockReceivedBoulderBadgeText::
-	text "I took"
-	line "you for granted."
+	text "Povazoval"
+	line "jsem te za samozrejmost."
 
-	para "As proof of your"
-	line "victory, here's"
-	cont "the BOULDERBADGE!"
+	para "Jako dukaz tveho"
+	line "vitezstvi, tady je"
+	cont "BOULDERBADGE!"
 
-	para "<PLAYER> received"
-	line "the BOULDERBADGE!@"
+	para "<PLAYER> obdrzel"
+	line "BOULDERBADGE!@"
 	text_end
 
 _PewterGymBrockBoulderBadgeInfoText::
 	text_start
 
-	para "That's an official"
-	line "#MON LEAGUE"
-	cont "BADGE!"
+	para "To je oficialni"
+	line "odznak"
+	cont "POKEMON LIGY!"
 
-	para "Its bearer's"
-	line "#MON become"
-	cont "more powerful!"
+	para "Jeho nositeluv"
+	line "#MON se stava"
+	cont "silnejsim!"
 
-	para "The technique"
-	line "FLASH can now be"
-	cont "used any time!"
+	para "Technika"
+	line "FLASH nyni muze"
+	cont "byt pouzita kdykoliv!"
 	prompt
 
 _PewterGymCooltrainerMBattleText::
-	text "Stop right there,"
-	line "kid!"
+	text "Stuj tam,"
+	line "mladiku!"
 
-	para "You're still light"
-	line "years from facing"
-	cont "BROCK!"
+	para "Jsi jeste svetelne"
+	line "roky od setkani"
+	cont "s BROCKEM!"
 	done
 
 _PewterGymCooltrainerMEndBattleText::
-	text "Darn!"
+	text "Sakra!"
 
-	para "Light years isn't"
-	line "time! It measures"
-	cont "distance!"
+	para "Svetelne roky nejsou"
+	line "cas! Meri"
+	cont "vzdalenost!"
 	prompt
 
 _PewterGymCooltrainerMAfterBattleText::
-	text "You're pretty hot,"
-	line "but not as hot"
-	cont "as BROCK!"
+	text "Jsi docela zhavy,"
+	line "ale ne tak zhavy"
+	cont "jako BROCK!"
 	done
 
 _PewterGymGuidePreAdviceText::
-	text "Hiya! I can tell"
-	line "you have what it"
-	cont "takes to become a"
-	cont "#MON champ!"
+	text "Ahoj! Vidim, ze mas"
+	line "to, co je potreba k tomu,"
+	cont "abys se stal"
+	cont "sampionem #MON!"
 
-	para "I'm no trainer,"
-	line "but I can tell"
-	cont "you how to win!"
+	para "Nejsem trener,"
+	line "ale muzu ti rict,"
+	cont "jak vyhrat!"
 
-	para "Let me take you"
-	line "to the top!"
+	para "Vezmu te"
+	line "na vrchol!"
 	done
 
 _PewterGymGuideBeginAdviceText::
-	text "All right! Let's"
-	line "get happening!"
+	text "Dobre! Pojdme na to!"
 	prompt
 
 _PewterGymGuideAdviceText::
-	text "The 1st #MON"
-	line "out in a match is"
-	cont "at the top of the"
-	cont "#MON LIST!"
+	text "Prvni #MON"
+	line "v zapase je"
+	cont "na vrcholu seznamu"
+	cont "#MONu!"
 
-	para "By changing the"
-	line "order of #MON,"
-	cont "matches could be"
-	cont "made easier!"
+	para "Zmenou poradi"
+	line "#MONu mohou byt"
+	cont "zapasy"
+	cont "jednodussi!"
 	done
 
 _PewterGymGuideFreeServiceText::
-	text "It's a free"
-	line "service! Let's"
-	cont "get happening!"
+	text "Je to bezplatna"
+	line "sluzba! Pojdme"
+	cont "do toho!"
 	prompt
 
 _PewterGymGuidePostBattleText::
-	text "Just as I thought!"
-	line "You're #MON"
-	cont "champ material!"
+	text "Presne, jak jsem si myslel!"
+	line "Jsi material na"
+	cont "sampiona #MONu!"
 	done

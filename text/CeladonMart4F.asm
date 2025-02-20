@@ -1,26 +1,26 @@
 _CeladonMart4FSuperNerdText::
-	text "I'm getting a"
-	line "# DOLL for my"
-	cont "girl friend!"
+	text "Shanim"
+	line "panenku pro svou"
+	cont "pritelkyni!"
 	done
 
 _CeladonMart4FYoungsterText::
-	text "I heard something"
-	line "useful."
+	text "Slysel jsem neco"
+	line "uzitecneho."
 
-	para "You can run from"
-	line "wild #MON by"
-	cont "distracting them"
-	cont "with a # DOLL!"
+	para "Muzes utect od"
+	line "divokeho #MON"
+	cont "rozptylenim pomoci"
+	cont "panenky!"
 	done
 
 _CeladonMart4FCurrentFloorSignText::
-	text "Express yourself"
-	line "with gifts!"
+	text "Vyjadri se"
+	line "darky!"
 
-	para "4F: WISEMAN GIFTS"
+	para "4F: Dary od WISEMANa"
 
-	para "Evolution Special!"
-	line "Element STONEs on"
-	cont "sale now!"
+	para "Evoluce Special!"
+	line "Elementalni KAMENY"
+	cont "nyni ve sleve!"
 	done

@@ -1,67 +1,67 @@
 _Route24CooltrainerM1YouBeatOurContestText::
-	text "Congratulations!"
-	line "You beat our 5"
-	cont "contest trainers!@"
+	text "Gratulujeme!"
+	line "Prekonal jsi nasich 5"
+	cont "treninkovych soutezicich!@"
 	text_end
 
 _Route24CooltrainerM1YouJustEarnedAPrizeText::
 	text_start
 
-	para "You just earned a"
-	line "fabulous prize!"
+	para "Prave jsi ziskal"
+	line "skvelou odmenu!"
 	prompt
 
 _Route24CooltrainerM1ReceivedNuggetText::
-	text "<PLAYER> received"
+	text "<PLAYER> obdrzel"
 	line "a @"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _Route24CooltrainerM1NoRoomText::
-	text "You don't have"
-	line "any room!"
+	text "Nemas zadne"
+	line "volne misto!"
 	done
 
 _Route24CooltrainerM1JoinTeamRocketText::
-	text "By the way, would"
-	line "you like to join"
-	cont "TEAM ROCKET?"
+	text "Mimochodem, chtel"
+	line "bys se pripojit"
+	cont "k TYMU ROCKET?"
 
-	para "We're a group"
-	line "dedicated to evil"
-	cont "using #MON!"
+	para "Jsme skupina"
+	line "venovana zlu"
+	cont "pouzivajici #MON!"
 
-	para "Want to join?"
+	para "Chces se pripojit?"
 
-	para "Are you sure?"
+	para "Jsi si jisty?"
 
-	para "Come on, join us!"
+	para "No tak, pridej se k nam!"
 
-	para "I'm telling you"
-	line "to join!"
+	para "Rikam ti"
+	line "abys se pripojil!"
 
-	para "OK, you need"
-	line "convincing!"
+	para "OK, potrebujes"
+	line "presvedcovani!"
 
-	para "I'll make you an"
-	line "offer you can't"
-	cont "refuse!"
+	para "Ucinim ti"
+	line "nabidku, kterou nemuzes"
+	cont "odmitnout!"
 	done
 
 _Route24CooltrainerM1DefeatedText::
 	text "Arrgh!"
-	line "You are good!"
+	line "Jsi dobry!"
 	prompt
 
 _Route24CooltrainerM1YouCouldBecomeATopLeaderText::
-	text "With your ability,"
-	line "you could become"
-	cont "a top leader in"
-	cont "TEAM ROCKET!"
+	text "S tvymi schopnostmi,"
+	line "bys mohl stat se"
+	cont "nejlepsim vudcem v"
+	cont "TYMU ROCKET!"
 	done
 
 _Route24CooltrainerM2BattleText::
-	text "I saw your feat"
-	line "from the grass!"
+	text "Videl jsem tvuj vykon"
+	line "z travy!"
 	done

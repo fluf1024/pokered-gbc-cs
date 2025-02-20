@@ -1,9 +1,9 @@
 _CeruleanTradeHouseGrannyText::
-	text "My husband likes"
-	line "trading #MON."
+	text "Muj manzel ma rad"
+	line "vymenu #MON."
 
-	para "If you are a"
-	line "collector, would"
-	cont "you please trade"
-	cont "with him?"
+	para "Pokud jsi"
+	line "sberatel, mohl"
+	cont "bys s nim prosim"
+	cont "obchodovat?"
 	done

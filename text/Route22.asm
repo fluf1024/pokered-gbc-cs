@@ -1,104 +1,104 @@
+
 _Route22RivalBeforeBattleText1::
-	text "<RIVAL>: Hey!"
+	text "<RIVAL>: Hej!"
 	line "<PLAYER>!"
 
-	para "You're going to"
-	line "#MON LEAGUE?"
+	para "Jdes na"
+	line "#MON LIGU?"
 
-	para "Forget it! You"
-	line "probably don't"
-	cont "have any BADGEs!"
+	para "Zapomen na to!"
+	line "Pravdepodobne"
+	cont "nemas zadne ODZNAKY!"
 
-	para "The guard won't"
-	line "let you through!"
+	para "Straz te"
+	line "nepusti dal!"
 
-	para "By the way, did"
-	line "your #MON"
-	cont "get any stronger?"
+	para "A mimochodem,"
+	line "tvuj #MON"
+	cont "zesilil?"
 	done
 
 _Route22RivalAfterBattleText1::
-	text "I heard #MON"
-	line "LEAGUE has many"
-	cont "tough trainers!"
+	text "Slysel jsem, ze #MON"
+	line "LIGA ma mnoho"
+	cont "tvrdych treneru!"
 
-	para "I have to figure"
-	line "out how to get"
-	cont "past them!"
+	para "Musim prijit na to,"
+	line "jak se dostat"
+	cont "pres ne!"
 
-	para "You should quit"
-	line "dawdling and get"
-	cont "a move on!"
+	para "Mel bys prestat"
+	line "otalet a jit"
+	cont "do toho!"
 	done
 
 _Route22Rival1DefeatedText::
 	text "Awww!"
-	line "You just lucked"
-	cont "out!"
+	line "Mel jsi jen"
+	cont "stesti!"
 	prompt
 
 _Route22Rival1VictoryText::
-	text "<RIVAL>: What?"
-	line "Why do I have 2"
+	text "<RIVAL>: Coze?"
+	line "Proc mam 2"
 	cont "#MON?"
 
-	para "You should catch"
-	cont "some more too!"
+	para "Mel bys chytit"
+	cont "nejake dalsi taky!"
 	prompt
 
 _Route22RivalBeforeBattleText2::
-	text "<RIVAL>: What?"
-	line "<PLAYER>! What a"
-	cont "surprise to see"
-	cont "you here!"
+	text "<RIVAL>: Coze?"
+	line "<PLAYER>! To je"
+	cont "prekvapeni te"
+	cont "zde videt!"
 
-	para "So you're going to"
-	line "#MON LEAGUE?"
+	para "Takze jdes na"
+	line "#MON LIGU?"
 
-	para "You collected all"
-	line "the BADGEs too?"
-	cont "That's cool!"
+	para "Nasbiral jsi vsechny"
+	line "ODZNAKY?"
+	cont "To je skvele!"
 
-	para "Then I'll whip you"
-	line "<PLAYER> as a"
-	cont "warm up for"
-	cont "#MON LEAGUE!"
+	para "Pak te zprasknu"
+	line "<PLAYER> jako"
+	cont "rozcvicku na"
+	cont "#MON LIGU!"
 
-	para "Come on!"
+	para "Pojd!"
 	done
 
 _Route22RivalAfterBattleText2::
-	text "That loosened me"
-	line "up! I'm ready for"
-	cont "#MON LEAGUE!"
+	text "To me uvolnilo!"
+	line "Jsem pripraven na"
+	cont "#MON LIGU!"
 
-	para "<PLAYER>, you need"
-	line "more practice!"
+	para "<PLAYER>, potrebujes"
+	line "vic treninku!"
 
-	para "But hey, you know"
-	line "that! I'm out of"
-	cont "here. Smell ya!"
+	para "Ale hej, to vis!"
+	line "Jdu pryc. Cicham te!"
 	done
 
 _Route22Rival2DefeatedText::
-	text "What!?"
+	text "Coze!?"
 
-	para "I was just"
-	line "careless!"
+	para "Byl jsem jen"
+	line "neopatrny!"
 	prompt
 
 _Route22Rival2VictoryText::
 	text "<RIVAL>: Hahaha!"
-	line "<PLAYER>! That's"
-	cont "your best? You're"
-	cont "nowhere near as"
-	cont "good as me, pal!"
+	line "<PLAYER>! To je"
+	cont "tve maximum? Nejsi"
+	cont "ani zdaleka tak"
+	cont "dobry jako ja, kamo!"
 
-	para "Go train some"
-	line "more! You loser!"
+	para "Jdi vice"
+	line "trenovat! Ty smolari!"
 	prompt
 
 _Route22PokemonLeagueSignText::
-	text "#MON LEAGUE"
-	line "Front Gate"
+	text "#MON LIGA"
+	line "Hlavni brana"
 	done

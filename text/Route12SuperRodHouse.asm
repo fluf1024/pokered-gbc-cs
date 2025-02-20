@@ -1,23 +1,23 @@
 _Route12SuperRodHouseFishingGuruDoYouLikeToFishText::
-	text "I'm the FISHING"
-	line "GURU's brother!"
+	text "Jsem bratr"
+	line "RYBARSKEHO GURU!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "Proste miluji"
+	line "rybareni!"
 
-	para "Do you like to"
-	line "fish?"
+	para "Taky rad"
+	line "rybaris?"
 	done
 
 _Route12SuperRodHouseFishingGuruReceivedSuperRodText::
-	text "Grand! I like"
-	line "your style!"
+	text "Skvele! Libi se"
+	line "mi tvuj styl!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "Vezmi si tohle a"
+	line "rybar, mlady/a!"
 
-	para "<PLAYER> received"
-	line "a @"
+	para "<PLAYER> obdrzel/a"
+	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -25,38 +25,38 @@ _Route12SuperRodHouseFishingGuruReceivedSuperRodText::
 _Route12SuperRodHouseFishingGuruFishingWayOfLifeText::
 	text_start
 
-	para "Fishing is a way"
-	line "of life!"
+	para "Rybareni je"
+	line "zpusob zivota!"
 
-	para "From the seas to"
-	line "rivers, go out"
-	cont "and land the big"
-	cont "one!"
+	para "Z mori do rek,"
+	line "vydej se ven"
+	cont "a chyt tu velkou"
+	cont "rybu!"
 	done
 
 _Route12SuperRodHouseFishingGuruThatsDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Oh... To je"
+	line "zklamani..."
 	done
 
 _Route12SuperRodHouseFishingGuruTryFishingText::
-	text "Hello there,"
+	text "Ahoj,"
 	line "<PLAYER>!"
 
-	para "Use the SUPER ROD"
-	line "in any water!"
-	cont "You can catch"
-	cont "different kinds"
-	cont "of #MON."
+	para "Pouzijte SUPER ROD"
+	line "v jakekoli vode!"
+	cont "Muzete chytit"
+	cont "ruzne druhy"
+	cont "#MON."
 
-	para "Try fishing"
-	line "wherever you can!"
+	para "Zkuste rybarit"
+	line "kdekoliv muzete!"
 	done
 
 _Route12SuperRodHouseFishingGuruNoRoomText::
-	text "Oh no!"
+	text "Ach ne!"
 
-	para "I had a gift for"
-	line "you, but you have"
-	cont "no room for it!"
+	para "Mel/a jsem pro tebe"
+	line "darek, ale nemas"
+	cont "na nej misto!"
 	done

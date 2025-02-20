@@ -1,26 +1,26 @@
 _FuchsiaMeetingRoomSafariZoneWorker1::
-	text "We nicknamed the"
-	line "WARDEN SLOWPOKE."
+	text "Prezdivame mu"
+	line "SPRAVCE OSPALCE."
 
-	para "He and SLOWPOKE"
-	line "both look vacant!"
+	para "On a OSPALCE vypadaji"
+	line "oba zamyslene!"
 	done
 
 _FuchsiaMeetingRoomSafariZoneWorker2::
-	text "SLOWPOKE is very"
-	line "knowledgeable"
-	cont "about #MON!"
+	text "OSPALCE je velmi"
+	line "znaly"
+	cont "o #MON!"
 
-	para "He even has some"
-	line "fossils of rare,"
-	cont "extinct #MON!"
+	para "Dokonce ma nejake"
+	line "fosilie vzacnych,"
+	cont "vyhynulych #MON!"
 	done
 
 _FuchsiaMeetingRoomSafariZoneWorker3::
-	text "SLOWPOKE came in,"
-	line "but I couldn't"
-	cont "understand him."
+	text "OSPALCE prisel,"
+	line "ale nemohl jsem"
+	cont "mu rozumet."
 
-	para "I think he's got"
-	line "a speech problem!"
+	para "Myslim, ze ma"
+	line "problem s reci!"
 	done

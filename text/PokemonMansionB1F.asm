@@ -1,6 +1,6 @@
 _PokemonMansionB1FBurglarBattleText::
-	text "Uh-oh. Where am"
-	line "I now?"
+	text "A jeje. Kde jsem"
+	line "ted ja?"
 	done
 
 _PokemonMansionB1FBurglarEndBattleText::
@@ -8,32 +8,32 @@ _PokemonMansionB1FBurglarEndBattleText::
 	prompt
 
 _PokemonMansionB1FBurglarAfterBattleText::
-	text "You can find stuff"
-	line "lying around."
+	text "Muzes najit veci"
+	line "valejici se kolem."
 	done
 
 _PokemonMansionB1FScientistBattleText::
-	text "This place is"
-	line "ideal for a lab."
+	text "Toto misto je"
+	line "idealni pro laborator."
 	done
 
 _PokemonMansionB1FScientistEndBattleText::
-	text "What"
-	line "was that for?"
+	text "Za co"
+	line "to bylo?"
 	prompt
 
 _PokemonMansionB1FScientistAfterBattleText::
-	text "I like it here!"
-	line "It's conducive to"
-	cont "my studies!"
+	text "Mam to tu rad!"
+	line "Je to vhodne pro"
+	cont "me studie!"
 	done
 
 _PokemonMansionB1FDiaryText::
-	text "Diary; Sept. 1"
-	line "MEWTWO is far too"
-	cont "powerful."
+	text "Denik; 1. zari"
+	line "MEWTWO je prilis"
+	cont "mocny."
 
-	para "We have failed to"
-	line "curb its vicious"
-	cont "tendencies..."
+	para "Nepodarilo se nam"
+	line "potlacit jeho divoke"
+	cont "sklony..."
 	done

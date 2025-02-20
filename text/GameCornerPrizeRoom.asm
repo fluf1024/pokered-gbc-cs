@@ -1,12 +1,12 @@
 _GameCornerPrizeRoomBaldingGuyText::
-	text "I sure do fancy"
-	line "that PORYGON!"
+	text "Urcite mam zalibu"
+	line "v tom PORYGONOVI!"
 
-	para "But, it's hard to"
-	line "win at slots!"
+	para "Ale je tezke"
+	line "vyhravat na automatech!"
 	done
 
 _GameCornerPrizeRoomGamblerText::
-	text "I had a major"
-	line "haul today!"
+	text "Dnes jsem mel"
+	line "velky zisk!"
 	done

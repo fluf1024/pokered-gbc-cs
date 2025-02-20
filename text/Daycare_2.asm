@@ -1,34 +1,34 @@
 _DaycareGentlemanAllRightThenText::
-	text "All right then,"
+	text "Dobra tedy,"
 	line "@"
 	text_end
 
 _DaycareGentlemanComeAgainText::
-	text "come again."
+	text "prijdte znovu."
 	done
 
 _DaycareGentlemanNoRoomForMonText::
-	text "You have no room"
-	line "for this #MON!"
+	text "Nemate misto"
+	line "pro tohoto #MON!"
 	done
 
 _DaycareGentlemanOnlyHaveOneMonText::
-	text "You only have one"
-	line "#MON with you."
+	text "Mate s sebou"
+	line "jen jednoho #MON."
 	done
 
 _DaycareGentlemanCantAcceptMonWithHMText::
-	text "I can't accept a"
-	line "#MON that"
-	cont "knows an HM move."
+	text "Nemohu prijmout"
+	line "#MON, ktery"
+	cont "zna HM tah."
 	done
 
 _DaycareGentlemanHeresYourMonText::
-	text "Thank you! Here's"
-	line "your #MON!"
+	text "Dekuji! Tady je"
+	line "vas #MON!"
 	prompt
 
 _DaycareGentlemanNotEnoughMoneyText::
-	text "Hey, you don't"
-	line "have enough ¥!"
+	text "Hej, nemate"
+	line "dost ¥!"
 	done

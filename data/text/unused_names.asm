@@ -1,22 +1,22 @@
 UnusedBadgeNames::
-	db "かみなりバッヂ@" ; THUNDER BADGE
-	db "かいがらバッヂ@" ; SHELL BADGE
-	db "おじぞうバッヂ@" ; JIZOU BADGE
-	db "はやぶさバッヂ@" ; FALCON BADGE
-	db "ひんやりバッヂ@" ; CHILL BADGE
-	db "なかよしバッヂ@" ; FRIENDSHIP BADGE
-	db "バラバッヂ@" ; ROSE BADGE
-	db "ひのたまバッヂ@" ; FIREBALL BADGE
-	db "ゴールドバッヂ@" ; GOLD BADGE
+	db "kaminaribatsudi@" ; ODZNAK HROMU
+	db "kaigarabatsudi@" ; ODZNAK LASTURY
+	db "ozizoubatsudi@" ; ODZNAK JIZOU
+	db "hayabusabatsudi@" ; ODZNAK SOKOLA
+	db "hinyaribatsudi@" ; CHLADNY ODZNAK
+	db "nakayoshibatsudi@" ; ODZNAK PRATELSTVI
+	db "barabatsudi@" ; ODZNAK RUZE
+	db "hinotamabatsudi@" ; ODZNAK OHNIVE KOULE
+	db "go-rudobatsudi@" ; ZLATY ODZNAK
 
 UnusedRankingNames:
-	db "たまご@" ; EGG
-	db "ひよこ@" ; CHICK
-	db "ブロンズ@" ; BRONZE
-	db "シルバー@" ; SILVER
-	db "ゴールド@" ; GOLD
-	db "プチキャプテン@" ; PETIT CAPTAIN
-	db "キャプテン@" ; CAPTAIN
-	db "プチマスター@" ; PETIT MASTER
-	db "マスター@" ; MASTER
-	db "エクセレント" ; EXCELLENT
+	db "tamago@" ; VEJCE
+	db "hiyoko@" ; KURE
+	db "buronzu@" ; BRONZOVY
+	db "shiruba-@" ; STRIBRNY
+	db "go-rudo@" ; ZLATY
+	db "puchikiyaputen@" ; MALY KAPITAN
+	db "kiyaputen@" ; KAPITAN
+	db "puchimasuta-@" ; MALY MISTR
+	db "masuta-@" ; MISTR
+	db "ekuserento" ; VYNIKAJICI

@@ -1,42 +1,42 @@
 _LoreleisRoomLoreleiBeforeBattleText::
-	text "Welcome to"
-	line "#MON LEAGUE!"
+	text "Vitejte na"
+	line "#MON LIZE!"
 
-	para "I am LORELEI of"
-	line "the ELITE FOUR!"
+	para "Jsem LORELEI z"
+	line "ELITNI CTYRKY!"
 
-	para "No one can best"
-	line "me when it comes"
-	cont "to icy #MON!"
+	para "Nikdo nemuze byt"
+	line "lepsi nez ja, kdyz"
+	cont "jde o ledove #MON!"
 
-	para "Freezing moves"
-	line "are powerful!"
+	para "Zmrazovaci utoky"
+	line "jsou mocne!"
 
-	para "Your #MON will"
-	line "be at my mercy"
-	cont "when they are"
-	cont "frozen solid!"
+	para "Vase #MON budou"
+	line "v me moci"
+	cont "kdyz budou"
+	cont "zcela zamrzle!"
 
 	para "Hahaha!"
-	line "Are you ready?"
+	line "Jste pripraveni?"
 	done
 
 _LoreleisRoomLoreleiEndBattleText::
-	text "How"
-	line "dare you!"
+	text "Jak"
+	line "se opovazujete!"
 	prompt
 
 _LoreleisRoomLoreleiAfterBattleText::
-	text "You're better"
-	line "than I thought!"
-	cont "Go on ahead!"
+	text "Jste lepsi,"
+	line "nez jsem si myslela!"
+	cont "Jdete dal!"
 
-	para "You only got a"
-	line "taste of #MON"
-	cont "LEAGUE power!"
+	para "Meli jste jen"
+	line "ochutnavku sily"
+	cont "LIGY #MON!"
 	done
 
 _LoreleisRoomLoreleiDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "Neci hlas:"
+	line "Neutikej pryc!"
 	done

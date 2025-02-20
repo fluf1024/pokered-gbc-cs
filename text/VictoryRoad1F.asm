@@ -1,31 +1,31 @@
 _VictoryRoad1FCooltrainerFBattleText::
-	text "I wonder if you"
-	line "are good enough"
-	cont "for me!"
+	text "Zajimalo by me, jestli"
+	line "jsi dost dobry"
+	cont "pro me!"
 	done
 
 _VictoryRoad1FCooltrainerFEndBattleText::
-	text "I"
-	line "lost out!"
+	text "Prohrala"
+	line "jsem!"
 	prompt
 
 _VictoryRoad1FCooltrainerFAfterBattleText::
-	text "I never wanted to"
-	line "lose to anybody!"
+	text "Nikdy jsem nechtela"
+	line "prohrat s nikym!"
 	done
 
 _VictoryRoad1FCooltrainerMBattleText::
-	text "I can see you're"
-	line "good! Let me see"
-	cont "exactly how good!"
+	text "Vidim, ze jsi"
+	line "dobry! Ukaz mi"
+	cont "presne jak dobry!"
 	done
 
 _VictoryRoad1FCooltrainerMEndBattleText::
-	text "I"
-	line "had a chance..."
+	text "Mel"
+	line "jsem sanci..."
 	prompt
 
 _VictoryRoad1FCooltrainerMAfterBattleText::
-	text "I concede, you're"
-	line "better than me!"
+	text "Uznavam, jsi"
+	line "lepsi nez ja!"
 	done

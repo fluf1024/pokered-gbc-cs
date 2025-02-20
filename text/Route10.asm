@@ -1,18 +1,18 @@
 _Route10SuperNerd1BattleText::
-	text "Wow, are you a"
-	line "#MANIAC too?"
-	cont "Want to see my"
-	cont "collection?"
+	text "Wow, jsi taky"
+	line "#MANIAK?"
+	cont "Chces videt mou"
+	cont "sbirku?"
 	done
 
 _Route10SuperNerd1EndBattleText::
-	text "Humph."
-	line "I'm not angry!"
+	text "Tss."
+	line "Nejsem rozzlobeny!"
 	prompt
 
 _Route10SuperNerd1AfterBattleText::
-	text "I have more rare"
-	line "#MON at home!"
+	text "Mam doma vice"
+	line "vzacnych #MON!"
 	done
 
 _Route10Hiker1BattleText::
@@ -21,88 +21,88 @@ _Route10Hiker1BattleText::
 
 _Route10Hiker1EndBattleText::
 	text "Ha-haha!"
-	line "Not laughing!"
-	cont "Ha-hay fever!"
-	cont "Haha-ha-choo!"
+	line "Nesmeju se!"
+	cont "He-senna ryma!"
+	cont "Haha-ha-kych!"
 	prompt
 
 _Route10Hiker1AfterBattleText::
-	text "Haha-ha-choo!"
-	line "Ha-choo!"
-	cont "Snort! Snivel!"
+	text "Haha-ha-kych!"
+	line "Ha-kych!"
+	cont "Cich! Smrk!"
 	done
 
 _Route10SuperNerd2BattleText::
-	text "Hi kid, want to"
-	line "see my #MON?"
+	text "Ahoj dite, chces"
+	line "videt me #MON?"
 	done
 
 _Route10SuperNerd2EndBattleText::
-	text "Oh no!"
-	line "My #MON!"
+	text "Ach ne!"
+	line "Moje #MON!"
 	prompt
 
 _Route10SuperNerd2AfterBattleText::
-	text "I don't like you"
-	line "for beating me!"
+	text "Nezamlouva se mi,"
+	line "ze jsi me porazil!"
 	done
 
 _Route10CooltrainerF1BattleText::
-	text "I've been to a"
-	line "#MON GYM a few"
-	cont "times. But, I"
-	cont "lost each time."
+	text "Byla jsem v"
+	line "#MON GYM par"
+	cont "krat. Ale,"
+	cont "pokazde jsem prohrala."
 	done
 
 _Route10CooltrainerF1EndBattleText::
 	text "Ohh!"
-	line "Blew it again!"
+	line "Zas to nevyslo!"
 	prompt
 
 _Route10CooltrainerF1AfterBattleText::
-	text "I noticed some"
-	line "#MANIACs"
-	cont "prowling around."
+	text "Vsimla jsem si, ze"
+	line "#MANIAKove"
+	cont "se tu potuluji."
 	done
 
 _Route10Hiker2BattleText::
-	text "Ah! This mountain"
-	line "air is delicious!"
+	text "Ah! Tento horsky"
+	line "vzduch je skvely!"
 	done
 
 _Route10Hiker2EndBattleText::
-	text "That"
-	line "cleared my head!"
+	text "To"
+	line "mi vycistilo hlavu!"
 	prompt
 
 _Route10Hiker2AfterBattleText::
-	text "I feel bloated on"
-	line "mountain air!"
+	text "Citim se nafouknuty"
+	line "z horskeho vzduchu!"
 	done
 
 _Route10CooltrainerF2BattleText::
-	text "I'm feeling a bit"
-	line "faint from this"
-	cont "tough hike."
+	text "Citim se trochu"
+	line "slabe po tomto"
+	cont "narocnem vyslapu."
 	done
 
 _Route10CooltrainerF2EndBattleText::
-	text "I'm"
-	line "not up to it!"
+	text "Nejsem"
+	line "na to pripravena!"
 	prompt
 
 _Route10CooltrainerF2AfterBattleText::
-	text "The #MON here"
-	line "are so chunky!"
-	cont "There should be a"
-	cont "pink one with a"
-	cont "floral pattern!"
+	text "Ti #MON tady"
+	line "jsou tak robustni!"
+	cont "Mel by tu byt"
+	cont "ruzovy s"
+	cont "kvetinovym vzorem!"
 	done
 
 _Route10RockTunnelSignText::
-	text "ROCK TUNNEL"
+	text "SKALNI TUNEL"
 	done
 
 _Route10PowerPlantSignText::
-	text "POWER PLANT"
+	text "ELEKTRARNA"
 	done

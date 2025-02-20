@@ -1,60 +1,62 @@
 _CeladonDinerCookText::
-	text "Hi!"
+	text "Ahoj!"
 
-	para "We're taking a"
-	line "break now."
+	para "Prave mame"
+	line "prestavku."
 	done
 
 _CeladonDinerMiddleAgedWomanText::
-	text "My #MON are"
-	line "weak, so I often"
-	cont "have to go to the"
-	cont "DRUG STORE."
+	text "Moji #MON jsou"
+	line "slabi, takze"
+	cont "casto musim"
+	cont "chodit do"
+	cont "OBCHODU S LEKY."
 	done
 
 _CeladonDinerMiddleAgedManText::
-	text "Psst! There's a"
-	line "basement under"
-	cont "the GAME CORNER."
+	text "Psst! Pod"
+	line "HERNOU je"
+	cont "sklep."
 	done
 
 _CeladonDinerFisherText::
-	text "Munch..."
+	text "Chroup..."
 
-	para "The man at that"
-	line "table lost it all"
-	cont "at the slots."
+	para "Muz u tamtoho"
+	line "stolu vse"
+	cont "prohral na"
+	cont "automatech."
 	done
 
 _CeladonDinerGymGuideImFlatOutBustedText::
-	text "Go ahead! Laugh!"
+	text "Jen do toho! Smej se!"
 
-	para "I'm flat out"
-	line "busted!"
+	para "Jsem uplne"
+	line "na mizine!"
 
-	para "No more slots for"
-	line "me! I'm going"
-	cont "straight!"
+	para "Uz zadne automaty"
+	line "pro me! Jdu"
+	cont "spravnou cestou!"
 
-	para "Here! I won't be"
-	line "needing this any-"
-	cont "more!"
+	para "Tady! Uz to nebu-"
+	line "du potrebovat!"
+	cont "vice!"
 	prompt
 
 _CeladonDinerGymGuideReceivedCoinCaseText::
-	text "<PLAYER> received"
-	line "a @"
+	text "<PLAYER> obdrzel"
+	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _CeladonDinerGymGuideCoinCaseNoRoomText::
-	text "Make room for"
-	line "this!"
+	text "Udelej misto pro"
+	line "tohle!"
 	done
 
 _CeladonDinerGymGuideWinItBackText::
-	text "I always thought"
-	line "I was going to"
-	cont "win it back..."
+	text "Vzdycky jsem si"
+	line "myslel, ze vse"
+	cont "ziskam zpet..."
 	done

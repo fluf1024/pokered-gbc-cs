@@ -1,74 +1,74 @@
 _CeladonCityLittleGirlText::
-	text "I got my KOFFING"
-	line "in CINNABAR!"
+	text "Chytla jsem si KOFFING"
+	line "na CINNABARU!"
 
-	para "It's nice, but it"
-	line "breathes poison"
-	cont "when it's angry!"
+	para "Je to mile, ale"
+	line "dycha jed, kdyz"
+	cont "je nastvany!"
 	done
 
 _CeladonCityGramps1Text::
-	text "Heheh! This GYM"
-	line "is great! It's"
-	cont "full of women!"
+	text "Heheh! Tato GYM"
+	line "je skvela! Je"
+	cont "plna zen!"
 	done
 
 _CeladonCityGirlText::
-	text "The GAME CORNER"
-	line "is bad for our"
-	cont "city's image!"
+	text "HERNI AUTOMATY"
+	line "jsou spatne pro"
+	cont "image naseho mesta!"
 	done
 
 _CeladonCityGramps2Text::
-	text "Moan! I blew it"
-	line "all at the slots!"
+	text "Achjo! Prohral jsem"
+	line "vsechno na automatech!"
 
-	para "I knew I should"
-	line "have cashed in my"
-	cont "coins for prizes!"
+	para "Vedel jsem, ze jsem"
+	line "mel vymenit sve"
+	cont "mince za ceny!"
 	done
 
 _CeladonCityGramps3Text::
-	text "Hello, there!"
+	text "Nazdar!"
 
-	para "I've seen you,"
-	line "but I never had a"
-	cont "chance to talk!"
+	para "Videl jsem te,"
+	line "ale nikdy nemel"
+	cont "prilezitost si popovidat!"
 
-	para "Here's a gift for"
-	line "dropping by!"
+	para "Tady je darek za"
+	line "navstevu!"
 	prompt
 
 _CeladonCityGramps3ReceivedTM41Text::
-	text "<PLAYER> received"
+	text "<PLAYER> dostal"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _CeladonCityGramps3TM41ExplanationText::
-	text "TM41 teaches"
+	text "TM41 uci"
 	line "SOFTBOILED!"
 
-	para "Only one #MON"
-	line "can use it!"
+	para "Pouze jeden #MON"
+	line "to muze pouzit!"
 
-	para "That #MON is"
+	para "Ten #MON je"
 	line "CHANSEY!"
 	done
 
 _CeladonCityGramps3TM41NoRoomText::
-	text "Oh, your pack is"
-	line "full of items!"
+	text "Ach, tvuj batoh je"
+	line "plny predmetu!"
 	done
 
 _CeladonCityFisherText::
-	text "This is my trusted"
-	line "pal, POLIWRATH!"
+	text "Tohle je muj verny"
+	line "pritel, POLIWRATH!"
 
-	para "It evolved from"
-	line "POLIWHIRL when I"
-	cont "used WATER STONE!"
+	para "Vyvinul se z"
+	line "POLIWHIRL, kdyz jsem"
+	cont "pouzil VODNI KAMEN!"
 	done
 
 _CeladonCityPoliwrathText::
@@ -77,35 +77,35 @@ _CeladonCityPoliwrathText::
 	text_end
 
 _CeladonCityRocket1Text::
-	text "What are you"
-	line "staring at?"
+	text "Na co to"
+	line "ziras?"
 	done
 
 _CeladonCityRocket2Text::
-	text "Keep out of TEAM"
-	line "ROCKET's way!"
+	text "Drz se dal od"
+	line "cesty TEAM ROCKET!"
 	done
 
 _CeladonCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "RADY PRO TRENERY"
 
-	para "X ACCURACY boosts"
-	line "the accuracy of"
-	cont "techniques!"
+	para "X PRESNOST zvysuje"
+	line "presnost"
+	cont "technik!"
 
-	para "DIRE HIT jacks up"
-	line "the likelihood of"
-	cont "critical hits!"
+	para "DIRE HIT zvetsuje"
+	line "pravdepodobnost"
+	cont "kritickych zasahu!"
 
-	para "Get your items at"
+	para "Ziskejte sve predmety v"
 	line "CELADON DEPT."
 	cont "STORE!"
 	done
 
 _CeladonCitySignText::
 	text "CELADON CITY"
-	line "The City of"
-	cont "Rainbow Dreams"
+	line "Mesto"
+	cont "Duhovych snu"
 	done
 
 _CeladonCityGymSignText::
@@ -113,8 +113,8 @@ _CeladonCityGymSignText::
 	line "#MON GYM"
 	cont "LEADER: ERIKA"
 
-	para "The Nature Loving"
-	line "Princess!"
+	para "Princezna milujici"
+	line "prirodu!"
 	done
 
 _CeladonCityMansionSignText::
@@ -122,33 +122,32 @@ _CeladonCityMansionSignText::
 	done
 
 _CeladonCityDeptStoreSignText::
-	text "Find what you"
-	line "need at CELADON"
+	text "Najdete, co"
+	line "potrebujete v CELADON"
 	cont "DEPT. STORE!"
 	done
 
 _CeladonCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "RADY PRO TRENERY"
 
-	para "GUARD SPEC."
-	line "protects #MON"
-	cont "against SPECIAL"
-	cont "attacks such as"
-	cont "fire and water!"
+	para "OCHRANA STRAZE"
+	line "chrani #MON pred"
+	cont "SPECIALNIMI utoky jako"
+	cont "ohen a voda!"
 
-	para "Get your items at"
+	para "Ziskejte sve predmety v"
 	line "CELADON DEPT."
 	cont "STORE!"
 	done
 
 _CeladonCityPrizeExchangeSignText::
-	text "Coins exchanged"
-	line "for prizes!"
-	cont "PRIZE EXCHANGE"
+	text "Mince vymeneny"
+	line "za ceny!"
+	cont "VYMENA CEN"
 	done
 
 _CeladonCityGameCornerSignText::
-	text "ROCKET GAME CORNER"
-	line "The playground"
-	cont "for grown-ups!"
+	text "ROCKET HERNA"
+	line "Hriste"
+	cont "pro dospele!"
 	done

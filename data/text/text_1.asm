@@ -4,13 +4,13 @@ _CardKeySuccessText1::
 
 _CardKeySuccessText2::
 	text_start
-	line "The CARD KEY"
-	cont "opened the door!"
+	line "Klicova karta"
+	cont "otevrela dvere!"
 	done
 
 _CardKeyFailText::
-	text "Darn! It needs a"
-	line "CARD KEY!"
+	text "Sakra! Potrebuje to"
+	line "KLICOVOU KARTU!"
 	done
 
 _TrainerNameText::
@@ -19,17 +19,17 @@ _TrainerNameText::
 	text_end
 
 _NoNibbleText::
-	text "Not even a nibble!"
+	text "Ani drobek!"
 	prompt
 
 _NothingHereText::
-	text "Looks like there's"
-	line "nothing here."
+	text "Vypada to, ze"
+	line "tu nic neni."
 	prompt
 
 _ItsABiteText::
 	text "Oh!"
-	line "It's a bite!"
+	line "Je to zaber!"
 	prompt
 
 _ExclamationText::
@@ -37,112 +37,112 @@ _ExclamationText::
 	done
 
 _GroundRoseText::
-	text "Ground rose up"
-	line "somewhere!"
+	text "Zeme se"
+	line "nekde zvedla!"
 	done
 
 _BoulderText::
-	text "This requires"
-	line "STRENGTH to move!"
+	text "K tomu je treba"
+	line "SILA k pohybu!"
 	done
 
 _MartSignText::
-	text "All your item"
-	line "needs fulfilled!"
+	text "Vsechny vase potreby"
+	line "s predmety splneny!"
 	cont "#MON MART"
 	done
 
 _PokeCenterSignText::
-	text "Heal Your #MON!"
-	line "#MON CENTER"
+	text "Vylecte sve #MON!"
+	line "#MON CENTRUM"
 	done
 
 _FoundItemText::
-	text "<PLAYER> found"
+	text "<PLAYER> nasel"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _NoMoreRoomForItemText::
-	text "No more room for"
-	line "items!"
+	text "Zadne dalsi misto"
+	line "pro predmety!"
 	done
 
 _OaksAideHiText::
-	text "Hi! Remember me?"
-	line "I'm PROF.OAK's"
-	cont "AIDE!"
+	text "Ahoj! Pamatujes si me?"
+	line "Jsem ASISTENT"
+	cont "PROFESORA OAKA!"
 
-	para "If you caught @"
+	para "Pokud jsi chytil @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
-	line "kinds of #MON,"
-	cont "I'm supposed to"
-	cont "give you an"
+	line "typu #MON,"
+	cont "jsem povinen ti"
+	cont "dat"
 	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "!"
 
-	para "So, <PLAYER>! Have"
-	line "you caught at"
-	cont "least @"
+	para "Takze, <PLAYER>! Chytil"
+	line "jsi alespon"
+	cont "@"
 	text_decimal hOaksAideRequirement, 1, 3
-	text " kinds of"
+	text " druhu"
 	cont "#MON?"
 	done
 
 _OaksAideUhOhText::
-	text "Let's see..."
-	line "Uh-oh! You have"
-	cont "caught only @"
+	text "Podivame se..."
+	line "A jeje! Chytil jsi"
+	cont "pouze @"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
 	text_start
-	cont "kinds of #MON!"
+	cont "druhu #MON!"
 
-	para "You need @"
+	para "Potrebujes @"
 	text_decimal hOaksAideRequirement, 1, 3
-	text " kinds"
-	line "if you want the"
+	text " druhu"
+	line "pokud chces"
 	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "."
 	done
 
 _OaksAideComeBackText::
-	text "Oh. I see."
+	text "Oh. Vidim."
 
-	para "When you get @"
+	para "Az dostanes @"
 	text_decimal hOaksAideRequirement, 1, 3
 	text_start
-	line "kinds, come back"
-	cont "for @"
+	line "druhu, vrat se"
+	cont "pro @"
 	text_ram wOaksAideRewardItemName
 	text "."
 	done
 
 _OaksAideHereYouGoText::
-	text "Great! You have"
-	line "caught @"
+	text "Skvele! Chytil jsi"
+	line "@"
 	text_decimal hOaksAideNumMonsOwned, 1, 3
-	text " kinds "
-	cont "of #MON!"
-	cont "Congratulations!"
+	text " druhu"
+	cont "#MON!"
+	cont "Gratulujeme!"
 
-	para "Here you go!"
+	para "Tady mas!"
 	prompt
 
 _OaksAideGotItemText::
-	text "<PLAYER> got the"
+	text "<PLAYER> dostal/a"
 	line "@"
 	text_ram wOaksAideRewardItemName
 	text "!@"
 	text_end
 
 _OaksAideNoRoomText::
-	text "Oh! I see you"
-	line "don't have any"
-	cont "room for the"
+	text "Oh! Vidim, ze"
+	line "nemas zadne"
+	cont "misto pro"
 	cont "@"
 	text_ram wOaksAideRewardItemName
 	text "."

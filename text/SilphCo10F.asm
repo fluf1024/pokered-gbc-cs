@@ -1,42 +1,42 @@
 _SilphCo10FSilphWorkerFImScaredText::
 	text "Waaaaa!"
-	cont "I'm scared!"
+	cont "Bojim se!"
 	done
 
 _SilphCo10FSilphWorkerFQuietAboutMyCryingText::
-	text "Please keep quiet"
-	line "about my crying!"
+	text "Prosim, bud ticho"
+	line "o mem placi!"
 	done
 
 _SilphCo10FRocketBattleText::
-	text "Welcome to the"
-	line "10F! So good of"
-	cont "you to join me!"
+	text "Vitej na"
+	line "10. patre! Jsem"
+	cont "rad, ze ses pridal!"
 	done
 
 _SilphCo10FRocketEndBattleText::
-	text "I'm"
-	line "stunned!"
+	text "Jsem"
+	line "ohromen!"
 	prompt
 
 _SilphCo10FRocketAfterBattleText::
-	text "Nice try, but the"
-	line "boardroom is up"
-	cont "one more floor!"
+	text "Hezky pokus, ale"
+	line "zasedaci mistnost je"
+	cont "o patro vys!"
 	done
 
 _SilphCo10FScientistBattleText::
-	text "Enough of your"
-	line "silly games!"
+	text "Uz me nebavi"
+	line "tve hloupe hry!"
 	done
 
 _SilphCo10FScientistEndBattleText::
-	text "No"
-	line "continues left!"
+	text "Uz zadne"
+	line "pokracovani!"
 	prompt
 
 _SilphCo10FScientistAfterBattleText::
-	text "Are you satisfied"
-	line "with beating me?"
-	cont "Then go on home!"
+	text "Jsi spokojeny"
+	line "s tim, ze jsi me porazil?"
+	cont "Tak jdi domu!"
 	done

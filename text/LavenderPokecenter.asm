@@ -1,12 +1,12 @@
 _LavenderPokecenterGentlemanText::
-	text "TEAM ROCKET will"
-	line "do anything for"
-	cont "the sake of gold!"
+	text "TEAM ROCKET udela"
+	line "cokoliv pro"
+	cont "bohatstvi!"
 	done
 
 _LavenderPokecenterLittleGirlText::
-	text "I saw CUBONE's"
-	line "mother die trying"
-	cont "to escape from"
-	cont "TEAM ROCKET!"
+	text "Videla jsem, jak"
+	line "CUBONEova matka"
+	cont "zemrela pri uteku"
+	cont "z TEAM ROCKET!"
 	done

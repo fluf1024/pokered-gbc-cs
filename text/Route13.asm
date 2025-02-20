@@ -1,179 +1,179 @@
+
 _Route13CooltrainerM1BattleText::
-	text "My bird #MON"
-	line "want to scrap!"
+	text "Muj ptaci #MON"
+	line "chce bojovat!"
 	done
 
 _Route13CooltrainerM1EndBattleText::
-	text "My"
-	line "bird combo lost?"
+	text "Muj"
+	line "ptaci tym prohral?"
 	prompt
 
 _Route13CooltrainerM1AfterBattleText::
-	text "My #MON look"
-	line "happy even though"
-	cont "they lost."
+	text "Muj #MON vypada"
+	line "stastny, i kdyz"
+	cont "prohrali."
 	done
 
 _Route13CooltrainerF1BattleText::
-	text "I'm told I'm good"
-	line "for a kid!"
+	text "Rikaji, ze jsem"
+	line "dobra na dite!"
 	done
 
 _Route13CooltrainerF1EndBattleText::
 	text "Ohh!"
-	line "I lost!"
+	line "Prohrala jsem!"
 	prompt
 
 _Route13CooltrainerF1AfterBattleText::
-	text "I want to become"
-	line "a good trainer."
-	cont "I'll train hard."
+	text "Chci se stat"
+	line "dobrym trenerem."
+	cont "Budu tvrde trenovat."
 	done
 
 _Route13CooltrainerF2BattleText::
-	text "Wow! Your BADGEs"
-	line "are too cool!"
+	text "Wow! Tve ODZNAKY"
+	line "jsou uzasne!"
 	done
 
 _Route13CooltrainerF2EndBattleText::
-	text "Not"
-	line "enough!"
+	text "Ne"
+	line "dostatecne!"
 	prompt
 
 _Route13CooltrainerF2AfterBattleText::
-	text "You got those"
-	line "BADGEs from GYM"
-	cont "LEADERs. I know!"
+	text "Ty jsi ziskal"
+	line "tyto ODZNAKY od"
+	cont "LIDRU GYMU. Vim!"
 	done
 
 _Route13CooltrainerF3BattleText::
-	text "My cute #MON"
-	line "wish to make your"
-	cont "acquaintance."
+	text "Muj roztomily #MON"
+	line "by rad poznal"
+	cont "tveho."
 	done
 
 _Route13CooltrainerF3EndBattleText::
 	text "Wow!"
-	line "You totally won!"
+	line "Totalne jsi vyhral!"
 	prompt
 
 _Route13CooltrainerF3AfterBattleText::
-	text "You have to make"
-	line "#MON fight to"
-	cont "toughen them up!"
+	text "Musis bojovat"
+	line "#MON, aby se"
+	cont "otuzili!"
 	done
 
 _Route13CooltrainerF4BattleText::
-	text "I found CARBOS in"
-	line "a cave once."
+	text "Jednou jsem nasel"
+	line "CARBOS v jeskyni."
 	done
 
 _Route13CooltrainerF4EndBattleText::
-	text "Just"
-	line "messed up!"
+	text "Jen"
+	line "jsem se spletl!"
 	prompt
 
 _Route13CooltrainerF4AfterBattleText::
-	text "CARBOS boosted"
-	line "the SPEED of my"
+	text "CARBOS zvysilo"
+	line "RYCHLOST meho"
 	cont "#MON."
 	done
 
 _Route13CooltrainerM2BattleText::
-	text "The wind's blowing"
-	line "my way!"
+	text "Vitr fouka"
+	line "mym smerem!"
 	done
 
 _Route13CooltrainerM2EndBattleText::
-	text "The"
-	line "wind turned!"
+	text "Vitr"
+	line "se zmenil!"
 	prompt
 
 _Route13CooltrainerM2AfterBattleText::
-	text "I'm beat. I guess"
-	line "I'll FLY home."
+	text "Jsem hotov. Asi"
+	line "pujdu DOMU FLY."
 	done
 
 _Route13Beauty1BattleText::
-	text "Sure, I'll play"
-	line "with you!"
+	text "Jasne, budu si"
+	line "s tebou hrat!"
 	done
 
 _Route13Beauty1EndBattleText::
 	text "Oh!"
-	line "You little brute!"
+	line "Ty maly hrubiane!"
 	prompt
 
 _Route13Beauty1AfterBattleText::
-	text "I wonder which is"
-	line "stronger, male or"
-	cont "female #MON?"
+	text "Zajimalo by me,"
+	line "ktery #MON je"
+	cont "silnejsi, muzsky nebo zensky?"
 	done
 
 _Route13Beauty2BattleText::
-	text "Do you want to"
-	line "#MON with me?"
+	text "Chces se mnou"
+	line "#MON?"
 	done
 
 _Route13Beauty2EndBattleText::
-	text "It's over"
-	line "already?"
+	text "Je uz"
+	line "konec?"
 	prompt
 
 _Route13Beauty2AfterBattleText::
-	text "I don't know"
-	line "anything about"
-	cont "#MON. I just"
-	cont "like cool ones!"
+	text "Nevim nic"
+	line "o #MON. Jen"
+	cont "se mi libi ti cool!"
 	done
 
 _Route13BikerBattleText::
-	text "What're you"
-	line "lookin' at?"
+	text "Na co"
+	line "koukas?"
 	done
 
 _Route13BikerEndBattleText::
-	text "Dang!"
-	line "Stripped gears!"
+	text "Sakra!"
+	line "Ozubena kola dala."
 	prompt
 
 _Route13BikerAfterBattleText::
-	text "Get lost!"
+	text "Zmiz!"
 	done
 
 _Route13CooltrainerM3BattleText::
-	text "I always go with"
-	line "bird #MON!"
+	text "Vzdy jdu s"
+	line "ptacim #MON!"
 	done
 
 _Route13CooltrainerM3EndBattleText::
-	text "Out"
-	line "of power!"
+	text "Bez"
+	line "sily!"
 	prompt
 
 _Route13CooltrainerM3AfterBattleText::
-	text "I wish I could"
-	line "fly like PIDGEY"
-	cont "and PIDGEOTTO..."
+	text "Pral bych si"
+	line "letat jako PIDGEY"
+	cont "a PIDGEOTTO..."
 	done
 
 _Route13TrainerTips1Text::
-	text "TRAINER TIPS"
+	text "RADY TRENERA"
 
-	para "Look to the left"
-	line "of that post!"
+	para "Podivejte se vlevo"
+	line "od toho sloupu!"
 	done
 
 _Route13TrainerTips2Text::
-	text "TRAINER TIPS"
+	text "RADY TRENERA"
 
-	para "Use SELECT to"
-	line "switch items in"
-	cont "the ITEM window!"
+	para "Pouzijte SELECT pro"
+	line "prepnuti polozek v"
+	cont "okne POLOZEK!"
 	done
 
 _Route13SignText::
-	text "ROUTE 13"
-	line "North to SILENCE"
-	cont "BRIDGE"
+	text "CESTA 13"
+	line "Sever na TICHOU"
+	cont "LAVKU"
 	done

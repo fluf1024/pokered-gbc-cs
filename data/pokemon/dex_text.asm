@@ -1,181 +1,181 @@
 _RhydonDexEntry::
-	text "Protected by an"
-	next "armor-like hide,"
-	next "it is capable of"
+	text "Chraneny"
+	next "pancirem jako"
+	next "kuzi, je schopen"
 
-	page "living in molten"
-	next "lava of 3,600"
-	next "degrees"
+	page "zit v roztavene"
+	next "lava o 3600"
+	next "stupnech"
 	dex
 
 _KangaskhanDexEntry::
-	text "The infant rarely"
-	next "ventures out of"
-	next "its mother's"
+	text "Mlade zridkakdy"
+	next "opousti svou"
+	next "matcinu"
 
-	page "protective pouch"
-	next "until it is 3"
-	next "years old"
+	page "ochrannou kapsu"
+	next "dokud mu nejsou"
+	next "3 roky"
 	dex
 
 _NidoranMDexEntry::
-	text "Stiffens its ears"
-	next "to sense danger."
-	next "The larger its"
+	text "Napne usi" 
+	next "aby vnimal nebez."
+	next "Cim vetsi ma"
 
-	page "horns, the more"
-	next "powerful its"
-	next "secreted venom"
+	page "roh, tim vice"
+	next "silny je"
+	next "jeho jed"
 	dex
 
 _ClefairyDexEntry::
-	text "Its magical and"
-	next "cute appeal has"
-	next "many admirers."
+	text "Je kouzelna a"
+	next "puvabna, ma"
+	next "mnoho obdivovatelu."
 
-	page "It is rare and"
-	next "found only in"
-	next "certain areas"
+	page "Je vzacna a"
+	next "nalezena pouze v"
+	next "urcitych oblastech"
 	dex
 
 _SpearowDexEntry::
-	text "Eats bugs in"
-	next "grassy areas. It"
-	next "has to flap its"
+	text "Zere hmyz na"
+	next "travnatych plochach."
+	next "Musi mavat svymi"
 
-	page "short wings at"
-	next "high speed to"
-	next "stay airborne"
+	page "kratkymi kridly"
+	next "vysokou rychlosti,"
+	next "aby zustal ve vzduchu"
 	dex
 
 _VoltorbDexEntry::
-	text "Usually found in"
-	next "power plants."
-	next "Easily mistaken"
+	text "Obvykle se nach."
+	next "v elektrarnach."
+	next "Snadno zamenen"
 
-	page "for a # BALL,"
-	next "they have zapped"
-	next "many people"
+	page "za # BALL,"
+	next "znicili jiz"
+	next "mnoho lidi"
 	dex
 
 _NidokingDexEntry::
-	text "It uses its"
-	next "powerful tail in"
-	next "battle to smash,"
+	text "Pouziva svuj"
+	next "silny ocas v"
+	next "boji, aby drtil,"
 
-	page "constrict, then"
-	next "break the prey's"
-	next "bones"
+	page "sviral, pak"
+	next "lamal koristi"
+	next "kosti"
 	dex
 
 _SlowbroDexEntry::
-	text "The SHELLDER that"
-	next "is latched onto"
-	next "SLOWPOKE's tail"
+	text "SHE L L DER, co je"
+	next "pripevnene na"
+	next "ocas POMAS"
 
-	page "is said to feed"
-	next "on the host's left"
-	next "over scraps"
+	page "pry se zivi ze"
+	next "zbytku hostitele"
+	next "zleva"
 	dex
 
 _IvysaurDexEntry::
-	text "When the bulb on"
-	next "its back grows"
-	next "large, it appears"
+	text "Kdyz pupen na"
+	next "zadech roste,"
+	next "zda se, ze"
 
-	page "to lose the"
-	next "ability to stand"
-	next "on its hind legs"
+	page "ztraci schopnost"
+	next "stat na zadnich"
+	next "nohach."
 	dex
 
 _ExeggutorDexEntry::
-	text "Legend has it that"
-	next "on rare occasions,"
-	next "one of its heads"
+	text "Legenda pravi, ze"
+	next "ve vzacnych chvilich"
+	next "jedna z jeho hlav"
 
-	page "will drop off and"
-	next "continue on as an"
+	page "odpadne a dal"
+	next "pokracuje jako"
 	next "EXEGGCUTE"
 	dex
 
 _LickitungDexEntry::
-	text "Its tongue can be"
-	next "extended like a"
-	next "chameleon's. It"
+	text "Jeho jazyk je"
+	next "natazeny jako"
+	next "chameleonuv. To"
 
-	page "leaves a tingling"
-	next "sensation when it"
-	next "licks enemies"
+	page "zanecha brneni"
+	next "kdyz olizuje"
+	next "nepratele."
 	dex
 
 _ExeggcuteDexEntry::
-	text "Often mistaken"
-	next "for eggs."
-	next "When disturbed,"
+	text "Casto zamenovan"
+	next "za vejce."
+	next "Kdyz je vyrusen,"
 
-	page "they quickly"
-	next "gather and attack"
-	next "in swarms"
+	page "rychle se shrom."
+	next "a utoci ve"
+	next "smeckach"
 	dex
 
 _GrimerDexEntry::
-	text "Appears in filthy"
-	next "areas. Thrives by"
-	next "sucking up"
+	text "Objevuje se v"
+	next "spinavych mistech."
+	next "Dari se mu"
 
-	page "polluted sludge"
-	next "that is pumped"
-	next "out of factories"
+	page "sanim znecisten."
+	next "kalu, ktere jsou"
+	next "odcerpavany z tovaren."
 	dex
 
 _GengarDexEntry::
-	text "Under a full moon,"
-	next "this #MON"
-	next "likes to mimic"
+	text "Za uplnku"
+	next "tento #MON"
+	next "rad napodobuje"
 
-	page "the shadows of"
-	next "people and laugh"
-	next "at their fright"
+	page "stiny lidi"
+	next "a smeje se"
+	next "jejich strachu"
 	dex
 
 _NidoranFDexEntry::
-	text "Although small,"
-	next "its venomous"
-	next "barbs render this"
+	text "I kdyz maly,"
+	next "jeho jedovate"
+	next "ostny pusobi"
 
-	page "#MON dangerous."
-	next "The female has"
-	next "smaller horns"
+	page "#MON nebezpecny."
+	next "Samice ma"
+	next "mensi rohy"
 	dex
 
 _NidoqueenDexEntry::
-	text "Its hard scales"
-	next "provide strong"
-	next "protection. It"
-
-	page "uses its hefty"
-	next "bulk to execute"
-	next "powerful moves"
+	text "Jeho tvrde supiny"
+	next "poskytuji silnou"
+	next "ochranu. Pouziva"
+	
+	page "svou vahu k utokum"
+	next "aby provedlo"
+	next "mocne pohyby"
 	dex
 
 _CuboneDexEntry::
-	text "Because it never"
-	next "removes its skull"
-	next "helmet, no one"
+	text "Protoze nikdy"
+	next "svou lebku"
+	next "nesundava"
 
-	page "has ever seen"
-	next "this #MON's"
-	next "real face"
+	page "prilbu, nikdo"
+	next "nikdy nevidel"
+	next "pravou tvar"
 	dex
 
-_RhyhornDexEntry::
-	text "Its massive bones"
-	next "are 1000 times"
-	next "harder than human"
+_RhyhornDexEntry:: 
+	text "Jeho masivni kosti" 
+	next "jsou 1000krat" 
+	next "tvrdsi nez lidske" 
 
-	page "bones. It can"
-	next "easily knock a"
-	next "trailer flying"
+	page "kosti. Snadno" 
+	next "srazi prives" 
+	next "do vzduchu" 
 	dex
 
 _LaprasDexEntry::
@@ -183,1327 +183,1333 @@ _LaprasDexEntry::
 	next "has been over-"
 	next "hunted almost to"
 
-	page "extinction. It"
-	next "can ferry people"
-	next "across the water"
+	page "vyhynuti. Muze"
+	next "prepravovat lidi"
+	next "pres vodu"
 	dex
 
 _ArcanineDexEntry::
-	text "A #MON that"
-	next "has been admired"
-	next "since the past"
+	text "Pokemon ktery"
+	next "je obdivovan"
+	next "od minulosti"
 
-	page "for its beauty."
-	next "It runs agilely"
-	next "as if on wings"
+	page "pro svou krasu."
+	next "Beha hbite,"
+	next "jako by mel kridla"
 	dex
 
 _MewDexEntry::
-	text "So rare that it"
-	next "is still said to"
-	next "be a mirage by"
+	text "Je tak vzacny,"
+	next "ze se stale rika,"
+	next "ze je fatamorgana"
 
-	page "many experts. Only"
-	next "a few people have"
-	next "seen it worldwide"
+	page "mnohymi experty. Jen"
+	next "par lidi ho videlo"
+	next "na celem svete."
 	dex
 
 _GyaradosDexEntry::
-	text "Rarely seen in"
-	next "the wild. Huge"
-	next "and vicious, it"
+	text "Zridka viden v"
+	next "divocine. Obrovsky"
+	next "a zurivy, je"
 
-	page "is capable of"
-	next "destroying entire"
-	next "cities in a rage"
+	page "schopny znicit"
+	next "cela mesta v"
+	next "besneni"
 	dex
 
 _ShellderDexEntry::
-	text "Its hard shell"
-	next "repels any kind"
-	next "of attack."
+	text "Jeho tvrda"
+	next "skorapka odrazi"
+	next "jakykoliv utok."
 
-	page "It is vulnerable"
-	next "only when its"
-	next "shell is open"
+	page "Je zranitelny"
+	next "pouze kdyz je"
+	next "skorapka otevrena"
 	dex
 
 _TentacoolDexEntry::
-	text "Drifts in shallow"
-	next "seas. Anglers who"
-	next "hook them by"
+	text "Volne se pohybuje"
+	next "ve melkych morich."
+	next "Rybari, kteri je"
 
-	page "accident are"
-	next "often punished by"
-	next "its stinging acid"
+	page "zachyti omylem,"
+	next "casto trpi kys. "
+	next "zahnutim."
 	dex
 
 _GastlyDexEntry::
-	text "Almost invisible,"
-	next "this gaseous"
-	next "#MON cloaks"
+	text "Temer neviditelny,"
+	next "tento plynny"
+	next "#MON skryva"
 
-	page "the target and"
-	next "puts it to sleep"
-	next "without notice"
+	page "cil a"
+	next "uspava ho"
+	next "nepozorovane"
 	dex
 
 _ScytherDexEntry::
-	text "With ninja-like"
-	next "agility and speed,"
-	next "it can create the"
+	text "S rychlosti a"
+	next "agilitou ninji"
+	next "dokaze vytvorit"
 
-	page "illusion that"
-	next "there is more"
-	next "than one"
+	page "iluzi, ze je"
+	next "jich vic nez"
+	next "jeden"
 	dex
 
 _StaryuDexEntry::
-	text "An enigmatic"
-	next "#MON that can"
-	next "effortlessly"
+	text "Zahadny"
+	next "#MON ktery muze"
+	next "snadno"
 
-	page "regenerate any"
-	next "appendage it"
-	next "loses in battle"
+	page "zregenerovat"
+	next "kazdou koncetinu"
+	next "ztracenou v boji"
 	dex
 
 _BlastoiseDexEntry::
-	text "A brutal #MON"
-	next "with pressurized"
-	next "water jets on its"
+	text "Brutalni #MON"
+	next "s tlakovymi"
+	next "vodnimi dely na svem"
 
-	page "shell. They are"
-	next "used for high"
-	next "speed tackles"
+	page "krunyri. Pouzivaji je"
+	next "k vysokorychlostnim"
+	next "utokum"
 	dex
 
 _PinsirDexEntry::
-	text "If it fails to"
-	next "crush the victim"
-	next "in its pincers,"
+	text "Jestlize selze"
+	next "v rozmackani"
+	next "obeti svymi klepety,"
 
-	page "it will swing it"
-	next "around and toss"
-	next "it hard"
+	page "bude ji mavat"
+	next "a odhodi ji"
+	next "silou"
 	dex
 
 _TangelaDexEntry::
-	text "The whole body is"
-	next "swathed with wide"
-	next "vines that are"
+	text "Cele telo je"
+	next "omotano sirokymi"
+	next "slahouny, ktere"
 
-	page "similar to sea-"
-	next "weed. Its vines"
-	next "shake as it walks"
+	page "pripominaji mors-"
+	next "ke rasy. Slahouny"
+	next "se kyvaji, kdyz jde"
 	dex
 
 _GrowlitheDexEntry::
-	text "Very protective"
-	next "of its territory."
-	next "It will bark and"
+	text "Velmi ochranny"
+	next "k svemu uzemi."
+	next "Steka a kouse"
 
-	page "bite to repel"
-	next "intruders from"
-	next "its space"
+	page "na odrazeni"
+	next "vetrelcu ze sveho"
+	next "prostoru"
 	dex
 
 _OnixDexEntry::
-	text "As it grows, the"
-	next "stone portions of"
-	next "its body harden"
+	text "Jak roste, casti"
+	next "kamenneho tela se"
+	next "tvrdnou"
 
-	page "to become similar"
-	next "to a diamond, but"
-	next "colored black"
+	page "podobaji diamant,"
+	next "ale cerne barvy"
+	next "prebrat"
 	dex
 
 _FearowDexEntry::
-	text "With its huge and"
-	next "magnificent wings,"
-	next "it can keep aloft"
+	text "Se svymi velkymi"
+	next "a nadhernymi kridly"
+	next "se muze vznaset"
 
-	page "without ever"
-	next "having to land"
-	next "for rest"
+	page "bez pristavani"
+	next "pro odpocinek"
+	next "neustale"
 	dex
 
 _PidgeyDexEntry::
-	text "A common sight in"
-	next "forests and woods."
-	next "It flaps its"
+	text "Bezne se vyskytuje"
+	next "v lesich a drevinach."
+	next "Macha svymi"
 
-	page "wings at ground"
-	next "level to kick up"
-	next "blinding sand"
+	page "kridly pri zemi"
+	next "a zveda oslepujici"
+	next "pisek."
 	dex
 
 _SlowpokeDexEntry::
-	text "Incredibly slow"
-	next "and dopey. It"
-	next "takes 5 seconds"
+	text "Neuveritelne"
+	next "pomaly a hloupy."
+	next "Trva 5 sekund"
 
-	page "for it to feel"
-	next "pain when under"
-	next "attack"
+	page "nez pociti"
+	next "bolest, kdyz je"
+	next "napaden"
 	dex
 
 _KadabraDexEntry::
-	text "It emits special"
-	next "alpha waves from"
-	next "its body that"
+	text "Vysila specialni"
+	next "alfa vlny z tela"
+	next "ktere"
 
-	page "induce headaches"
-	next "just by being"
-	next "close by"
+	page "zpusobuji bolest"
+	next "hlavy jen"
+	next "tim, ze je"
 	dex
 
 _GravelerDexEntry::
-	text "Rolls down slopes"
-	next "to move. It rolls"
-	next "over any obstacle"
+	text "Kouli se z kopce"
+	next "dolu. Prekonava"
+	next "kazdou prekazku"
 
-	page "without slowing"
-	next "or changing its"
-	next "direction"
+	page "bez zpomaleni"
+	next "nebo zmeny"
+	next "smeru"
 	dex
 
 _ChanseyDexEntry::
-	text "A rare and elusive"
-	next "#MON that is"
-	next "said to bring"
+	text "Vzacny a nepolapitelny"
+	next "#MON, ktery pry"
+	next "prinasi"
 
-	page "happiness to those"
-	next "who manage to get"
-	next "it"
+	page "stesti tem, kteri"
+	next "dokazi jej ziskat"
+	next ""
 	dex
 
 _MachokeDexEntry::
-	text "Its muscular body"
-	next "is so powerful, it"
-	next "must wear a power"
+	text "Jeho svalnate telo"
+	next "je tak silne, ze"
+	next "musi nosit silovy"
 
-	page "save belt to be"
-	next "able to regulate"
-	next "its motions"
+	page "pas, aby mohl"
+	next "regulovat sve"
+	next "pohyby"
 	dex
 
 _MrMimeDexEntry::
-	text "If interrupted"
-	next "while it is"
-	next "miming, it will"
+	text "Pokud je vyrusen"
+	next "behem pantomimy"
+	next "bude"
 
-	page "slap around the"
-	next "offender with its"
-	next "broad hands"
+	page "mlatit narusitele"
+	next "svymi sirokymi"
+	next "dlanemi"
 	dex
 
 _HitmonleeDexEntry::
-	text "When in a hurry,"
-	next "its legs lengthen"
-	next "progressively."
+	text "Kdyz specha,"
+	next "jeho nohy se"
+	next "postupne prodluzuji."
 
-	page "It runs smoothly"
-	next "with extra long,"
-	next "loping strides"
+	page "Beha hladce"
+	next "s extra dlouhymi,"
+	next "pomalymi kroky"
 	dex
 
 _HitmonchanDexEntry::
-	text "While apparently"
-	next "doing nothing, it"
-	next "fires punches in"
+	text "Prestoze to"
+	next "vypada, ze nic"
+	next "nedela, vrha"
 
-	page "lightning fast"
-	next "volleys that are"
-	next "impossible to see"
+	page "extremne rychle"
+	next "rany, ktere jsou"
+	next "nepostrehnutelne"
 	dex
 
 _ArbokDexEntry::
-	text "It is rumored that"
-	next "the ferocious"
-	next "warning markings"
+	text "Rika se, ze"
+	next "desive varovne"
+	next "znacky na brise"
 
-	page "on its belly"
-	next "differ from area"
-	next "to area"
+	page "se lisi v oblasti"
+	next "od oblasti k"
+	next "oblasti"
 	dex
 
 _ParasectDexEntry::
-	text "A host-parasite"
-	next "pair in which the"
-	next "parasite mushroom"
+	text "Hostitelsky parazit"
+	next "par, ve kterem"
+	next "parazitni houba"
 
-	page "has taken over the"
-	next "host bug. Prefers"
-	next "damp places"
+	page "prevzala kontrolu"
+	next "nad hostitelskym"
+	next "broukem. Ma rado"
 	dex
 
 _PsyduckDexEntry::
-	text "While lulling its"
-	next "enemies with its"
-	next "vacant look, this"
+	text "Tim, ze uspava"
+	next "nepratele svym"
+	next "prazdnym pohledem,"
 
-	page "wily #MON will"
-	next "use psychokinetic"
-	next "powers"
+	page "lstivy #MON"
+	next "pouziva psychokineticke"
+	next "sily"
 	dex
 
 _DrowzeeDexEntry::
-	text "Puts enemies to"
-	next "sleep then eats"
-	next "their dreams."
+	text "Uspi nepratele"
+	next "pak ji jejich"
+	next "sny."
 
-	page "Occasionally gets"
-	next "sick from eating"
-	next "bad dreams"
+	page "Obcas mu byva"
+	next "spatne z jezeni"
+	next "spatnych snu"
 	dex
 
 _GolemDexEntry::
-	text "Its boulder-like"
-	next "body is extremely"
-	next "hard. It can"
+	text "Jeho telo jako kamen" 
+	next "je extremne tvrde" 
+	next "snese"
 
-	page "easily withstand"
-	next "dynamite blasts"
-	next "without damage"
+	page "snadno vybuch"
+	next "dynamitu bez ujmy" 
+	next "na zdravi"
 	dex
 
 _MagmarDexEntry::
-	text "Its body always"
-	next "burns with an"
-	next "orange glow that"
+	text "Jeho telo"
+	next "stale hori"  
+	next "oranzovym zarem" 
 
-	page "enables it to"
-	next "hide perfectly"
-	next "among flames"
+	page "co mu umoznuje"
+	next "dokonale se" 
+	next "skryt v plamenech" 
 	dex
 
 _ElectabuzzDexEntry::
-	text "Normally found"
-	next "near power plants,"
-	next "they can wander"
+	text "Bezne se vyskytuje"
+	next "blizko elektraren,"
+	next "muze se toulat"
 
-	page "away and cause"
-	next "major blackouts"
-	next "in cities"
+	page "pryc a zpusobit"
+	next "velke vypadky"
+	next "elektriky ve meste"
 	dex
 
 _MagnetonDexEntry::
-	text "Formed by several"
-	next "MAGNEMITEs linked"
-	next "together. They"
+	text "Vznika spojenim"
+	next "nekolika <MAGNEMITE>"
+	next "dohromady. Casto"
 
-	page "frequently appear"
-	next "when sunspots"
-	next "flare up"
+	page "se objevuje, kdyz"
+	next "vypuknou slunecni"
+	next "skvrny"
 	dex
 
 _KoffingDexEntry::
-	text "Because it stores"
-	next "several kinds of"
-	next "toxic gases in"
+	text "Protoze uklada"
+	next "nekolik druhu"
+	next "toxickych plynu ve"
 
-	page "its body, it is"
-	next "prone to exploding"
-	next "without warning"
+	page "svem tele, je"
+	next "nachylny k vybuchu"
+	next "bez varovani"
 	dex
 
 _MankeyDexEntry::
-	text "Extremely quick to"
-	next "anger. It could"
-	next "be docile one"
+	text "Extremne rychle"
+	next "se rozzlobi. Muze"
+	next "byt klidny jeden"
 
-	page "moment then"
-	next "thrashing away"
-	next "the next instant"
+	page "okamzik a"
+	next "vztekat se hned"
+	next "v dalsim momentu"
 	dex
 
 _SeelDexEntry::
-	text "The protruding"
-	next "horn on its head"
-	next "is very hard."
+	text "Vycnelek"
+	next "na jeho hlave"
+	next "je velmi tvrdy."
 
-	page "It is used for"
-	next "bashing through"
-	next "thick ice"
+	page "Pouziva se pro"
+	next "prorazeni"
+	next "silneho ledu"
 	dex
 
 _DiglettDexEntry::
-	text "Lives about one"
-	next "yard underground"
-	next "where it feeds on"
+	text "Zije asi jeden"
+	next "metr pod zemi, kde"
+	next "se zivi"
 
-	page "plant roots. It"
-	next "sometimes appears"
-	next "above ground"
+	page "koreny rostlin."
+	next "Nekdy se"
+	next "objevuje nad z."
 	dex
 
 _TaurosDexEntry::
-	text "When it targets"
-	next "an enemy, it"
-	next "charges furiously"
+	text "Kdyz cili na"
+	next "nepritele,"
+	next "zurive utoci"
 
-	page "while whipping its"
-	next "body with its"
-	next "long tails"
+	page "zatimco sviha"
+	next "svym telem"
+	next "dlouhymi ocasy"
 	dex
 
 _FarfetchdDexEntry::
-	text "The sprig of"
-	next "green onions it"
-	next "holds is its"
+	text "Jarni cibulka,"
+	next "kterou drzi,"
+	next "je jeho"
 
-	page "weapon. It is"
-	next "used much like a"
-	next "metal sword"
+	page "zbran. Pouziva ji"
+	next "jako ohnivy"
+	next "mec"
 	dex
 
 _VenonatDexEntry::
-	text "Lives in the"
-	next "shadows of tall"
-	next "trees where it"
+	text "Zije ve stinu"
+	next "vysokych stromu,"
+	next "kde"
 
-	page "eats insects. It"
-	next "is attracted by"
-	next "light at night"
+	page "zere hmyz. Je"
+	next "pritahovan"
+	next "svetlem v noci."
 	dex
 
 _DragoniteDexEntry::
-	text "An extremely"
-	next "rarely seen"
-	next "marine #MON."
+	text "Extremne vzacny"
+	next "morsky #MON."
 
-	page "Its intelligence"
-	next "is said to match"
-	next "that of humans"
+	page "Rika se, ze jeho"
+	next "inteligence odpovida"
+	next "te lidske"
 	dex
 
 _DoduoDexEntry::
-	text "A bird that makes"
-	next "up for its poor"
-	next "flying with its"
+	text "Ptak, ktery si"
+	next "vynahrazuje spatne"
+	next "letani svou"
 
-	page "fast foot speed."
-	next "Leaves giant"
-	next "footprints"
+	page "rychlou nohou."
+	next "Zanechava obri"
+	next "stopy."
 	dex
 
 _PoliwagDexEntry::
-	text "Its newly grown"
-	next "legs prevent it"
-	next "from running. It"
+	text "Jeho nove nohy"
+	next "mu zabranuji"
+	next "v behu. Ono"
 
-	page "appears to prefer"
-	next "swimming than"
-	next "trying to stand"
+	page "ma radeji plavani"
+	next "nez aby se"
+	next "snazilo stat"
 	dex
 
 _JynxDexEntry::
-	text "It seductively"
-	next "wiggles its hips"
-	next "as it walks. It"
+	text "Svudne pohupuje"
+	next "boky, kdyz jde."
+	next "Umi primet lidi"
 
-	page "can cause people"
-	next "to dance in"
-	next "unison with it"
+	page "tancit s ni ve"
+	next "stejnem rytmu."
+	next "Spolecne."
+
 	dex
 
 _MoltresDexEntry::
-	text "Known as the"
-	next "legendary bird of"
-	next "fire. Every flap"
+	text "Znamy jako"
+	next "legendarni ptak"
+	next "ohne. Kazde"
 
-	page "of its wings"
-	next "creates a dazzling"
-	next "flash of flames"
+	page "machnuti kridel"
+	next "vytvari oslnivy"
+	next "zablesk plamenu"
 	dex
 
 _ArticunoDexEntry::
-	text "A legendary bird"
-	next "#MON that is"
-	next "said to appear to"
+	text "Legendarni ptak"
+	next "#MON, ktery je"
+	next "pry viden temi"
 
-	page "doomed people who"
-	next "are lost in icy"
-	next "mountains"
+	page "drive nez zmrznou"
+	next "v ledovych"
+	next "horach"
 	dex
 
 _ZapdosDexEntry::
-	text "A legendary bird"
-	next "#MON that is"
-	next "said to appear"
+	text "Legendarni ptak"
+	next "#MON, ktery ma"
+	next "se zjevovat"
 
-	page "from clouds while"
-	next "dropping enormous"
-	next "lightning bolts"
+	page "z mraku, kdyz"
+	next "shazuje obri"
+	next "blesky"
 	dex
 
-_DittoDexEntry::
-	text "Capable of copying"
-	next "an enemy's genetic"
-	next "code to instantly"
+_DittoDexEntry::  
+	text "Schopen kopirovat"  
+	next "geneticky kod"  
+	next "nepritele"  
 
-	page "transform itself"
-	next "into a duplicate"
-	next "of the enemy"
+	page "aby se okamzite"  
+	next "promenil v kopii"  
+	next "nepritele"  
 	dex
 
 _MeowthDexEntry::
-	text "Adores circular"
-	next "objects. Wanders"
-	next "the streets on a"
+	text "Zboznuje kulate"
+	next "predmety. Toula se"
+	next "po ulicich v noci"
 
-	page "nightly basis to"
-	next "look for dropped"
-	next "loose change"
+	page "hledat vhledane"
+	next "mince, co spadly"
+	next "na zem."
 	dex
 
 _KrabbyDexEntry::
-	text "Its pincers are"
-	next "not only powerful"
-	next "weapons, they are"
+	text "Jeho klepeta jsou"
+	next "nejen mocne"
+	next "zbrane, ale i"
 
-	page "used for balance"
-	next "when walking"
-	next "sideways"
+	page "pomucka k rovnovaze"
+	next "pri chuzi"
+	next "bokem"
 	dex
 
 _VulpixDexEntry::
-	text "At the time of"
-	next "birth, it has"
-	next "just one tail."
+	text "Pri narozeni"
+	next "ma jen jeden"
+	next "ocas."
 
-	page "The tail splits"
-	next "from its tip as"
-	next "it grows older"
+	page "Ocas se vetvi"
+	next "od konecku, jak"
+	next "starne"
 	dex
 
 _NinetalesDexEntry::
-	text "Very smart and"
-	next "very vengeful."
-	next "Grabbing one of"
+	text "Velmi chytry a"
+	next "velmi pomstychtivy."
+	next "Chyceni jednoho z"
 
-	page "its many tails"
-	next "could result in a"
-	next "1000-year curse"
+	page "mnoha ocasu muze"
+	next "mit za nasledek"
+	next "1000letou kletbu"
 	dex
 
 _PikachuDexEntry::
-	text "When several of"
-	next "these #MON"
-	next "gather, their"
+	text "Kdyz se nekolik"
+	next "techto #MON"
+	next "shromazdi, jejich"
 
-	page "electricity could"
-	next "build and cause"
-	next "lightning storms"
+	page "elektricita muze"
+	next "vyboje zpusobit"
+	next "boure s blesky"
 	dex
 
 _RaichuDexEntry::
-	text "Its long tail"
-	next "serves as a"
-	next "ground to protect"
+	text "Jeho dlouhy ocas"
+	next "slouzi jako"
+	next "uzemneni k ochrane"
 
-	page "itself from its"
-	next "own high voltage"
-	next "power"
+	page "pred jeho vlastnim"
+	next "vysokym napetim"
+	next "silou"
 	dex
 
 _DratiniDexEntry::
-	text "Long considered a"
-	next "mythical #MON"
-	next "until recently"
+	text "Dlouho povazovan"
+	next "za myticky #MON"
+	next "az donedavna"
 
-	page "when a small"
-	next "colony was found"
-	next "living underwater"
+	page "kdy byla objevena"
+	next "mala kolonie zijici"
+	next "pod vodou"
 	dex
 
 _DragonairDexEntry::
-	text "A mystical #MON"
-	next "that exudes a"
-	next "gentle aura."
+	text "Tajuplny #MON"
+	next "vyzaruje jemnou"
+	next "auru."
 
-	page "Has the ability"
-	next "to change climate"
-	next "conditions"
+	page "Ma schopnost"
+	next "menit klima"
+	next "podminky"
 	dex
 
 _KabutoDexEntry::
-	text "A #MON that"
-	next "was resurrected"
-	next "from a fossil"
+	text "Pokemon, ktery"
+	next "byl vzkrisen"
+	next "z fosilie"
 
-	page "found in what was"
-	next "once the ocean"
-	next "floor eons ago"
+	page "nalezeny v tom,"
+	next "co bylo kdysi"
+	next "dnem oceanu"
 	dex
 
 _KabutopsDexEntry::
-	text "Its sleek shape is"
-	next "perfect for swim-"
-	next "ming. It slashes"
+	text "Jeho stihly tvar je"
+	next "idealni ke plavani."
+	next "Seka korist"
 
-	page "prey with its"
-	next "claws and drains"
-	next "the body fluids"
+	page "svymi drapy a"
+	next "vysava telni"
+	next "tekutiny."
 	dex
 
 _HorseaDexEntry::
-	text "Known to shoot"
-	next "down flying bugs"
-	next "with precision"
+	text "Znamy pro strelbu"
+	next "poletujicich hmyzu"
+	next "s presnosti"
 
-	page "blasts of ink"
-	next "from the surface"
-	next "of the water"
+	page "vystrely inkoustu"
+	next "od povrchu"
+	next "vody"
 	dex
 
 _SeadraDexEntry::
-	text "Capable of swim-"
-	next "ming backwards by"
-	next "rapidly flapping"
+	text "Schopno plavat-"
+	next "pozpatku rychlym"
+	next "mavanim"
 
-	page "its wing-like"
-	next "pectoral fins and"
-	next "stout tail"
+	page "jeho kridlovymi"
+	next "prsnimi ploutvemi"
+	next "a pevnym ocasem"
 	dex
 
 _SandshrewDexEntry::
-	text "Burrows deep"
-	next "underground in"
-	next "arid locations"
+	text "Hloubi nory"
+	next "pod zemi v"
+	next "suchych mistech"
 
-	page "far from water."
-	next "It only emerges"
-	next "to hunt for food"
+	page "daleko od vody."
+	next "Vynori se pouze"
+	next "za ucelem lovu"
 	dex
 
 _SandslashDexEntry::
-	text "Curls up into a"
-	next "spiny ball when"
-	next "threatened. It"
+	text "Schouli se do"
+	next "bodlinateho klbka,"
+	next "kdyz je ohrozen."
 
-	page "can roll while"
-	next "curled up to"
-	next "attack or escape"
+	page "Muze se kutalet,"
+	next "zatimco je schoulene,"
+	next "aby zautocil ci utekl."
 	dex
 
 _OmanyteDexEntry::
-	text "Although long"
-	next "extinct, in rare"
-	next "cases, it can be"
+	text "Ackoli davno"
+	next "vyhynuly, vzacne"
+	next "muze byt"
 
-	page "genetically"
-	next "resurrected from"
-	next "fossils"
+	page "geneticky"
+	next "oziveny z"
+	next "fosilii"
 	dex
 
 _OmastarDexEntry::
-	text "A prehistoric"
-	next "#MON that died"
-	next "out when its"
+	text "Prehistoricka"
+	next "#MON, ktera z"
+	next "anikla, kdyz"
 
-	page "heavy shell made"
-	next "it impossible to"
-	next "catch prey"
+	page "jeji tezka"
+	next "skorapka ji"
+	next "znemoznila lov"
 	dex
 
 _JigglypuffDexEntry::
-	text "When its huge eyes"
-	next "light up, it sings"
-	next "a mysteriously"
+	text "Kdyz se jeho velke"
+	next "oci rozsviti, zpiva"
+	next "tajemne"
 
-	page "soothing melody"
-	next "that lulls its"
-	next "enemies to sleep"
+	page "uklidnujici melodii"
+	next "ktera uspava jeho"
+	next "nepratele"
 	dex
 
 _WigglytuffDexEntry::
-	text "The body is soft"
-	next "and rubbery. When"
-	next "angered, it will"
+	text "Telo je mekke"
+	next "a gumove. Kdyz se"
+	next "rozcili, tak se"
 
-	page "suck in air and"
-	next "inflate itself to"
-	next "an enormous size"
+	page "nadechne a"
+	next "nafoukne se do"
+	next "obri velikosti"
 	dex
 
 _EeveeDexEntry::
-	text "Its genetic code"
-	next "is irregular."
-	next "It may mutate if"
+	text "Jeho geneticky"
+	next "kod je nepravidelny."
+	next "Muze mutovat, kdyz"
 
-	page "it is exposed to"
-	next "radiation from"
-	next "element STONEs"
+	page "je vystaveno"
+	next "radiaci z"
+	next "prvku KAMENu"
 	dex
 
 _FlareonDexEntry::
-	text "When storing"
-	next "thermal energy in"
-	next "its body, its"
+	text "Pri ulozeni"
+	next "tepelne energie"
+	next "do sveho tela,"
 
-	page "temperature could"
-	next "soar to over 1600"
-	next "degrees"
+	page "muze jeho teplota"
+	next "vzrust pres 1600"
+	next "stupnu"
 	dex
 
 _JolteonDexEntry::
-	text "It accumulates"
-	next "negative ions in"
-	next "the atmosphere to"
+	text "Nashromaduje"
+	next "zaporne ionty"
+	next "v atmosfere"
 
-	page "blast out 10000-"
-	next "volt lightning"
-	next "bolts"
+	page "k vypusteni"
+	next "10000V blesku"
+	next "sroubu"
 	dex
 
 _VaporeonDexEntry::
-	text "Lives close to"
-	next "water. Its long"
-	next "tail is ridged"
+	text "Zije blizko"
+	next "vody. Jeho dlouhy"
+	next "ocas ma hreben"
 
-	page "with a fin which"
-	next "is often mistaken"
-	next "for a mermaid's"
+	page "s ploutvi, ktera"
+	next "je casto povazo-"
+	next "vana za morskou"
 	dex
 
 _MachopDexEntry::
-	text "Loves to build"
-	next "its muscles."
-	next "It trains in all"
+	text "Rad posiluje"
+	next "sve svaly."
+	next "Cvici ve vsech"
 
-	page "styles of martial"
-	next "arts to become"
-	next "even stronger"
+	page "stylech boj. umeni"
+	next "aby se stal"
+	next "jeste silnejsim"
 	dex
 
 _ZubatDexEntry::
-	text "Forms colonies in"
-	next "perpetually dark"
-	next "places. Uses"
+	text "Vytvari kolonie"
+	next "v neustale tmavych"
+	next "mistech. Pouziva"
 
-	page "ultrasonic waves"
-	next "to identify and"
-	next "approach targets"
+	page "ultrazvukove vlny"
+	next "k rozpoznani"
+	next "a priblizeni cilu"
 	dex
 
 _EkansDexEntry::
-	text "Moves silently"
-	next "and stealthily."
-	next "Eats the eggs of"
+	text "Pohybuje se"
+	next "tise a nenapadne."
+	next "Zere vejce"
 
-	page "birds, such as"
-	next "PIDGEY and"
-	next "SPEAROW, whole"
+	page "ptaku, jako je"
+	next "PIDGEY a"
+	next "SPEAROW, cele"
 	dex
 
 _ParasDexEntry::
-	text "Burrows to suck"
-	next "tree roots. The"
-	next "mushrooms on its"
+	text "Hrabe, aby sal"
+	next "stromove koreny. Tu"
+	next "houby na jeho"
 
-	page "back grow by draw-"
-	next "ing nutrients from"
-	next "the bug host"
+	page "zadech rostou tim,"
+	next "ze cerpaji ziviny"
+	next "z hostitele"
 	dex
 
 _PoliwhirlDexEntry::
-	text "Capable of living"
-	next "in or out of"
-	next "water. When out"
+	text "Zijici ve vode"
+	next "i mimo ni. Kdyz je"
+	next "mimo vodu,"
 
-	page "of water, it"
-	next "sweats to keep"
-	next "its body slimy"
+	page "vypoti se, aby"
+	next "zustaval slizky"
+	next "na tele"
 	dex
 
 _PoliwrathDexEntry::
-	text "An adept swimmer"
-	next "at both the front"
-	next "crawl and breast"
+	text "Zdatny plavec"
+	next "v kraulu i prsu"
+	next "skvely plavec"
 
-	page "stroke. Easily"
-	next "overtakes the best"
-	next "human swimmers"
+	page "lehce predci"
+	next "nejlepsi lidske"
+	next "plavce"
 	dex
 
 _WeedleDexEntry::
-	text "Often found in"
-	next "forests, eating"
-	next "leaves."
+	text "Casto k nalezeni"
+	next "v lesich, kde"
+	next "ji listy."
 
-	page "It has a sharp"
-	next "venomous stinger"
-	next "on its head"
+	page "Ma ostre a"
+	next "jedovate zihadlo"
+	next "na hlave"
 	dex
 
 _KakunaDexEntry::
-	text "Almost incapable"
-	next "of moving, this"
-	next "#MON can only"
+	text "Temer neschopny"
+	next "pohybu, tento"
+	next "#MON muze jen"
 
-	page "harden its shell"
-	next "to protect itself"
-	next "from predators"
+	page "ztuhnout v krunyri"
+	next "k ochrane pred"
+	next "predatory"
 	dex
 
-_BeedrillDexEntry::
-	text "Flies at high"
-	next "speed and attacks"
-	next "using its large"
 
-	page "venomous stingers"
-	next "on its forelegs"
-	next "and tail"
+_BeedrillDexEntry::
+	text "Leta vysokou"
+	next "rychlosti a utoci"
+	next "pomoci velkych"
+
+	page "jedovatych zihadel"
+	next "na predlokti"
+	next "a ocase"
 	dex
 
 _DodrioDexEntry::
-	text "Uses its three"
-	next "brains to execute"
-	next "complex plans."
+	text "Pouziva tri"
+	next "mozky k tomu, aby"
+	next "planovalo slozite."
 
-	page "While two heads"
-	next "sleep, one head"
-	next "stays awake"
+	page "Zatimco dve"
+	next "hlavy spi,"
+	next "jedna zustava"
 	dex
 
 _PrimeapeDexEntry::
-	text "Always furious"
-	next "and tenacious to"
-	next "boot. It will not"
+	text "Vzdy zurivy"
+	next "a houzevnaty"
+	next "k tomu. Nikdy"
 
-	page "abandon chasing"
-	next "its quarry until"
-	next "it is caught"
+	page "neopusti lov"
+	next "sve koristi, dokud"
+	next "neni chycena"
 	dex
 
 _DugtrioDexEntry::
-	text "A team of DIGLETT"
-	next "triplets."
-	next "It triggers huge"
+	text "Tym DIGLETT"
+	next "trojcata."
+	next "Vyvolava velke"
 
-	page "earthquakes by"
-	next "burrowing 60 miles"
-	next "underground"
+	page "otresy zeme"
+	next "hloubenim 60 mil"
+	next "pod zemi"
 	dex
 
 _VenomothDexEntry::
-	text "The dust-like"
-	next "scales covering"
-	next "its wings are"
+	text "Prachove supiny"
+	next "pokryvaji jeho"
+	next "kridla a jsou"
 
-	page "color coded to"
-	next "indicate the kinds"
-	next "of poison it has"
+	page "barevne kodovany"
+	next "pro indikaci typu"
+	next "jedu, ktery ma"
 	dex
+
 
 _DewgongDexEntry::
-	text "Stores thermal"
-	next "energy in its"
-	next "body. Swims at a"
+	text "Uklada teplo."
+	next "Energie v jeho"
+	next "tele. Plave rychlosti"
 
-	page "steady 8 knots"
-	next "even in intensely"
-	next "cold waters"
+	page "8 uzlu, i kdezto"
+	next "v hrozne studene"
+	next "vode"
 	dex
 
-_CaterpieDexEntry::
-	text "Its short feet"
-	next "are tipped with"
-	next "suction pads that"
 
-	page "enable it to"
-	next "tirelessly climb"
-	next "slopes and walls"
+_CaterpieDexEntry::
+	text "Jeho kratke nohy"
+	next "jsou zakonceny"
+	next "prisavkami, ktere"
+
+	page "mu umoznuji"
+	next "neunavne splhat po"
+	next "svazich a stenach"
 	dex
 
 _MetapodDexEntry::
-	text "This #MON is"
-	next "vulnerable to"
-	next "attack while its"
+	text "Tento #MON je"
+	next "zranitelny, kdyz"
+	next "je napaden, protoze"
 
-	page "shell is soft,"
-	next "exposing its weak"
-	next "and tender body"
+	page "jeho krunyr je mekky,"
+	next "a odhaluje jeho"
+	next "slabe a krehke telo"
 	dex
 
 _ButterfreeDexEntry::
-	text "In battle, it"
-	next "flaps its wings"
-	next "at high speed to"
+	text "V boji trepeta"
+	next "rychle kridly,"
+	next "aby"
 
-	page "release highly"
-	next "toxic dust into"
-	next "the air"
+	page "vypoustela velmi"
+	next "jedovaty prach"
+	next "do vzduchu"
 	dex
 
 _MachampDexEntry::
-	text "Using its heavy"
-	next "muscles, it throws"
-	next "powerful punches"
+	text "Pouzitim svych"
+	next "silnych svalu, vrha"
+	next "mocne udery"
 
-	page "that can send the"
-	next "victim clear over"
-	next "the horizon"
+	page "ktere mohou zasahnout"
+	next "obet daleko za"
+	next "obzor"
 	dex
 
 _GolduckDexEntry::
-	text "Often seen swim-"
-	next "ming elegantly by"
-	next "lake shores. It"
+	text "Casto spatren, jak"
+	next "plave elegantne"
+	next "podel brehu"
 
-	page "is often mistaken"
-	next "for the Japanese"
-	next "monster, Kappa"
+	page "jezer. Casto si ho"
+	next "lide pletou s"
+	next "japonskym"
 	dex
 
 _HypnoDexEntry::
-	text "When it locks eyes"
-	next "with an enemy, it"
-	next "will use a mix of"
+	text "Kdyz se z oci"
+	next "diva na neprit."
+	next "pouzije mix"
 
-	page "PSI moves such as"
-	next "HYPNOSIS and"
-	next "CONFUSION"
+	page "PSI pohybu jako"
+	next "HYPNOZA a"
+	next "ZAMENA"
 	dex
 
 _GolbatDexEntry::
-	text "Once it strikes,"
-	next "it will not stop"
-	next "draining energy"
-
-	page "from the victim"
-	next "even if it gets"
-	next "too heavy to fly"
+	text "Jakmile zautoci,"
+	next "neprestane sanim"
+	next "energie"
+	
+	page "z obeti ani kdyz"
+	next "bude prilis tezky"
+	next "na let"
 	dex
 
 _MewtwoDexEntry::
-	text "It was created by"
-	next "a scientist after"
-	next "years of horrific"
+	text "Bylo vytvoreno"
+	next "vedcem po letech"
+	next "hruznych"
 
-	page "gene splicing and"
-	next "DNA engineering"
-	next "experiments"
+	page "genetickych uprav"
+	next "a uprav DNA"
+	next "experimentu"
 	dex
 
 _SnorlaxDexEntry::
-	text "Very lazy. Just"
-	next "eats and sleeps."
-	next "As its rotund"
+	text "Velmi liny. Jen"
+	next "ji a spi."
+	next "Jak se jeho"
 
-	page "bulk builds, it"
-	next "becomes steadily"
-	next "more slothful"
+	page "oble telo"
+	next "hromadi, stava se"
+	next "stale vice linym"
 	dex
 
 _MagikarpDexEntry::
-	text "In the distant"
-	next "past, it was"
-	next "somewhat stronger"
+	text "Kdysi davno"
+	next "byl o neco"
+	next "silnejsi"
 
-	page "than the horribly"
-	next "weak descendants"
-	next "that exist today"
+	page "nez hrozne slabi"
+	next "potomci, kteri"
+	next "existuji dnes"
 	dex
 
 _MukDexEntry::
-	text "Thickly covered"
-	next "with a filthy,"
-	next "vile sludge. It"
+	text "Husty nanos"
+	next "spinaveho,"
+	next "hnusneho slizu. To"
 
-	page "is so toxic, even"
-	next "its footprints"
-	next "contain poison"
+	page "je tak toxicke, ze"
+	next "i jeho stopy"
+	next "obsahuji jed"
 	dex
 
-_KinglerDexEntry::
-	text "The large pincer"
-	next "has 10000 hp of"
-	next "crushing power."
+_KinglerDexEntry::  
+    text "Velke klepeto"  
+    next "ma drtivou silu"  
+    next "10000 hp."  
 
-	page "However, its huge"
-	next "size makes it"
-	next "unwieldy to use"
-	dex
+    page "Nicmene, jeho"  
+    next "velka velikost ho"  
+    next "cini tezkopadnym"  
+    dex  
 
 _CloysterDexEntry::
-	text "When attacked, it"
-	next "launches its"
-	next "horns in quick"
+	text "Kdyz je napaden,"
+	next "vypali sva rohy"
+	next "rychlymi salvami"
 
-	page "volleys. Its"
-	next "innards have"
-	next "never been seen"
+	page "Jeho vnitrky"
+	next "nikdy nebyly"
+	next "videny"
 	dex
 
 _ElectrodeDexEntry::
-	text "It stores electric"
-	next "energy under very"
-	next "high pressure."
+	text "Uklada elektrickou"
+	next "energii pod velmi"
+	next "vysokym tlakem."
 
-	page "It often explodes"
-	next "with little or no"
-	next "provocation"
+	page "Casto exploduje"
+	next "s malou nebo"
+	next "zadnou pricinou"
 	dex
 
 _ClefableDexEntry::
-	text "A timid fairy"
-	next "#MON that is"
-	next "rarely seen. It"
+	text "Placha vila"
+	next "#MON ktery je"
+	next "vzacne k videni."
 
-	page "will run and hide"
-	next "the moment it"
-	next "senses people"
+	page "Bude utikat a"
+	next "skryvat se v"
+	next "okamziku, kdy"
 	dex
 
-_WeezingDexEntry::
-	text "Where two kinds"
-	next "of poison gases"
-	next "meet, 2 KOFFINGs"
+_WeezingDexEntry::  
+	text "Kde se dva druhy"  
+	next "jedovatych plynu"  
+	next "setkaji, 2 KOFFINGove"  
 
-	page "can fuse into a"
-	next "WEEZING over many"
-	next "years"
-	dex
+	page "mohou po letech"  
+	next "sloucit v jedno"  
+	next "WEEZING"  
+	dex  
 
 _PersianDexEntry::
-	text "Although its fur"
-	next "has many admirers,"
-	next "it is tough to"
+	text "Ackoli jeho srst"
+	next "ma mnoho obdivovatelu,"
+	next "je obtizne ho"
 
-	page "raise as a pet"
-	next "because of its"
-	next "fickle meanness"
+	page "chovat jako mazlicka"
+	next "kvuli jeho"
+	next "nevyzpytatelne zlobe"
 	dex
 
-_MarowakDexEntry::
-	text "The bone it holds"
-	next "is its key weapon."
-	next "It throws the"
 
-	page "bone skillfully"
-	next "like a boomerang"
-	next "to KO targets"
+
+_MarowakDexEntry::
+	text "Kost, co drzi,"
+	next "je jeho zbran."
+	next "Hazi ji jako"
+
+	page "bumerang."
+	next "Umne ji vrha"
+	next "k protivnikum"
 	dex
 
 _HaunterDexEntry::
-	text "Because of its"
-	next "ability to slip"
-	next "through block"
+	text "Pro svou"
+	next "schopnost mizet"
+	next "mezi prekazky "
 
-	page "walls, it is said"
-	next "to be from an-"
-	next "other dimension"
+	page "se rika, ze pri-"
+	next "chazi z jine"
+	next "dimense.     "
 	dex
 
 _AbraDexEntry::
-	text "Using its ability"
-	next "to read minds, it"
-	next "will identify"
+	text "Pouzitim schopnosti"
+	next "cist mysli, #"
+	next "rozpozna"
 
-	page "impending danger"
-	next "and TELEPORT to"
-	next "safety"
+	page "hrozici nebezpeci"
+	next "a TELEPORTuje"
+	next "do bezpeci"
 	dex
 
 _AlakazamDexEntry::
-	text "Its brain can out-"
-	next "perform a super-"
-	next "computer."
+	text "Jeho mozek umi"
+	next "prekonat super-"
+	next "pocitac."
 
-	page "Its intelligence"
-	next "quotient is said"
-	next "to be 5,000"
+	page "Jeho kvocient"
+	next "inteligence pry"
+	next "je 5 000"
 	dex
 
 _PidgeottoDexEntry::
-	text "Very protective"
-	next "of its sprawling"
-	next "territorial area,"
+	text "Velmi ochranarsky"
+	next "ke svemu rozsahlemu"
+	next "uzemi,"
 
-	page "this #MON will"
-	next "fiercely peck at"
-	next "any intruder"
+	page "tento #MON bude"
+	next "zurive klovat na"
+	next "zadneho vetrelce"
 	dex
 
 _PidgeotDexEntry::
-	text "When hunting, it"
-	next "skims the surface"
-	next "of water at high"
+	text "Pri lovu leta"
+	next "tesne nad vodou"
+	next "vysokou rychlosti"
 
-	page "speed to pick off"
-	next "unwary prey such"
-	next "as MAGIKARP"
+	page "aby ulovilo"
+	next "nepozornou korist"
+	next "jako MAGIKARP"
 	dex
 
 _StarmieDexEntry::
-	text "Its central core"
-	next "glows with the"
-	next "seven colors of"
+	text "Jeho centralni jadro"
+	next "sviti sedmi"
+	next "barvami duhy."
 
-	page "the rainbow. Some"
-	next "people value the"
-	next "core as a gem"
+	page "Nekteri lide"
+	next "zajimaji jadro"
+	next "jako drahokam."
 	dex
 
 _BulbasaurDexEntry::
-	text "A strange seed was"
-	next "planted on its"
-	next "back at birth."
+	text "Podivne seminko"
+	next "bylo zasazeno na"
+	next "jeho zadech pri"
 
-	page "The plant sprouts"
-	next "and grows with"
-	next "this #MON"
+	page "narozeni. Rostlina"
+	next "vyklici a roste s"
+	next "timto #MON"
 	dex
 
 _VenusaurDexEntry::
-	text "The plant blooms"
-	next "when it is"
-	next "absorbing solar"
+	text "Rostlina kvete"
+	next "kdyz pohlcuje"
+	next "solarni"
 
-	page "energy. It stays"
-	next "on the move to"
-	next "seek sunlight"
+	page "energii. Stale"
+	next "se pohybuje za"
+	next "svetlem"
 	dex
 
 _TentacruelDexEntry::
-	text "The tentacles are"
-	next "normally kept"
-	next "short. On hunts,"
+	text "Chapadla jsou obvykle"
+	next "kratka. Pri lovu"
+	next "jsou prodlouzena,"
 
-	page "they are extended"
-	next "to ensnare and"
-	next "immobilize prey"
+	page "aby polapila a"
+	next "zneskodnila korist"
+	next "."
 	dex
 
 _GoldeenDexEntry::
-	text "Its tail fin"
-	next "billows like an"
-	next "elegant ballroom"
+	text "Jeji ocasni ploutev"
+	next "vlaje jako elegantni"
+	next "plesove saty"
 
-	page "dress, giving it"
-	next "the nickname of"
-	next "the Water Queen"
+	page "kvuli cemuz je"
+	next "prezdivana ’Vodni"
+	next "kralovna’."
 	dex
 
 _SeakingDexEntry::
-	text "In the autumn"
-	next "spawning season,"
-	next "they can be seen"
+	text "Na podzim" 
+	next "behem rozmno-"
+	next "zovaci sezony,"
 
-	page "swimming power-"
-	next "fully up rivers"
-	next "and creeks"
+	page "je lze videt"
+	next "plavat silne"
+	next "proti proudu rek"
 	dex
 
 _PonytaDexEntry::
-	text "Its hooves are 10"
-	next "times harder than"
-	next "diamonds. It can"
+	text "Jeho kopyta jsou"
+	next "10krat tvrdsi nez"
+	next "diamanty. Umi"
 
-	page "trample anything"
-	next "completely flat"
-	next "in little time"
+	page "rozdupat vse do"
+	next "rovna velice"
+	next "rychle"
 	dex
 
 _RapidashDexEntry::
-	text "Very competitive,"
-	next "this #MON will"
-	next "chase anything"
+	text "Velmi soutezivy,"
+	next "tento #MON bude"
+	next "pronasledovat"
 
-	page "that moves fast"
-	next "in the hopes of"
-	next "racing it"
+	page "cokoliv, co se"
+	next "pohybuje rychle ve"
+	next "snaze se zavodit"
 	dex
 
 _RattataDexEntry::
-	text "Bites anything"
-	next "when it attacks."
-	next "Small and very"
+	text "Kouse vse" 
+	next "kdyz utoci."
+	next "Maly a velmi"
 
-	page "quick, it is a"
-	next "common sight in"
-	next "many places"
+	page "rychly, je to"
+	next "bezny vyskyt v"
+	next "mnoha mistech"
 	dex
 
 _RaticateDexEntry::
-	text "It uses its whis-"
-	next "kers to maintain"
-	next "its balance."
+	text "Pouziva vousky"
+	next "k udrzeni rovno-"
+	next "vahy."
 
-	page "It apparently"
-	next "slows down if"
-	next "they are cut off"
+	page "Ocividne se"
+	next "zpomali, pokud"
+	next "jsou ustrizeny."
 	dex
 
 _NidorinoDexEntry::
-	text "An aggressive"
-	next "#MON that is"
-	next "quick to attack."
+	text "Agresivni"
+	next "#MON ktery je"
+	next "rychle utocny."
 
-	page "The horn on its"
-	next "head secretes a"
-	next "powerful venom"
+	page "Roh na jeho"
+	next "hlave vylucuje"
+	next "silny jed"
 	dex
 
 _NidorinaDexEntry::
-	text "The female's horn"
-	next "develops slowly."
-	next "Prefers physical"
+	text "Zensky roh"
+	next "se vyviji pomalu."
+	next "Dava prednost"
 
-	page "attacks such as"
-	next "clawing and"
-	next "biting"
+	page "fyzickym utokum"
+	next "jako je drapani"
+	next "a kousani"
 	dex
 
 _GeodudeDexEntry::
-	text "Found in fields"
-	next "and mountains."
-	next "Mistaking them"
+	text "Nalezen na polich"
+	next "a na horach."
+	next "Lide je casto"
 
-	page "for boulders,"
-	next "people often step"
-	next "or trip on them"
+	page "pletou s balvany,"
+	next "a slapou na ne"
+	next "nebo zakopnou."
 	dex
 
-_PorygonDexEntry::
-	text "A #MON that"
-	next "consists entirely"
-	next "of programming"
-
-	page "code. Capable of"
-	next "moving freely in"
-	next "cyberspace"
-	dex
+_PorygonDexEntry::  
+	text "A #MON that"  
+	next "se sklada"  
+	next "z programovani"  
+  
+	page "kodu. Schopny"  
+	next "volne se pohybovat"  
+	next "v kyberprostoru"  
+	dex  
 
 _AerodactylDexEntry::
-	text "A ferocious, pre-"
-	next "historic #MON"
-	next "that goes for the"
+	text "Zurivy, prehisto-"
+	next "ricky #MON"
+	next "ktery utoci na"
 
-	page "enemy's throat"
-	next "with its serrated"
-	next "saw-like fangs"
+	page "nepriteluv krk"
+	next "svymi zubatymi"
+	next "pilovitymi tesaky"
 	dex
 
 _MagnemiteDexEntry::
-	text "Uses anti-gravity"
-	next "to stay suspended."
-	next "Appears without"
+	text "Pouziva antigravitaci"
+	next "pro vznaseni."
+	next "Objevuje se bez"
 
-	page "warning and uses"
-	next "THUNDER WAVE and"
-	next "similar moves"
+	page "varovani a"
+	next "pouziva BLESKOVOU"
+	next "VLNU a podobne"
 	dex
 
 _CharmanderDexEntry::
-	text "Obviously prefers"
-	next "hot places. When"
-	next "it rains, steam"
+	text "Ocividne ma rad"
+	next "horka mista. Kdyz"
+	next "prsi, para"
 
-	page "is said to spout"
-	next "from the tip of"
-	next "its tail"
+	page "pry vychazi"
+	next "z jeho ocasu."
+	next ""
 	dex
 
 _SquirtleDexEntry::
-	text "After birth, its"
-	next "back swells and"
-	next "hardens into a"
+	text "Po narozeni se"
+	next "mu zada zvetsi a"
+	next "ztvrdnou v"
 
-	page "shell. Powerfully"
-	next "sprays foam from"
-	next "its mouth"
+	page "krunyr. Silne"
+	next "strika penu z"
+	next "ust" 
 	dex
 
 _CharmeleonDexEntry::
-	text "When it swings"
-	next "its burning tail,"
-	next "it elevates the"
+	text "Kdyz macha"
+	next "ohnivym ocasem,"
+	next "zvysuje"
 
-	page "temperature to"
-	next "unbearably high"
-	next "levels"
+	page "teplotu na"
+	next "nesnesitelnou"
+	next "uroven"
 	dex
 
 _WartortleDexEntry::
-	text "Often hides in"
-	next "water to stalk"
-	next "unwary prey. For"
+	text "Casto se schovava"
+	next "ve vode, aby sledoval"
+	next "neopatrnou korist. Pri"
 
-	page "swimming fast, it"
-	next "moves its ears to"
-	next "maintain balance"
+	page "rychlem plavani"
+	next "pohybuje usima pro"
+	next "udrzeni rovnovahy."
 	dex
 
 _CharizardDexEntry::
-	text "Spits fire that"
-	next "is hot enough to"
-	next "melt boulders."
+	text "Chrlici ohen"
+	next "Jehoz zar tavi"
+	next "balvany."
 
-	page "Known to cause"
-	next "forest fires"
-	next "unintentionally"
+	page "Znamy tim, ze"
+	next "z nedbalosti"
+	next "zapaluje lesy"
 	dex
 
 _OddishDexEntry::
-	text "During the day,"
-	next "it keeps its face"
-	next "buried in the"
+	text "Behem dne,"
+	next "ma oblicej"
+	next "zaryty v"
 
-	page "ground. At night,"
-	next "it wanders around"
-	next "sowing its seeds"
+	page "zemi. V noci,"
+	next "se toula"
+	next "a rozseva"
 	dex
 
 _GloomDexEntry::
-	text "The fluid that"
-	next "oozes from its"
-	next "mouth isn't drool."
+	text "Tekutina, ktera"
+	next "vyteka z ust"
+	next "neni slina."
 
-	page "It is a nectar"
-	next "that is used to"
-	next "attract prey"
+	page "Je to nektar,"
+	next "ktery se pouziva"
+	next "k lakani koristi."
 	dex
 
 _VileplumeDexEntry::
-	text "The larger its"
-	next "petals, the more"
-	next "toxic pollen it"
+	text "Cim vetsi jsou"
+	next "jeho okvetni"
+	next "platky, tim vice"
 
-	page "contains. Its big"
-	next "head is heavy and"
-	next "hard to hold up"
+	page "toxickeho pylu"
+	next "obsahuji. Jeho"
+	next "velka hlava je"
 	dex
 
 _BellsproutDexEntry::
-	text "A carnivorous"
-	next "#MON that traps"
-	next "and eats bugs."
+	text "Masozrava"
+	next "#MON, ktera lapi"
+	next "a ji hmyz."
 
-	page "It uses its root"
-	next "feet to soak up"
-	next "needed moisture"
+	page "Pouziva koreny"
+	next "nohy k sani"
+	next "potrebne vlahy"
 	dex
 
 _WeepinbellDexEntry::
-	text "It spits out"
-	next "POISONPOWDER to"
-	next "immobilize the"
+	text "Vypousti"
+	next "JEDOVY PRASEK"
+	next "k znehybneni"
 
-	page "enemy and then"
-	next "finishes it with"
-	next "a spray of ACID"
+	page "nepritele a pak"
+	next "dokonci ho"
+	next "sprskou KYSELINY"
 	dex
 
 _VictreebelDexEntry::
-	text "Said to live in"
-	next "huge colonies"
-	next "deep in jungles,"
+	text "Rika se, ze zije"
+	next "v obrovskych"
+	next "koloniich hluboko"
 
-	page "although no one"
-	next "has ever returned"
-	next "from there"
+	page "v dzunglich, presto"
+	next "se odtamtud nikdo"
+	next "nevratil"
 	dex
+

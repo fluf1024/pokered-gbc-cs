@@ -1,173 +1,170 @@
 _ViridianCityYoungster1Text::
-	text "Those # BALLs"
-	line "at your waist!"
-	cont "You have #MON!"
+	text "Ty # BALLs"
+	line "u tveho pasu!"
+	cont "Mas #MON!"
 
-	para "It's great that"
-	line "you can carry and"
-	cont "use #MON any"
-	cont "time, anywhere!"
+	para "Je skvele, ze"
+	line "muzes nosit a"
+	cont "pouzivat #MON kdykoliv"
+	cont "a kdekoliv!"
 	done
 
 _ViridianCityGambler1GymAlwaysClosedText::
-	text "This #MON GYM"
-	line "is always closed."
+	text "Tato #MON GYM"
+	line "je vzdy zavrena."
 
-	para "I wonder who the"
-	line "LEADER is?"
+	para "Zajimalo by me, kdo"
+	line "je VUDCEM?"
 	done
 
 _ViridianCityGambler1GymLeaderReturnedText::
-	text "VIRIDIAN GYM's"
-	line "LEADER returned!"
+	text "VIRIDIAN GYM"
+	line "VUDCE se vratil!"
 	done
 
 _ViridianCityYoungster2YouWantToKnowAboutText::
-	text "You want to know"
-	line "about the 2 kinds"
-	cont "of caterpillar"
+	text "Chces vedet"
+	line "o 2 druzich"
+	cont "housenek"
 	cont "#MON?"
 	done
 
 ViridianCityYoungster2OkThenText::
-	text "Oh, OK then!"
+	text "Ach, tak dobre!"
 	done
 
 ViridianCityYoungster2CaterpieAndWeedleDescriptionText::
-	text "CATERPIE has no"
-	line "poison, but"
-	cont "WEEDLE does."
+	text "CATERPIE nema"
+	line "jed, ale"
+	cont "WEEDLE ano."
 
-	para "Watch out for its"
-	line "POISON STING!"
+	para "Davej pozor na jeho"
+	line "Jedovate Zihadlo!"
 	done
 
 _ViridianCityGirlHasntHadHisCoffeeYetText::
-	text "Oh Grandpa! Don't"
-	line "be so mean!"
-	cont "He hasn't had his"
-	cont "coffee yet."
+	text "Ach dedecku! Nech"
+	line "byt tak zly!"
+	cont "Jeste nemel"
+	cont "svou kavu."
 	done
 
 _ViridianCityGirlWhenIGoShopText::
-	text "When I go shop in"
-	line "PEWTER CITY, I"
-	cont "have to take the"
-	cont "winding trail in"
+	text "Kdyz jdu nakupovat"
+	line "do PEWTER CITY,"
+	cont "musim si vzit"
+	cont "klikatou stezku v"
 	cont "VIRIDIAN FOREST."
 	done
 
 _ViridianCityOldManSleepyPrivatePropertyText::
-	text "You can't go"
-	line "through here!"
+	text "Nemuzes tudy"
+	line "projit!"
 
-	para "This is private"
-	line "property!"
+	para "Toto je soukromy"
+	line "pozemek!"
 	done
 
 ViridianCityFisherYouCanHaveThisText::
-	text "Yawn!"
-	line "I must have dozed"
-	cont "off in the sun."
+	text "Ziv!"
+	line "Musel jsem"
+	cont "zdrimnout na slunci."
 
-	para "I had this dream"
-	line "about a DROWZEE"
-	cont "eating my dream."
-	cont "What's this?"
-	cont "Where did this TM"
-	cont "come from?"
+	para "Mel jsem sen"
+	line "o DROWZEE"
+	cont "jak sni muj sen."
+	cont "Co to je?"
+	cont "Kde se vzalo toto TM?"
 
-	para "This is spooky!"
-	line "Here, you can"
-	cont "have this TM."
+	para "To je strasidelne!"
+	line "Tady, muzes"
+	cont "mit toto TM."
 	prompt
 
 _ViridianCityFisherReceivedTM42Text::
-	text "<PLAYER> received"
+	text "<PLAYER> obdrzel"
 	line "TM42!@"
 	text_end
 
 _ViridianCityFisherTM42ExplanationText::
-	text "TM42 contains"
+	text "TM42 obsahuje"
 	line "DREAM EATER..."
-	cont "...Snore..."
+	cont "...Chrapani..."
 	done
 
 _ViridianCityFisherTM42NoRoomText::
-	text "You have too much"
-	line "stuff already."
+	text "Mas uz prilis"
+	line "veci."
 	done
 
 _ViridianCityOldManHadMyCoffeeNowText::
-	text "Ahh, I've had my"
-	line "coffee now and I"
-	cont "feel great!"
+	text "Ach, ted jsem mel"
+	line "svou kavu a citim se"
+	cont "skvele!"
 
-	para "Sure you can go"
-	line "through!"
+	para "Jiste, muzes projit!"
 
-	para "Are you in a"
-	line "hurry?"
+	para "Pospichas?"
 	done
 
 _ViridianCityOldManKnowHowToCatchPokemonText::
-	text "I see you're using"
-	line "a #DEX."
+	text "Vidim, ze pouzivas"
+	line "#DEX."
 
-	para "When you catch a"
+	para "Kdyz chytis"
 	line "#MON, #DEX"
-	cont "is automatically"
-	cont "updated."
+	cont "se automaticky"
+	cont "aktualizuje."
 
-	para "What? Don't you"
-	line "know how to catch"
+	para "Coze? Nevis"
+	line "jak chytit"
 	cont "#MON?"
 
-	para "I'll show you"
-	line "how to then."
+	para "Ukazu ti"
+	line "jak na to."
 	done
 
 _ViridianCityOldManTimeIsMoneyText::
-	text "Time is money..."
-	line "Go along then."
+	text "Cas jsou penize..."
+	line "Jdi dal."
 	done
 
 _ViridianCityOldManYouNeedToWeakenTheTargetText::
-	text "First, you need"
-	line "to weaken the"
-	cont "target #MON."
+	text "Nejprve musis"
+	line "oslabit"
+	cont "cilovy #MON."
 	done
 
 _ViridianCitySignText::
 	text "VIRIDIAN CITY "
-	line "The Eternally"
-	cont "Green Paradise"
+	line "Vecne Zeleny"
+	cont "Raj"
 	done
 
 _ViridianCityTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "RADA PRO TRENERY"
 
-	para "Catch #MON"
-	line "and expand your"
-	cont "collection!"
+	para "Chyt #MON"
+	line "a rozsir"
+	cont "svou sbirku!"
 
-	para "The more you have,"
-	line "the easier it is"
-	cont "to fight!"
+	para "Cim vic jich mas,"
+	line "tim snadnejsi je"
+	cont "boj!"
 	done
 
 _ViridianCityTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "RADA PRO TRENERY"
 
-	para "The battle moves"
-	line "of #MON are"
-	cont "limited by their"
-	cont "POWER POINTs, PP."
+	para "Bojove pohyby"
+	line "#MON jsou"
+	cont "omezene jejich"
+	cont "JEDNOTKAMI SILY, PP."
 
-	para "To replenish PP,"
-	line "rest your tired"
-	cont "#MON at a"
-	cont "#MON CENTER!"
+	para "Abys doplnil PP,"
+	line "dej odpocinout svym"
+	cont "#MON ve"
+	cont "#MON CENTRU!"
 	done
 
 _ViridianCityGymSignText::
@@ -176,6 +173,6 @@ _ViridianCityGymSignText::
 	done
 
 _ViridianCityGymLockedText::
-	text "The GYM's doors"
-	line "are locked..."
+	text "Dvere GYM"
+	line "jsou zamcene..."
 	done

@@ -1,28 +1,28 @@
 _CeladonMart5FGentlemanText::
-	text "#MON ability"
-	line "enhancers can be"
-	cont "bought only here."
+	text "Schopnost #MON"
+	line "zesilovace lze"
+	cont "koupit pouze zde."
 
-	para "Use CALCIUM to"
-	line "increase SPECIAL"
-	cont "abilities."
+	para "Pouzijte VAPNIK"
+	line "ke zvyseni SPECIAL"
+	cont "schopnosti."
 
-	para "Use CARBOS to"
-	line "increase SPEED."
+	para "Pouzijte CARBOS"
+	line "ke zvyseni RYCHLOSTI."
 	done
 
 _CeladonMart5FSailorText::
-	text "I'm here for"
-	line "#MON ability"
-	cont "enhancers."
+	text "Jsem tady pro"
+	line "zesilovace"
+	cont "schopnosti #MON."
 
-	para "PROTEIN increases"
-	line "ATTACK power."
+	para "PROTEIN zvysuje"
+	line "UTOCNOU silu."
 
-	para "IRON increases"
-	line "DEFENSE!"
+	para "ZELEZO zvysuje"
+	line "OBRANU!"
 	done
 
 _CeladonMart5FCurrentFloorSignText::
-	text "5F: DRUG STORE"
+	text "5F: LEKARNA"
 	done

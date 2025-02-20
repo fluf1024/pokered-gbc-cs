@@ -1,31 +1,31 @@
 _CeladonMart1FReceptionistText::
-	text "Hello! Welcome to"
-	line "CELADON DEPT."
-	cont "STORE."
+	text "Dobry den! Vitejte v"
+	line "OBCHODNIM DOME"
+	cont "CELADON."
 
-	para "The board on the"
-	line "right describes"
-	cont "the store layout."
+	para "Tabule vpravo popisuje"
+	line "rozlozeni"
+	cont "obchodu."
 	done
 
 _CeladonMart1FDirectorySignText::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "1F: SLUZBY"
+	line "    PULT"
 
-	para "2F: TRAINER'S"
-	line "    MARKET"
+	para "2F: TRH"
+	line "    TRENERU"
 
-	para "3F: TV GAME SHOP"
+	para "3F: OBCHOD TV HER"
 
-	para "4F: WISEMAN GIFTS"
+	para "4F: DARKY U MUDRCE"
 
-	para "5F: DRUG STORE"
+	para "5F: LEKARNA"
 
-	para "ROOFTOP SQUARE:"
-	line "VENDING MACHINES"
+	para "STRESNI NAMESTI:"
+	line "AUTOMATY S NAPOJI"
 	done
 
 _CeladonMart1FCurrentFloorSignText::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "1F: SLUZBY"
+	line "    PULT"
 	done

@@ -1,27 +1,26 @@
 _SafariZoneNorthRestHouseScientistText::
-	text "You can keep any"
-	line "item you find on"
-	cont "the ground here."
+	text "Muzes si nechat"
+	line "jakykoli predmet,"
+	cont "ktery najdes tady na zemi."
 
-	para "But, you'll run"
-	line "out of time if"
-	cont "you try for all"
-	cont "of them at once!"
+	para "Ale vyprsi ti"
+	line "cas, pokud"
+	cont "se pokusis"
+	cont "sebrat vsechno naraz!"
 	done
 
 _SafariZoneNorthRestHouseSafariZoneWorkerText::
-	text "Go to the deepest"
-	line "part of the"
-	cont "SAFARI ZONE. You"
-	cont "will win a prize!"
+	text "Jdi do nejhlubsi"
+	line "casti SAFARI ZONY."
+	cont "Vyhrajes cenu!"
 	done
 
 _SafariZoneNorthRestHouseGentlemanText::
-	text "My EEVEE evolved"
-	line "into FLAREON!"
+	text "Moje EEVEE se vyvinula"
+	line "do FLAREONA!"
 
-	para "But, a friend's"
-	line "EEVEE turned into"
-	cont "a VAPOREON!"
-	cont "I wonder why?"
+	para "Ale EEVEE meho"
+	line "pritele se promenila"
+	cont "ve VAPOREONA!"
+	cont "Procpak asi?"
 	done

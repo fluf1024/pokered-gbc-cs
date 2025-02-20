@@ -1,21 +1,21 @@
 _VermilionGymLTSurgePreBattleText::
-	text "Hey, kid! What do"
-	line "you think you're"
-	cont "doing here?"
+	text "Hej, kluku! Co si"
+	line "tady myslis, ze"
+	cont "delas?"
 
-	para "You won't live"
-	line "long in combat!"
-	cont "That's for sure!"
+	para "V boji dlouho"
+	line "neprezijes!"
+	cont "To je jiste!"
 
-	para "I tell you kid,"
-	line "electric #MON"
-	cont "saved me during"
-	cont "the war!"
+	para "Rikam ti, kluku,"
+	line "elektricti #MONi"
+	cont "me zachranili"
+	cont "behem valky!"
 
-	para "They zapped my"
-	line "enemies into"
-	cont "paralysis!"
+	para "Znicili me"
+	line "nepratele na"
+	cont "paralyzu!"
 
-	para "The same as I'll"
-	line "do to you!"
+	para "To same udelam"
+	line "s tebou!"
 	done

@@ -1,31 +1,31 @@
 _ViridianMartClerkSayHiToOakText::
-	text "Okay! Say hi to"
-	line "PROF.OAK for me!"
+	text "Dobre! Pozdravujte"
+	line "PROFESORA OAKA za me!"
 	done
 
 _ViridianMartClerkYouCameFromPalletTownText::
-	text "Hey! You came from"
+	text "Hej! Vy jste prisli z"
 	line "PALLET TOWN?"
 	done
 
 _ViridianMartClerkParcelQuestText::
-	text "You know PROF."
-	line "OAK, right?"
+	text "Znate PROF."
+	line "OAKA, ze ano?"
 
-	para "His order came in."
-	line "Will you take it"
-	cont "to him?"
+	para "Prisla mu objednavka."
+	line "Vezmete mu ji?"
+	cont ""
 
-	para "<PLAYER> got"
-	line "OAK's PARCEL!@"
+	para "<PLAYER> ziskal"
+	line "OAKovuv BALICEK!@"
 	text_end
 
 _ViridianMartYoungsterText::
-	text "This shop sells"
-	line "many ANTIDOTEs."
+	text "Tento obchod prodava"
+	line "mnoho ANTIDOT."
 	done
 
 _ViridianMartCooltrainerMText::
-	text "No! POTIONs are"
-	line "all sold out."
+	text "Ne! Vsechny LEKTVARY"
+	line "jsou vyprodane."
 	done

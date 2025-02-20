@@ -1,64 +1,63 @@
 _LancesRoomLanceBeforeBattleText::
-	text "Ah! I heard about"
-	line "you <PLAYER>!"
+	text "Ah! Slysel jsem o"
+	line "tobe, <PLAYER>!"
 
-	para "I lead the ELITE"
-	line "FOUR! You can"
-	cont "call me LANCE the"
-	cont "dragon trainer!"
+	para "Vedouci ELITE"
+	line "FOUR! Muzes me"
+	cont "nazyvat LANCE,"
+	cont "dracim trenerem!"
 
-	para "You know that"
-	line "dragons are"
-	cont "mythical #MON!"
+	para "Vis, ze draci"
+	line "jsou"
+	cont "myticka #MON!"
 
-	para "They're hard to"
-	line "catch and raise,"
-	cont "but their powers"
-	cont "are superior!"
+	para "Jsou tezko"
+	line "chytitelni a"
+	cont "vychovatelni, ale"
+	cont "jejich sily jsou nadrazene!"
 
-	para "They're virtually"
-	line "indestructible!"
+	para "Jsou prakticky"
+	line "neznicitelni!"
 
-	para "Well, are you"
-	line "ready to lose?"
+	para "Tak co, jsi"
+	line "pripraven prohrat?"
 
-	para "Your LEAGUE"
-	line "challenge ends"
-	cont "with me, <PLAYER>!"
+	para "Tva LEAGUE"
+	line "vyzva konci"
+	cont "se mnou, <PLAYER>!"
 	done
 
 _LancesRoomLanceEndBattleText::
-	text "That's it!"
+	text "To je ono!"
 
-	para "I hate to admit"
-	line "it, but you are a"
-	cont "#MON master!"
+	para "Nerad to priznam,"
+	line "ale ty jsi skutecny"
+	cont "#MON mistr!"
 	prompt
 
 _LancesRoomLanceAfterBattleText::
-	text "I still can't"
-	line "believe my"
-	cont "dragons lost to"
-	cont "you, <PLAYER>!"
+	text "Stale nemohu"
+	line "uverit, ze moji"
+	cont "draci prohrali s"
+	cont "tebou, <PLAYER>!"
 
-	para "You are now the"
-	line "#MON LEAGUE"
-	cont "champion!"
+	para "Nyni jsi"
+	line "sampionem #MON"
+	cont "ligi!"
 
-	para "...Or, you would"
-	line "have been, but"
-	cont "you have one more"
-	cont "challenge ahead."
+	para "...Nebo bys byl,"
+	line "ale ceka te"
+	cont "jeste jedna vyzva."
 
-	para "You have to face"
-	line "another trainer!"
-	cont "His name is..."
+	para "Musis celit"
+	line "dalsimu trenerovi!"
+	cont "Jeho jmeno je..."
 
 	para "<RIVAL>!"
-	line "He beat the ELITE"
-	cont "FOUR before you!"
+	line "Porazil ELITE"
+	cont "FOUR pred tebou!"
 
-	para "He is the real"
-	line "#MON LEAGUE"
-	cont "champion!@"
+	para "On je skutecny"
+	line "sampion #MON"
+	cont "ligy!@"
 	text_end

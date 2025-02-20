@@ -1,88 +1,87 @@
 _BillsHouseBillImNotAPokemonText::
-	text "Hiya! I'm a"
+	text "Ahoj! Ja jsem"
 	line "#MON..."
-	cont "...No I'm not!"
+	cont "...Ne, nejsem!"
 
-	para "Call me BILL!"
-	line "I'm a true blue"
-	cont "#MANIAC! Hey!"
-	cont "What's with that"
-	cont "skeptical look?"
+	para "Rikej mi BILL!"
+	line "Jsem pravy modry"
+	cont "#MANIAC! Hej!"
+	cont "Co to mas za"
+	cont "skepticky pohled?"
 
-	para "I'm not joshing"
-	line "you, I screwed up"
-	cont "an experiment and"
-	cont "got combined with"
-	cont "a #MON!"
+	para "Nedelam si"
+	line "legraci, pokazil jsem"
+	cont "experiment a"
+	cont "spojil jsem se"
+	cont "s #MON!"
 
-	para "So, how about it?"
-	line "Help me out here!"
+	para "Tak co rikas?"
+	line "Pomuzes mi?"
 	done
 
 _BillsHouseBillUseSeparationSystemText::
-	text "When I'm in the"
-	line "TELEPORTER, go to"
-	cont "my PC and run the"
-	cont "Cell Separation"
-	cont "System!"
+	text "Kdyz jsem v"
+	line "TELEPORTERU, jdi k"
+	cont "memu PC a spust"
+	cont "system oddelovani"
+	cont "bunek!"
 	done
 
 _BillsHouseBillNoYouGottaHelpText::
-	text "No!? Come on, you"
-	line "gotta help a guy"
-	cont "in deep trouble!"
+	text "Ne!? Ale prosim,"
+	line "musis pomoct chlapovi"
+	cont "ve velkem prusvihu!"
 
-	para "What do you say,"
-	line "chief? Please?"
-	cont "OK? All right!"
+	para "Co rikas,"
+	line "sefe? Prosim?"
+	cont "OK? Dobre!"
 	prompt
 
 _BillsHouseBillThankYouText::
 	text "BILL: Yeehah!"
-	line "Thanks, bud! I"
-	cont "owe you one!"
+	line "Dik, kamo! Mam"
+	cont "u tebe dluh!"
 
-	para "So, did you come"
-	line "to see my #MON"
-	cont "collection?"
-	cont "You didn't?"
-	cont "That's a bummer."
+	para "Tak prisel jsi"
+	line "se podivat na mou"
+	cont "sbirku #MON?"
+	cont "Ne?"
+	cont "To je skoda."
 
-	para "I've got to thank"
-	line "you... Oh here,"
-	cont "maybe this'll do."
+	para "Musim ti podekovat..."
+	line "Oh, tady,"
+	cont "mozna ti tohle prijde vhod."
 	prompt
 
 _SSTicketReceivedText::
-	text "<PLAYER> received"
-	line "an @"
+	text "<PLAYER> obdrzel"
+	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _SSTicketNoRoomText::
-	text "You've got too"
-	line "much stuff, bud!"
+	text "Mas prilis"
+	line "moc veci, kamo!"
 	done
 
 _BillsHouseBillWhyDontYouGoInsteadOfMeText::
-	text "That cruise ship,"
-	line "S.S.ANNE, is in"
+	text "Ta vyletni lod,"
+	line "S.S.ANNE, je ve"
 	cont "VERMILION CITY."
-	cont "Its passengers"
-	cont "are all trainers!"
+	cont "Jeji pasazeri"
+	cont "jsou vsichni treneri!"
 
-	para "They invited me"
-	line "to their party,"
-	cont "but I can't stand"
-	cont "fancy do's. Why"
-	cont "don't you go"
-	cont "instead of me?"
+	para "Pozvali me"
+	line "na svou party,"
+	cont "ale ja nesnasim"
+	cont "fancy akce. Proc"
+	cont "nejdes misto me?"
 	done
 
 _BillsHouseBillCheckOutMyRarePokemonText::
-	text "BILL: Look, bud,"
-	line "just check out"
-	cont "some of my rare"
-	cont "#MON on my PC!"
+	text "BILL: Podivej, kamo,"
+	line "jen mrkni na"
+	cont "nektere z mych vzacnych"
+	cont "#MON na mem PC!"
 	done

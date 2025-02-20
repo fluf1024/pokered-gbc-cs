@@ -1,45 +1,45 @@
 _Museum2FYoungsterText::
-	text "MOON STONE?"
+	text "MESICNI KAMEN?"
 
-	para "What's so special"
-	line "about it?"
+	para "Co je na nem"
+	line "tak zvlastniho?"
 	done
 
 _Museum2FGrampsText::
-	text "July 20, 1969!"
+	text "20. cervence 1969!"
 
-	para "The 1st lunar"
-	line "landing!"
+	para "Prvni pristani"
+	line "na Mesici!"
 
-	para "I bought a color"
-	line "TV to watch it!"
+	para "Koupil jsem si barvu"
+	line "televizi, abych to videl!"
 	done
 
 _Museum2FScientistText::
-	text "We have a space"
-	line "exhibit now."
+	text "Mame ted vystavu"
+	line "o vesmiru."
 	done
 
 _Museum2FBrunetteGirlText::
-	text "I want a PIKACHU!"
-	line "It's so cute!"
+	text "Chci PIKACHU!"
+	line "Je tak roztomily!"
 
-	para "I asked my Daddy"
-	line "to catch me one!"
+	para "Rekla jsem tatovi,"
+	line "aby mi jednoho chytil!"
 	done
 
 _Museum2FHikerText::
-	text "Yeah, a PIKACHU"
-	line "soon, I promise!"
+	text "Jo, brzy Pikachu"
+	line "slibuji!"
 	done
 
 _Museum2FSpaceShuttleSignText::
-	text "SPACE SHUTTLE"
+	text "VESMIRNY RAKETOPLAN"
 	line "COLUMBIA"
 	done
 
 _Museum2FMoonStoneSignText::
-	text "Meteorite that"
-	line "fell on MT.MOON."
-	cont "(MOON STONE?)"
+	text "Meteor, ktery"
+	line "spadl na MT.MOON."
+	cont "(MESICNI KAMEN?)"
 	done

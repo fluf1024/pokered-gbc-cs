@@ -1,145 +1,145 @@
 _Route3Text1::
-	text "Whew... I better"
-	line "take a rest..."
-	cont "Groan..."
+	text "Ach jo... Radeji si"
+	line "odpocinu..."
+	cont "Och..."
 
-	para "That tunnel from"
-	line "CERULEAN takes a"
-	cont "lot out of you!"
+	para "Ten tunel z"
+	line "CINNOBARU mi"
+	cont "dal zabrat!"
 	done
 
 _Route3Youngster1BattleText::
-	text "Hey! I met you in"
-	line "VIRIDIAN FOREST!"
+	text "Hej! Potkal jsem te"
+	line "v VIRIDIAN LESU!"
 	done
 
 _Route3Youngster1EndBattleText::
-	text "You"
-	line "beat me again!"
+	text "Porazil"
+	line "jsi me zase!"
 	prompt
 
 _Route3Youngster1AfterBattleText::
-	text "There are other"
-	line "kinds of #MON"
-	cont "than those found"
-	cont "in the forest!"
+	text "Existuji jine"
+	line "typy #MON nez"
+	cont "ty, ktere se daji"
+	cont "najit v lese!"
 	done
 
 _Route3Youngster2BattleText::
-	text "Hi! I like shorts!"
-	line "They're comfy and"
-	cont "easy to wear!"
+	text "Ahoj! Mam rad sortky!"
+	line "Jsou pohodlne a"
+	cont "snadno se nosi!"
 	done
 
 _Route3Youngster2EndBattleText::
-	text "I don't"
-	line "believe it!"
+	text "Neverim"
+	line "tomu!"
 	prompt
 
 _Route3Youngster2AfterBattleText::
-	text "Are you storing"
-	line "your #MON on"
-	cont "PC? Each BOX can"
-	cont "hold 20 #MON!"
+	text "Ukladas sve"
+	line "#MON na"
+	cont "PC? Kazda BOX muze"
+	cont "drzet 20 #MON!"
 	done
 
 _Route3CooltrainerF1BattleText::
-	text "You looked at me,"
-	line "didn't you?"
+	text "Dival ses na me,"
+	line "ze ano?"
 	done
 
 _Route3CooltrainerF1EndBattleText::
-	text "You're"
-	line "mean!"
+	text "Jsi"
+	line "zly!"
 	prompt
 
 _Route3CooltrainerF1AfterBattleText::
-	text "Quit staring if"
-	line "you don't want to"
-	cont "fight!"
+	text "Prestan zirat, pokud"
+	line "nechces"
+	cont "bojovat!"
 	done
 
 _Route3Youngster3BattleText::
-	text "Are you a trainer?"
-	line "Let's fight!"
+	text "Jsi trener?"
+	line "Pojdme bojovat!"
 	done
 
 _Route3Youngster3EndBattleText::
-	text "If I"
-	line "had new #MON I"
-	cont "would've won!"
+	text "Kdybych"
+	line "mel nove #MON,"
+	cont "vyhral bych!"
 	prompt
 
 _Route3Youngster3AfterBattleText::
-	text "If a #MON BOX"
-	line "on the PC gets"
-	cont "full, just switch"
-	cont "to another BOX!"
+	text "Pokud se #MON BOX"
+	line "na PC naplni,"
+	cont "jen prepni na"
+	cont "jinou BOX!"
 	done
 
 _Route3CooltrainerF2BattleText::
-	text "That look you"
-	line "gave me, it's so"
-	cont "intriguing!"
+	text "Ten pohled, kterym"
+	line "ses na me podival, je"
+	cont "tak zajimavy!"
 	done
 
 _Route3CooltrainerF2EndBattleText::
-	text "Be nice!"
+	text "Bud hodny!"
 	prompt
 
 _Route3CooltrainerF2AfterBattleText::
-	text "Avoid fights by"
-	line "not letting"
-	cont "people see you!"
+	text "Vyhnes se boji, kdyz"
+	line "nedovolis lidem, aby"
+	cont "te videli!"
 	done
 
 _Route3Youngster4BattleText::
-	text "Hey! You're not"
-	line "wearing shorts!"
+	text "Hej! Nemas na sobe"
+	line "sortky!"
 	done
 
 _Route3Youngster4EndBattleText::
-	text "Lost!"
-	line "Lost! Lost!"
+	text "Prohral!"
+	line "Prohral! Prohral!"
 	prompt
 
 _Route3Youngster4AfterBattleText::
-	text "I always wear"
-	line "shorts, even in"
-	cont "winter!"
+	text "Nosim sortky vzdy,"
+	line "dokonce i v"
+	cont "zime!"
 	done
 
 _Route3Youngster5BattleText::
-	text "You can fight my"
-	line "new #MON!"
+	text "Muzes bojovat s mym"
+	line "novym #MON!"
 	done
 
 _Route3Youngster5EndBattleText::
-	text "Done"
-	line "like dinner!"
+	text "Hotovo"
+	line "jako vecere!"
 	prompt
 
 _Route3Youngster5AfterBattleText::
-	text "Trained #MON"
-	line "are stronger than"
-	cont "the wild ones!"
+	text "Cviceni #MON"
+	line "jsou silnejsi nez"
+	cont "divoci!"
 	done
 
 _Route3CooltrainerF3BattleText::
-	text "Eek! Did you"
-	line "touch me?"
+	text "Ou! Dotkl ses"
+	line "me?"
 	done
 
 _Route3CooltrainerF3EndBattleText::
-	text "That's it?"
+	text "To je vse?"
 	prompt
 
 _Route3CooltrainerF3AfterBattleText::
-	text "ROUTE 4 is at the"
-	line "foot of MT.MOON."
+	text "ROUTE 4 je na"
+	line "upati MT.MOON."
 	done
 
 _Route3SignText::
 	text "ROUTE 3"
-	line "MT.MOON AHEAD"
+	line "MT.MOON PRED NAMI"
 	done

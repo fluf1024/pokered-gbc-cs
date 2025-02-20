@@ -1,11 +1,11 @@
 _PewterPokecenterGentlemanText::
-	text "What!?"
+	text "Coze!?"
 
-	para "TEAM ROCKET is"
-	line "at MT.MOON? Huh?"
-	cont "I'm on the phone!"
+	para "RAKETOVY TYM je"
+	line "na MT. MOON? Coze?"
+	cont "Jsem na telefonu!"
 
-	para "Scram!"
+	para "Zmiz!"
 	done
 
 _PewterPokecenterJigglypuffText::

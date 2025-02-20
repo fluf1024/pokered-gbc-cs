@@ -1,19 +1,20 @@
-_SaffronGateGuardGeeImThirstyText::
-	text "I'm on guard duty."
-	line "Gee, I'm thirsty,"
-	cont "though!"
 
-	para "Oh wait there,"
-	line "the road's closed."
+_SaffronGateGuardGeeImThirstyText::
+	text "Jsem na strazi."
+	line "Pani, mam zizen,"
+	cont "ale!"
+
+	para "Oh, pockej, tamhle,"
+	line "silnice je zavrena."
 	done
 
 _SaffronGateGuardImParchedText::
-	text "Whoa, boy!"
-	line "I'm parched!"
+	text "Whoa, chlapce!"
+	line "Jsem vycerpany!"
 	cont "..."
-	cont "Huh? I can have"
-	cont "this drink?"
-	cont "Gee, thanks!@"
+	cont "Eh? Mohu si vzit"
+	cont "tento napoj?"
+	cont "Pani, diky!@"
 	text_end
 
 _SaffronGateGuardYouCanGoOnThroughText::
@@ -23,16 +24,15 @@ _SaffronGateGuardYouCanGoOnThroughText::
 	line "Glug glug..."
 	cont "..."
 	cont "Gulp..."
-	cont "If you want to go"
-	cont "to SAFFRON CITY..."
+	cont "Pokud chces jit do"
+	cont "SAFFRON CITY..."
 	cont "..."
-	cont "You can go on"
-	cont "through. I'll"
-	cont "share this with"
-	cont "the other guards!"
+	cont "Muzes projit."
+	cont "Podelim se"
+	cont "s ostatnimi strazci!"
 	done
 
 _SaffronGateGuardThanksForTheDrinkText::
-	text "Hi, thanks for"
-	line "the cool drinks!"
+	text "Ahoj, diky za"
+	line "skvele napoje!"
 	done

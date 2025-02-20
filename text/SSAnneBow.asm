@@ -1,52 +1,53 @@
+
 _SSAnneBowSuperNerdText::
-	text "The party's over."
-	line "The ship will be"
-	cont "departing soon."
+	text "Vecirek skoncil."
+	line "Lod brzy"
+	cont "odpluje."
 	done
 
 _SSAnneBowSailor1Text::
-	text "Scrubbing decks"
-	line "is hard work!"
+	text "Drhnuti paluby"
+	line "je tezka prace!"
 	done
 
 _SSAnneBowCooltrainerMText::
-	text "Urf. I feel ill."
+	text "Urf. Je mi spatne."
 
-	para "I stepped out to"
-	line "get some air."
+	para "Vysel jsem ven"
+	line "na cerstvy vzduch."
 	done
 
 _SSAnneBowSailor2BattleText::
-	text "Hey matey!"
+	text "Hej, kamarade!"
 
-	para "Let's do a little"
-	line "jig!"
+	para "Udelame si"
+	line "maly tanecek!"
 	done
 
 _SSAnneBowSailor2EndBattleText::
-	text "You're"
-	line "impressive!"
+	text "Jsi"
+	line "pusobivy!"
 	prompt
 
 _SSAnneBowSailor2AfterBattleText::
-	text "How many kinds of"
-	line "#MON do you"
-	cont "think there are?"
+	text "Kolik druhu"
+	line "#MON si"
+	cont "myslis, ze existuje?"
 	done
 
 _SSAnneBowSailor3BattleText::
-	text "Ahoy there!"
-	line "Are you seasick?"
+	text "Ahoj ty tam!"
+	line "Jsi morsky nemocny?"
 	done
 
 _SSAnneBowSailor3EndBattleText::
-	text "I was"
-	line "just careless!"
+	text "Byl jsem"
+	line "jen neopatrny!"
 	prompt
 
 _SSAnneBowSailor3AfterBattleText::
-	text "My Pa said there"
-	line "are 100 kinds of"
-	cont "#MON. I think"
-	cont "there are more."
+	text "Muj tata rikal, ze"
+	line "existuje 100 druhu"
+	cont "#MON. Myslim"
+	cont "ze jich je vice."
 	done

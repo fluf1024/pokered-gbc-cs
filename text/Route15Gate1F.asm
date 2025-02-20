@@ -1,7 +1,7 @@
 _Route15Gate1FGuardText::
-	text "Are you working"
-	line "on a #DEX?"
+	text "Pracujes na"
+	line "#DEXu?"
 
-	para "PROF.OAK's AIDE"
-	line "came by here."
+	para "Prof.Oakuv asistent"
+	line "tudy prisel."
 	done

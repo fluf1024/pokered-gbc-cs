@@ -1,46 +1,47 @@
+
 _Route1Youngster1MartSampleText::
-	text "Hi! I work at a"
+	text "Ahoj! Pracuji v"
 	line "#MON MART."
 
-	para "It's a convenient"
-	line "shop, so please"
-	cont "visit us in"
+	para "Je to sikovny"
+	line "obchod, tak prosim"
+	cont "navstivte nas v"
 	cont "VIRIDIAN CITY."
 
-	para "I know, I'll give"
-	line "you a sample!"
-	cont "Here you go!"
+	para "Vim, dam ti"
+	line "vzorek!"
+	cont "Tady to mas!"
 	prompt
 
 _Route1Youngster1GotPotionText::
-	text "<PLAYER> got"
+	text "<PLAYER> obdrzel/a"
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
 
 _Route1Youngster1AlsoGotPokeballsText::
-	text "We also carry"
-	line "# BALLs for"
-	cont "catching #MON!"
+	text "Take prodavame"
+	line "# BALLy pro"
+	cont "chytani #MON!"
 	done
 
 _Route1Youngster1NoRoomText::
-	text "You have too much"
-	line "stuff with you!"
+	text "Mas u sebe prilis"
+	line "mnoho veci!"
 	done
 
 _Route1Youngster2Text::
-	text "See those ledges"
-	line "along the road?"
+	text "Vidis ty previsy"
+	line "podel cesty?"
 
-	para "It's a bit scary,"
-	line "but you can jump"
-	cont "from them."
+	para "Je to trosku strasidelne,"
+	line "ale muzes z nich skocit."
+	cont ""
 
-	para "You can get back"
-	line "to PALLET TOWN"
-	cont "quicker that way."
+	para "Muzes se takto vratit"
+	line "do PALLET TOWN"
+	cont "rychleji."
 	done
 
 _Route1SignText::

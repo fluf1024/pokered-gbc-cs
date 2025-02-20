@@ -1,97 +1,96 @@
 _SafariZoneGateSafariZoneWorker1Text::
-	text "Welcome to the"
+	text "Vitej v"
 	line "SAFARI ZONE!"
 	done
 
 _SafariZoneGateSafariZoneWorker1WouldYouLikeToJoinText::
-	text "For just ¥500,"
-	line "you can catch all"
-	cont "the #MON you"
-	cont "want in the park!"
+	text "Za pouhych ¥500,"
+	line "muzes chytat vsechny"
+	cont "#MON, ktere"
+	cont "chces v parku!"
 
-	para "Would you like to"
-	line "join the hunt?@"
+	para "Chces se pridat"
+	line "k lovu?@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1ThatllBe500PleaseText::
-	text "That'll be ¥500"
-	line "please!"
+	text "Bude to ¥500,"
+	line "prosim!"
 
-	para "We only use a"
-	line "special # BALL"
-	cont "here."
+	para "Pouzivame zde pouze"
+	line "specialni # BALL."
 
-	para "<PLAYER> received"
-	line "30 SAFARI BALLs!@"
+	para "<PLAYER> obdrzel"
+	line "30 SAFARI MICku!@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1CallYouOnThePAText::
 	text_start
 
-	para "We'll call you on"
-	line "the PA when you"
-	cont "run out of time"
-	cont "or SAFARI BALLs!"
+	para "Zavolame te pres"
+	line "rozhlas, jakmile"
+	cont "ti dojde cas"
+	cont "nebo SAFARI MICky!"
 	done
 
 _SafariZoneGateSafariZoneWorker1PleaseComeAgainText::
-	text "OK! Please come"
-	line "again!"
+	text "OK! Prijd znovu!"
+	line "znovu!"
 	done
 
 _SafariZoneGateSafariZoneWorker1NotEnoughMoneyText::
-	text "Oops! Not enough"
-	line "money!"
+	text "Ups! Nemas dost"
+	line "penez!"
 	done
 
 _SafariZoneGateSafariZoneWorker1LeavingEarlyText::
-	text "Leaving early?@"
+	text "Odchazis driv?@"
 	text_end
 
 _SafariZoneGateSafariZoneWorker1ReturnSafariBallsText::
-	text "Please return any"
-	line "SAFARI BALLs you"
-	cont "have left."
+	text "Prosim, vrat"
+	line "zbyle SAFARI MICky."
+	cont "co mas."
 	done
 
 _SafariZoneGateSafariZoneWorker1GoodLuckText::
-	text "Good Luck!"
+	text "Hodne stesti!"
 	done
 
 _SafariZoneGateSafariZoneWorker1GoodHaulComeAgainText::
-	text "Did you get a"
-	line "good haul?"
-	cont "Come again!"
+	text "Chytil jsi neco"
+	line "dobreho?"
+	cont "Prijd znovu!"
 	done
 
 _SafariZoneGateSafariZoneWorker2FirstTimeHereText::
-	text "Hi! Is it your"
-	line "first time here?"
+	text "Ahoj! Jsi tady"
+	line "poprve?"
 	done
 
 _SafariZoneGateSafariZoneWorker2SafariZoneExplanationText::
-	text "SAFARI ZONE has 4"
-	line "zones in it."
+	text "SAFARI ZONA ma 4"
+	line "zony."
 
-	para "Each zone has"
-	line "different kinds"
-	cont "of #MON. Use"
-	cont "SAFARI BALLs to"
-	cont "catch them!"
+	para "Kazda zona ma"
+	line "ruzne druhy"
+	cont "#MON. Pouzij"
+	cont "SAFARI MICky na"
+	cont "jejich chyceni!"
 
-	para "When you run out"
-	line "of time or SAFARI"
-	cont "BALLs, it's game"
-	cont "over for you!"
+	para "Kdyz ti dojde"
+	line "cas nebo SAFARI"
+	cont "MICky, hra"
+	cont "pro tebe konci!"
 
-	para "Before you go,"
-	line "open an unused"
-	cont "#MON BOX so"
-	cont "there's room for"
-	cont "new #MON!"
+	para "Pred odchodem,"
+	line "otevri nevyuzitou"
+	cont "#MON KRABICI, at"
+	cont "mas misto pro"
+	cont "nove #MON!"
 	done
 
 _SafariZoneGateSafariZoneWorker2YoureARegularHereText::
-	text "Sorry, you're a"
-	line "regular here!"
+	text "Promin, jsi tu uz"
+	line "pravidelne!"
 	done

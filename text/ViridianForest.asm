@@ -1,123 +1,122 @@
 _ViridianForestYoungster1Text::
-	text "I came here with"
-	line "some friends!"
+	text "Prisel jsem sem s"
+	line "nejakymi prateli!"
 
-	para "They're out for"
-	line "#MON fights!"
+	para "Jsou venku a"
+	line "bojuji s #MON!"
 	done
 
 _ViridianForestYoungster2BattleText::
-	text "Hey! You have"
-	line "#MON! Come on!"
-	cont "Let's battle'em!"
+	text "Hej! Mas"
+	line "#MON! Pojdme!"
+	cont "Bojujme s nimi!"
 	done
 
 _ViridianForestYoungster2EndBattleText::
-	text "No!"
-	line "CATERPIE can't"
-	cont "cut it!"
+	text "Ne!"
+	line "CATERPIE nemuze"
+	cont "to zvladnout!"
 	prompt
 
 _ViridianForestYoungster2AfterBattleText::
-	text "Ssh! You'll scare"
-	line "the bugs away!"
+	text "Ss! Vyplasis"
+	line "brouky!"
 	done
 
 _ViridianForestYoungster3BattleText::
-	text "Yo! You can't jam"
-	line "out if you're a"
-	cont "#MON trainer!"
+	text "Cau! Nemuzes"
+	line "zaseknout se, kdyz jsi"
+	cont "trener #MON!"
 	done
 
 _ViridianForestYoungster3EndBattleText::
-	text "Huh?"
-	line "I ran out of"
+	text "Co?"
+	line "Dosli mi"
 	cont "#MON!"
 	prompt
 
 _ViridianForestYoungster3AfterBattleText::
-	text "Darn! I'm going"
-	line "to catch some"
-	cont "stronger ones!"
+	text "Sakra! Chystam se"
+	line "chytit nejake"
+	cont "silnejsi!"
 	done
 
 _ViridianForestYoungster4BattleText::
-	text "Hey, wait up!"
-	line "What's the hurry?"
+	text "Hej, pockej!"
+	line "Proc ten spech?"
 	done
 
 _ViridianForestYoungster4EndBattleText::
-	text "I"
-	line "give! You're good"
-	cont "at this!"
+	text "Ja"
+	line "se vzdavam! Jsi"
+	cont "v tom dobry!"
 	prompt
 
 _ViridianForestYoungster4AfterBattleText::
-	text "Sometimes, you"
-	line "can find stuff on"
-	cont "the ground!"
+	text "Nekdy muzes"
+	line "najit veci na"
+	cont "zemi!"
 
-	para "I'm looking for"
-	line "the stuff I"
-	cont "dropped!"
+	para "Hledam veci,"
+	line "ktere jsem"
+	cont "upustil!"
 	done
 
 _ViridianForestYoungster5Text::
-	text "I ran out of #"
-	line "BALLs to catch"
-	cont "#MON with!"
+	text "Dosli mi #"
+	line "BALLs na chytani"
+	cont "#MON!"
 
-	para "You should carry"
-	line "extras!"
+	para "Mel bys mit"
+	line "nejake navic!"
 	done
 
 _ViridianForestTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "TIPY PRO TRENERA"
 
-	para "If you want to"
-	line "avoid battles,"
-	cont "stay away from"
-	cont "grassy areas!"
+	para "Pokud chces"
+	line "vyhnout se bojum,"
+	cont "zustan mimo"
+	cont "travnate oblasti!"
 	done
 
 _ViridianForestUseAntidoteSignText::
-	text "For poison, use"
-	line "ANTIDOTE! Get it"
-	cont "at #MON MARTs!"
+	text "Pro otravu pouzij"
+	line "PROTILEK! Sezenes ho"
+	cont "v #MON MARTech!"
 	done
 
 _ViridianForestTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "TIPY PRO TRENERA"
 
-	para "Contact PROF.OAK"
-	line "via PC to get"
-	cont "your #DEX"
-	cont "evaluated!"
+	para "Kontaktuj PROF.OAKA"
+	line "pres PC pro"
+	cont "ziskani hodnoceni"
+	cont "tveho #DEX!"
 	done
 
 _ViridianForestTrainerTips3Text::
-	text "TRAINER TIPS"
+	text "TIPY PRO TRENERA"
 
-	para "No stealing of"
-	line "#MON from"
-	cont "other trainers!"
-	cont "Catch only wild"
+	para "Neber #MON od"
+	line "ostatnich treneru!"
+	cont "Chyt jen divoke"
 	cont "#MON!"
 	done
 
 _ViridianForestTrainerTips4Text::
-	text "TRAINER TIPS"
+	text "TIPY PRO TRENERA"
 
-	para "Weaken #MON"
-	line "before attempting"
-	cont "capture!"
+	para "Oslab #MON"
+	line "pred pokusem"
+	cont "o chyceni!"
 
-	para "When healthy,"
-	line "they may escape!"
+	para "Kdyz jsou zdravi,"
+	line "mohou utect!"
 	done
 
 _ViridianForestLeavingSignText::
-	text "LEAVING"
+	text "OPUSTENI"
 	line "VIRIDIAN FOREST"
-	cont "PEWTER CITY AHEAD"
+	cont "PEWTER CITY VEPREDU"
 	done

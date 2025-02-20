@@ -1,69 +1,70 @@
+
 _SSAnneKitchenCook1Text::
-	text "You, mon petit!"
-	line "We're busy here!"
-	cont "Out of the way!"
+	text "Ty, mon petit!"
+	line "Jsme tu zaneprazdneni!"
+	cont "Z cesty!"
 	done
 
 _SSAnneKitchenCook2Text::
-	text "I saw an odd ball"
-	line "in the trash."
+	text "Videl jsem zvlastni"
+	line "micek v odpadkovem kosi."
 	done
 
 _SSAnneKitchenCook3Text::
-	text "I'm so busy I'm"
-	line "getting dizzy!"
+	text "Jsem tak zaneprazdneny, ze"
+	line "se mi toci hlava!"
 	done
 
 _SSAnneKitchenCook4Text::
 	text "Hum-de-hum-de-"
 	line "ho..."
 
-	para "I peel spuds"
-	line "every day!"
+	para "Oloupu brambory"
+	line "kazdy den!"
 	cont "Hum-hum..."
 	done
 
 _SSAnneKitchenCook5Text::
-	text "Did you hear about"
-	line "SNORLAX?"
+	text "Slysel jsi o"
+	line "SNORLAXU?"
 
-	para "All it does is"
-	line "eat and sleep!"
+	para "Jedine, co dela, je"
+	line "jist a spat!"
 	done
 
 _SSAnneKitchenCook6Text::
-	text "Snivel...Sniff..."
+	text "Snufe... Cmuch..."
 
-	para "I only get to"
-	line "peel onions..."
-	cont "Snivel..."
+	para "Jedine, co delam je"
+	line "loupat cibuli..."
+	cont "Snufe..."
 	done
 
 _SSAnneKitchenCook7MainCourseIsText::
-	text "Er-hem! Indeed I"
-	line "am le CHEF!"
+	text "Ehm-ehm! Opravdu jsem"
+	line "le CHEF!"
 
-	para "Le main course is"
+	para "Hlavni chod je"
 	prompt
 
 SSAnneKitchenCook7SalmonDuSaladText::
-	text "Salmon du Salad!"
+	text "Losos du Salat!"
 
-	para "Les guests may"
-	line "gripe it's fish"
-	cont "again, however!"
+	para "Hoste si mohou"
+	line "stezovat, ze je to"
+	cont "zase ryba, ale!"
 	done
 
 SSAnneKitchenCook7EelsAuBarbecueText::
-	text "Eels au Barbecue!"
+	text "Uhori na Barbecue!"
 
-	para "Les guests will"
-	line "mutiny, I fear."
+	para "Bojim se, ze"
+	line "hoste budou bourit."
 	done
 
 SSAnneKitchenCook7PrimeBeefSteakText::
-	text "Prime Beef Steak!"
+	text "Stavnaty hovezi steak!"
 
-	para "But, have I enough"
-	line "fillets du beef?"
+	para "Ale mam dost"
+	line "hoveziho du file?"
 	done

@@ -1,5 +1,5 @@
 _ItemUseText001::
-	text "<PLAYER> used@"
+	text "<PLAYER> pouzil@"
 	text_end
 
 _ItemUseText002::
@@ -8,7 +8,7 @@ _ItemUseText002::
 	done
 
 _GotOnBicycleText1::
-	text "<PLAYER> got on the@"
+	text "<PLAYER> nasedl na@"
 	text_end
 
 _GotOnBicycleText2::
@@ -17,184 +17,183 @@ _GotOnBicycleText2::
 	prompt
 
 _GotOffBicycleText1::
-	text "<PLAYER> got off@"
+	text "<PLAYER> sesedl z@"
 	text_end
 
 _GotOffBicycleText2::
-	text "the @"
+	text "toho @"
 	text_ram wStringBuffer
 	text "."
 	prompt
 
 _ThrewAwayItemText::
-	text "Threw away"
+	text "Vyhozeno"
 	line "@"
 	text_ram wNameBuffer
 	text "."
 	prompt
 
 _IsItOKToTossItemText::
-	text "Is it OK to toss"
-	line "@"
+	text "Je v poradku vyho-"
+	line "dit@"
 	text_ram wStringBuffer
 	text "?"
 	prompt
 
 _TooImportantToTossText::
-	text "That's too impor-"
-	line "tant to toss!"
+	text "To je prilis dule-"
+	line "zite na vyhozeni!"
 	prompt
 
 _AlreadyKnowsText::
 	text_ram wNameBuffer
-	text " knows"
+	text " uz zna"
 	line "@"
 	text_ram wStringBuffer
 	text "!"
 	prompt
 
 _ConnectCableText::
-	text "Okay, connect the"
-	line "cable like so!"
+	text "Dobre, pripoj"
+	line "kabel takhle!"
 	prompt
 
 _TradedForText::
-	text "<PLAYER> traded"
+	text "<PLAYER> vymenil"
 	line "@"
 	text_ram wInGameTradeGiveMonName
-	text " for"
+	text " za"
 	cont "@"
 	text_ram wInGameTradeReceiveMonName
 	text "!@"
 	text_end
 
 _WannaTrade1Text::
-	text "I'm looking for"
+	text "Hledam"
 	line "@"
 	text_ram wInGameTradeGiveMonName
-	text "! Wanna"
+	text "! Chces"
 
-	para "trade one for"
+	para "vymenit za"
 	line "@"
 	text_ram wInGameTradeReceiveMonName
 	text "? "
 	done
 
 _NoTrade1Text::
-	text "Awww!"
-	line "Oh well..."
+	text "Owww!"
+	line "Skoda..."
 	done
 
 _WrongMon1Text::
-	text "What? That's not"
+	text "Co? To neni"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "!"
 
-	para "If you get one,"
-	line "come back here!"
+	para "Pokud ho ziskas,"
+	line "vrat se sem!"
 	done
 
 _Thanks1Text::
-	text "Hey thanks!"
+	text "Diky!"
 	done
 
 _AfterTrade1Text::
-	text "Isn't my old"
+	text "Neni muj stary"
 	line "@"
 	text_ram wInGameTradeReceiveMonName
-	text " great?"
+	text " skvely?"
 	done
 
 _WannaTrade2Text::
-	text "Hello there! Do"
-	line "you want to trade"
+	text "Zdravim! Chces"
+	line "vymenit"
 
-	para "your @"
+	para "sveho @"
 	text_ram wInGameTradeGiveMonName
 	text_start
-	line "for @"
+	line "za@"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 	done
 
 _NoTrade2Text::
-	text "Well, if you"
-	line "don't want to..."
+	text "Tak pokud nechces..."
 	done
 
 _WrongMon2Text::
-	text "Hmmm? This isn't"
+	text "Hmm? To neni"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "."
 
-	para "Think of me when"
-	line "you get one."
+	para "Vzpomenu si na te-"
+	line "be, az ho ziskas."
 	done
 
 _Thanks2Text::
-	text "Thanks!"
+	text "Diky!"
 	done
 
 _AfterTrade2Text::
-	text "The @"
+	text "Ten @"
 	text_ram wInGameTradeGiveMonName
-	text " you"
-	line "traded to me"
+	text " co jsi"
+	line "mi vymenil"
 
-	para "went and evolved!"
+	para "se vyvinul!"
 	done
 
 _WannaTrade3Text::
-	text "Hi! Do you have"
+	text "Ahoj! Mas"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "?"
 
-	para "Want to trade it"
-	line "for @"
+	para "Chces ho vymenit"
+	line "za@"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 	done
 
 _NoTrade3Text::
-	text "That's too bad."
+	text "To je skoda."
 	done
 
 _WrongMon3Text::
-	text "...This is no"
+	text "...Tohle neni"
 	line "@"
 	text_ram wInGameTradeGiveMonName
 	text "."
 
-	para "If you get one,"
-	line "trade it with me!"
+	para "Pokud ho ziskas,"
+	line "vymen ho se mnou!"
 	done
 
 _Thanks3Text::
-	text "Thanks pal!"
+	text "Diky kamo!"
 	done
 
 _AfterTrade3Text::
-	text "How is my old"
-	line "@"
+	text "Jak se ma muj sta-"
+	line "ry @"
 	text_ram wInGameTradeReceiveMonName
 	text "?"
 
-	para "My @"
+	para "Muj @"
 	text_ram wInGameTradeGiveMonName
-	text " is"
-	line "doing great!"
+	text " je"
+	line "skvely!"
 	done
 
 _NothingToCutText::
-	text "There isn't"
-	line "anything to CUT!"
+	text "Neni tu nic"
+	line "ke KACENI!"
 	prompt
 
 _UsedCutText::
 	text_ram wNameBuffer
-	text " hacked"
-	line "away with CUT!"
+	text " pouzil KACENI"
+	line "a proklestil!"
 	prompt

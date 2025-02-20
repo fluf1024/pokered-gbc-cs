@@ -1,97 +1,97 @@
 _CeruleanBadgeHouseMiddleAgedManText::
-	text "#MON BADGEs"
-	line "are owned only by"
-	cont "skilled trainers."
+	text "#MON ODZNAKY"
+	line "vlastni pouze zkuseni"
+	cont "treneri."
 
-	para "I see you have"
-	line "at least one."
+	para "Vidim, ze mate"
+	line "alespon jeden."
 
-	para "Those BADGEs have"
-	line "amazing secrets!"
+	para "Tyto ODZNAKY maji"
+	line "uzasna tajemstvi!"
 	prompt
 
 _CeruleanBadgeHouseMiddleAgedManWhichBadgeText::
-	text "Now then..."
+	text "Takze..."
 
-	para "Which of the 8"
-	line "BADGEs should I"
-	cont "describe?"
+	para "Ktery z 8"
+	line "ODZNAKU mam"
+	cont "popsat?"
 	done
 
 _CeruleanBadgeHouseMiddleAgedManVisitAnyTimeText::
-	text "Come visit me any"
-	line "time you wish."
+	text "Prijdte me navstivit"
+	line "kdykoli chcete."
 	done
 
 _CeruleanBadgeHouseBoulderBadgeText::
-	text "The ATTACK of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "UTOK vsech"
+	line "#MON se mirne"
+	cont "zvysi."
 
-	para "It also lets you"
-	line "use FLASH any"
-	cont "time you desire."
+	para "Take vam umozni"
+	line "pouzit BLESK kdykoli"
+	cont "chcete."
 	prompt
 
 _CeruleanBadgeHouseCascadeBadgeText::
-	text "#MON up to L30"
-	line "will obey you."
+	text "#MON az do urovne 30"
+	line "vam budou poslouchat."
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "Jakmile jsou vyssi,"
+	line "stavaji se nezvladatelni!"
 
-	para "It also lets you"
-	line "use CUT outside"
-	cont "of battle."
+	para "Take vam umozni"
+	line "pouzit REZ mimo"
+	cont "boj."
 	prompt
 
 _CeruleanBadgeHouseThunderBadgeText::
-	text "The SPEED of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "RYCHLOST vsech"
+	line "#MON se mirne"
+	cont "zvysi."
 
-	para "It also lets you"
-	line "use FLY outside"
-	cont "of battle."
+	para "Take vam umozni"
+	line "pouzit LETANI mimo"
+	cont "boj."
 	prompt
 
 _CeruleanBadgeHouseRainbowBadgeText::
-	text "#MON up to L50"
-	line "will obey you."
+	text "#MON az do urovne 50"
+	line "vam budou poslouchat."
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "Jakmile jsou vyssi,"
+	line "stavaji se nezvladatelni!"
 
-	para "It also lets you"
-	line "use STRENGTH out-"
-	cont "side of battle."
+	para "Take vam umozni"
+	line "pouzit SILU mimo"
+	cont "boj."
 	prompt
 
 _CeruleanBadgeHouseSoulBadgeText::
-	text "The DEFENSE of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "OBRANA vsech"
+	line "#MON se mirne"
+	cont "zvysi."
 
-	para "It also lets you"
-	line "use SURF outside"
-	cont "of battle."
+	para "Take vam umozni"
+	line "pouzit SURF mimo"
+	cont "boj."
 	prompt
 
 _CeruleanBadgeHouseMarshBadgeText::
-	text "#MON up to L70"
-	line "will obey you."
+	text "#MON az do urovne 70"
+	line "vam budou poslouchat."
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "Jakmile jsou vyssi,"
+	line "stavaji se nezvladatelni!"
 	prompt
 
 _CeruleanBadgeHouseVolcanoBadgeText::
-	text "Your #MON's"
-	line "SPECIAL abilities"
-	cont "increase a bit."
+	text "SPECIALNI schopnosti"
+	line "vasich #MON se"
+	cont "zvysi."
 	prompt
 
 _CeruleanBadgeHouseEarthBadgeText::
-	text "All #MON will"
-	line "obey you!"
+	text "Vsichni #MON vas budou"
+	line "poslouchat!"
 	prompt

@@ -1,117 +1,116 @@
 _PewterCityCooltrainerFText::
-	text "It's rumored that"
-	line "CLEFAIRYs came"
-	cont "from the moon!"
+	text "Rika se, ze"
+	line "CLEFAIRY prisli"
+	cont "z mesice!"
 
-	para "They appeared "
-	line "after MOON STONE"
-	cont "fell on MT.MOON."
+	para "Objevili se "
+	line "po te, co MESICNI KAMEN"
+	cont "spadl na MT. MOON."
 	done
 
 _PewterCityCooltrainerMText::
-	text "There aren't many"
-	line "serious #MON"
-	cont "trainers here!"
+	text "Neni mnoho"
+	line "vaznych #MON"
+	cont "treneru tady!"
 
-	para "They're all like"
-	line "BUG CATCHERs,"
-	cont "but PEWTER GYM's"
-	cont "BROCK is totally"
-	cont "into it!"
+	para "Vsichni jsou jako"
+	line "LOVCI HMYZU,"
+	cont "ale PEWTER GYM’s"
+	cont "BROCK je do toho"
+	cont "opravdu zapaleny!"
 	done
 
 _PewterCitySuperNerd1DidYouCheckOutMuseumText::
-	text "Did you check out"
-	line "the MUSEUM?"
+	text "Navstivil jsi"
+	line "MUZEUM?"
 	done
 
 _PewterCitySuperNerd1WerentThoseFossilsAmazingText::
-	text "Weren't those"
-	line "fossils from MT."
-	cont "MOON amazing?"
+	text "Nebyly ty"
+	line "fosilie z MT."
+	cont "MOON uzasne?"
 	done
 
 _PewterCitySuperNerd1YouHaveToGoText::
-	text "Really?"
-	line "You absolutely"
-	cont "have to go!"
+	text "Opravdu?"
+	line "Musis tam"
+	cont "rozhodne jit!"
 	done
 
 _PewterCitySuperNerd1ItsRightHereText::
-	text "It's right here!"
-	line "You have to pay"
-	cont "to get in, but"
-	cont "it's worth it!"
-	cont "See you around!"
+	text "Je to hned tady!"
+	line "Musis zaplatit"
+	cont "vstupne, ale"
+	cont "stoji to za to!"
+	cont "Nashledanou!"
 	done
 
 _PewterCitySuperNerd2DoYouKnowWhatImDoingText::
 	text "Psssst!"
-	line "Do you know what"
-	cont "I'm doing?"
+	line "Vis, co"
+	cont "tady delam?"
 	done
 
 _PewterCitySuperNerd2ThatsRightText::
-	text "That's right!"
-	line "It's hard work!"
+	text "Spravne!"
+	line "Je to tvrda prace!"
 	done
 
 _PewterCitySuperNerd2ImSprayingRepelText::
-	text "I'm spraying REPEL"
-	line "to keep #MON"
-	cont "out of my garden!"
+	text "Strikam REPEL"
+	line "abych udrzel #MON"
+	cont "mimo svou zahradu!"
 	done
 
 _PewterCityYoungsterYoureATrainerFollowMeText::
-	text "You're a trainer"
-	line "right? BROCK's"
-	cont "looking for new"
-	cont "challengers!"
-	cont "Follow me!"
+	text "Jsi trener"
+	line "ze? BROCK"
+	cont "hleda nove"
+	cont "vyzyvatele!"
+	cont "Nasleduj me!"
 	done
 
 _PewterCityYoungsterGoTakeOnBrockText::
-	text "If you have the"
-	line "right stuff, go"
-	cont "take on BROCK!"
+	text "Pokud mas"
+	line "to spravne vybaveni, jdi"
+	cont "porazit BROCKA!"
 	done
 
 _PewterCityTrainerTipsText::
-	text "TRAINER TIPS"
+	text "TIPY PRO TRENERY"
 
-	para "Any #MON that"
-	line "takes part in"
-	cont "battle, however"
-	cont "short, earns EXP!"
+	para "Libovolny #MON,"
+	line "ktery se zucastni"
+	cont "bitvy, jakkoliv"
+	cont "kratke, ziska EXP!"
 	done
 
 _PewterCityPoliceNoticeSignText::
-	text "NOTICE!"
+	text "OZNAMENI!"
 
-	para "Thieves have been"
-	line "stealing #MON"
-	cont "fossils at MT."
-	cont "MOON! Please call"
-	cont "PEWTER POLICE"
-	cont "with any info!"
+	para "Zlodeji kradou"
+	line "#MON fosilie na MT."
+	cont "MOON! Prosime, zavolejte"
+	cont "PEWTERSKE POLICII"
+	cont "s jakymikoliv informacemi!"
 	done
 
 _PewterCityMuseumSignText::
-	text "PEWTER MUSEUM"
-	line "OF SCIENCE"
+	text "PEWTER MUZEUM"
+	line "VEDY"
 	done
 
 _PewterCityGymSignText::
 	text "PEWTER CITY"
 	line "#MON GYM"
-	cont "LEADER: BROCK"
+	cont "VEDOUCI: BROCK"
 
-	para "The Rock Solid"
-	line "#MON Trainer!"
+	para "Skala Pevny"
+	line "#MON Trener!"
 	done
 
 _PewterCitySignText::
 	text "PEWTER CITY"
-	line "A Stone Gray"
-	cont "City"
+	line "Mesto Kamenne"
+	cont "sedi"
 	done

@@ -1,52 +1,51 @@
 _RocketHideoutB4FGiovanniImpressedYouGotHereText::
-	text "So! I must say, I"
-	line "am impressed you"
-	cont "got here!"
+	text "Takze! Musim rici, ze"
+	line "jsem ohromen, ze jsi"
+	cont "se sem dostal!"
 	done
 
 _RocketHideoutB4FGiovanniWhatCannotBeText::
-	text "WHAT!"
-	line "This cannot be!"
+	text "COZE!"
+	line "To neni mozne!"
 	prompt
 
 _RocketHideoutB4FGiovanniHopeWeMeetAgainText::
-	text "I see that you"
-	line "raise #MON"
-	cont "with utmost care."
+	text "Vidim, ze"
+	line "zvedas #MON"
+	cont "s maximalni peci."
 
-	para "A child like you"
-	line "would never"
-	cont "understand what I"
-	cont "hope to achieve."
+	para "Dite jako ty"
+	line "by nikdy"
+	cont "nepochopilo, ceho"
+	cont "chci dosahnout."
 
-	para "I shall step"
-	line "aside this time!"
+	para "Tentokrat"
+	line "ustoupim!"
 
-	para "I hope we meet"
-	line "again..."
+	para "Doufam, ze se"
+	line "znovu setkame..."
 	done
 
 _RocketHideoutB4FGiovanniBattleText::
-	text "I know you! You"
-	line "ruined our plans"
-	cont "at MT.MOON!"
+	text "Znam te! Ty jsi"
+	line "nam zruinoval plany"
+	cont "na Mt.MOON!"
 	done
 
 _RocketHideoutB4FGiovanniEndBattleText::
-	text "Burned"
-	line "again!"
+	text "Zase"
+	line "spalen!"
 	prompt
 
 _RocketHideoutB4FGiovanniAfterBattleText::
-	text "Do you have"
-	line "something against"
-	cont "TEAM ROCKET?"
+	text "Mas neco"
+	line "proti TEAMU ROCKET?"
 	done
 
 _RocketHideoutB4FRocket1BattleText::
-	text "How can you not"
-	line "see the beauty of"
-	cont "our evil?"
+	text "Jak nemuzes"
+	line "videt krasu"
+	cont "naseho zla?"
 	done
 
 _RocketHideoutB4FRocket1EndBattleText::
@@ -54,21 +53,21 @@ _RocketHideoutB4FRocket1EndBattleText::
 	prompt
 
 _RocketHideoutB4FRocket1AfterBattleText::
-	text "BOSS! I'm sorry I"
-	line "failed you!"
+	text "SEFE! Omlouvam se, ze jsem"
+	line "te zklamal!"
 	done
 
 _RocketHideoutB4FRocket2BattleText::
-	text "The elevator"
-	line "doesn't work? Who"
-	cont "has the LIFT KEY?"
+	text "Vytah"
+	line "nefunguje? Kdo"
+	cont "ma KLIC OD VYTAHU?"
 	done
 
 _RocketHideoutB4FRocket2EndBattleText::
-	text "No!"
+	text "Ne!"
 	prompt
 
 _RocketHideoutB4FRocket2AfterBattleText::
-	text "Oh no! I dropped"
-	line "the LIFT KEY!"
+	text "Ach ne! Upustil jsem"
+	line "KLIC OD VYTAHU!"
 	done

@@ -1,69 +1,69 @@
 _VermilionCityBeautyText::
-	text "We're careful"
-	line "about pollution!"
+	text "Jsme opatrni"
+	line "ohledne znecisteni!"
 
-	para "We've heard GRIMER"
-	line "multiplies in"
-	cont "toxic sludge!"
+	para "Slyseli jsme, ze GRIMER"
+	line "se mnozi v"
+	cont "toxickem kalu!"
 	done
 
 _VermilionCityGambler1DidYouSeeText::
-	text "Did you see S.S."
-	line "ANNE moored in"
-	cont "the harbor?"
+	text "Videl jsi lod S.S."
+	line "ANNE ukotvenou v"
+	cont "pristavu?"
 	done
 
 _VermilionCityGambler1SSAnneDepartedText::
-	text "So, S.S.ANNE has"
-	line "departed!"
+	text "Takze, S.S.ANNE"
+	line "odjela!"
 
-	para "She'll be back in"
-	line "about a year."
+	para "Vrati se za"
+	line "zhruba rok."
 	done
 
 _VermilionCitySailor1WelcomeToSSAnneText::
-	text "Welcome to S.S."
+	text "Vitej na lodi S.S."
 	line "ANNE!"
 	done
 
 _VermilionCitySailor1DoYouHaveATicketText::
-	text "Welcome to S.S."
+	text "Vitej na lodi S.S."
 	line "ANNE!"
 
-	para "Excuse me, do you"
-	line "have a ticket?"
+	para "Promin, mas"
+	line "listek?"
 	prompt
 
 _VermilionCitySailor1FlashedTicketText::
-	text "<PLAYER> flashed"
-	line "the S.S.TICKET!"
+	text "<PLAYER> ukazal"
+	line "S.S.LISTEK!"
 
-	para "Great! Welcome to"
-	line "S.S.ANNE!"
+	para "Skvele! Vitej na"
+	line "lodi S.S.ANNE!"
 	done
 
 _VermilionCitySailor1YouNeedATicketText::
-	text "<PLAYER> doesn't"
-	line "have the needed"
-	cont "S.S.TICKET."
+	text "<PLAYER> nema"
+	line "potrebny"
+	cont "S.S.LISTEK."
 
-	para "Sorry!"
+	para "Promin!"
 
-	para "You need a ticket"
-	line "to get aboard."
+	para "Potrebujes listek,"
+	line "aby ses dostal na palubu."
 	done
 
 _VermilionCitySailor1ShipSetSailText::
-	text "The ship set sail."
+	text "Lod vyplula."
 	done
 
 _VermilionCityGambler2Text::
-	text "I'm putting up a"
-	line "building on this"
-	cont "plot of land."
+	text "Stavim tady"
+	line "budovu na teto"
+	cont "pozemku."
 
-	para "My #MON is"
-	line "tamping the land."
+	para "Muj #MON"
+	line "udusava pudu."
 	done
 
 _VermilionCityMachopText::
@@ -73,55 +73,54 @@ _VermilionCityMachopText::
 
 _VermilionCityMachopStompingTheLandFlatText::
 	text_start
-	para "A MACHOP is"
-	line "stomping the land"
-	cont "flat."
+	para "MACHOP udusava"
+	line "pudu do roviny."
+	cont "rovnou."
 	done
 
 _VermilionCitySailor2Text::
-	text "S.S.ANNE is a"
-	line "famous luxury"
-	cont "cruise ship."
+	text "S.S.ANNE je"
+	line "slavna luxusni"
+	cont "vyletni lod."
 
-	para "We visit VERMILION"
-	line "once a year."
+	para "Navstevuje VERMILION"
+	line "jednou za rok."
 	done
 
 _VermilionCitySignText::
 	text "VERMILION CITY"
-	line "The Port of"
-	cont "Exquisite Sunsets"
+	line "Pristav"
+	cont "Nadhernych zapadu slunce"
 	done
 
 _VermilionCityNoticeSignText::
-	text "NOTICE!"
+	text "UPOZORNENI!"
 
-	para "ROUTE 12 may be"
-	line "blocked off by a"
-	cont "sleeping #MON."
+	para "Cestu 12 muze zablokovat"
+	line "spici #MON."
 
-	para "Detour through"
-	line "ROCK TUNNEL to"
+	para "Objizdka vede pres"
+	line "ROCK TUNNEL do"
 	cont "LAVENDER TOWN."
 
-	para "VERMILION POLICE"
+	para "POLICIE VE VERMILIONU"
 	done
 
 _VermilionCityPokemonFanClubSignText::
-	text "#MON FAN CLUB"
-	line "All #MON fans"
-	cont "welcome!"
+	text "KLUB FANOUSKU"
+	line "#MON"
+	cont "Vsichni fanousci #MON vitani!"
 	done
 
 _VermilionCityGymSignText::
 	text "VERMILION CITY"
-	line "#MON GYM"
-	cont "LEADER: LT.SURGE"
+	line "POSILOVNA #MON"
+	cont "VUDCE: LT.SURGE"
 
-	para "The Lightning "
+	para "Bleskovy"
 	line "American!"
 	done
 
 _VermilionCityHarborSignText::
-	text "VERMILION HARBOR"
+	text "PRISTAV VERMILION"
 	done

@@ -1,157 +1,158 @@
+
 _Route9CooltrainerF1BattleText::
-	text "You have #MON"
-	line "with you!"
-	cont "You're mine!"
+	text "Mas #MON"
+	line "s sebou!"
+	cont "Jsi muj/ma!"
 	done
 
 _Route9CooltrainerF1EndBattleText::
-	text "You"
-	line "deceived me!"
+	text "Ty"
+	line "jsi me obelstil/la!"
 	prompt
 
 _Route9CooltrainerF1AfterBattleText::
-	text "You need light to"
-	line "get through that"
-	cont "dark tunnel ahead."
+	text "Potrebujes svetlo, abys"
+	line "prosel/a temnym"
+	cont "tunelem vpredu."
 	done
 
 _Route9CooltrainerM1BattleText::
-	text "Who's that walking"
-	line "with those good"
-	cont "looking #MON?"
+	text "Kdo to kraci"
+	line "s temi dobre"
+	cont "vypadajicimi #MON?"
 	done
 
 _Route9CooltrainerM1EndBattleText::
-	text "Out"
-	line "like a light!"
+	text "Jsem"
+	line "srazen jako svetlo!"
 	prompt
 
 _Route9CooltrainerM1AfterBattleText::
-	text "Keep walking!"
+	text "Pokracuj v chuzi!"
 	done
 
 _Route9CooltrainerM2BattleText::
-	text "I'm taking ROCK"
-	line "TUNNEL to go to"
-	cont "LAVENDER..."
+	text "Jdu pres SKALNI"
+	line "TUNEL do"
+	cont "LEVANDULOVE ULICE..."
 	done
 
 _Route9CooltrainerM2EndBattleText::
-	text "Can't"
-	line "measure up!"
+	text "Nemohu"
+	line "se srovnat!"
 	prompt
 
 _Route9CooltrainerM2AfterBattleText::
-	text "Are you off to"
-	line "ROCK TUNNEL too?"
+	text "Chystas se taky do"
+	line "SKALNIHO TUNELU?"
 	done
 
 _Route9CooltrainerF2BattleText::
-	text "Don't you dare"
-	line "condescend me!"
+	text "Neopovazuj se"
+	line "me podcenovat!"
 	done
 
 _Route9CooltrainerF2EndBattleText::
-	text "No!"
-	line "You're too much!"
+	text "Ne!"
+	line "Jsi prilis dobry/a!"
 	prompt
 
 _Route9CooltrainerF2AfterBattleText::
-	text "You're obviously"
-	line "talented! Good"
-	cont "luck to you!"
+	text "Evidentne jsi"
+	line "talentovany/a! Hodne"
+	cont "stesti!"
 	done
 
 _Route9Hiker1BattleText::
 	text "Bwahaha!"
-	line "Great! I was"
-	cont "bored, eh!"
+	line "Skvele! Nudil"
+	cont "jsem se, ze!"
 	done
 
 _Route9Hiker1EndBattleText::
-	text "Keep it"
-	line "coming, eh!"
+	text "Jen to"
+	line "udrzuj, ze!"
 
-	para "Oh wait. I'm out"
-	line "of #MON!"
+	para "Pockej. Jsem bez"
+	line "#MON!"
 	prompt
 
 _Route9Hiker1AfterBattleText::
-	text "You sure had guts"
-	line "standing up to me"
-	cont "there, eh?"
+	text "Opravdu jsi mel/a odvahu"
+	line "zustat proti mne"
+	cont "tam, ze?"
 	done
 
 _Route9Hiker2BattleText::
 	text "Hahaha!"
-	line "Aren't you a"
-	cont "little toughie!"
+	line "Nejsi ty"
+	cont "maly tvrdak!"
 	done
 
 _Route9Hiker2EndBattleText::
-	text "What's"
-	line "that?"
+	text "Coze"
+	line "to?"
 	prompt
 
 _Route9Hiker2AfterBattleText::
-	text "Hahaha! Kids"
-	line "should be tough!"
+	text "Hahaha! Deti"
+	line "by mely byt silne!"
 	done
 
 _Route9Youngster1BattleText::
-	text "I got up early"
-	line "every day to"
-	cont "raise my #MON"
-	cont "from cocoons!"
+	text "Vstaval jsem brzy"
+	line "kazdy den, abych"
+	cont "vychoval me #MON"
+	cont "z kokonu!"
 	done
 
 _Route9Youngster1EndBattleText::
-	text "WHAT?"
+	text "CO?"
 
-	para "What a total"
-	line "waste of time!"
+	para "Jaka totalni"
+	line "ztrata casu!"
 	prompt
 
 _Route9Youngster1AfterBattleText::
-	text "I have to collect"
-	line "more than bugs to"
-	cont "get stronger..."
+	text "Musim sbirat"
+	line "nejen chyb, abych"
+	cont "se stal silnejsim..."
 	done
 
 _Route9Hiker3BattleText::
 	text "Hahahaha!"
-	line "Come on, dude!"
+	line "Pod, kamo!"
 	done
 
 _Route9Hiker3EndBattleText::
 	text "Hahahaha!"
-	line "You beat me fair!"
+	line "Porazil jsi me poctive!"
 	prompt
 
 _Route9Hiker3AfterBattleText::
 	text "Hahahaha!"
-	line "Us hearty guys"
-	cont "always laugh!"
+	line "My statni chlapi"
+	cont "se vzdy smejeme!"
 	done
 
 _Route9Youngster2BattleText::
-	text "Go, my super bug"
+	text "Jdi, muj super brouku"
 	line "#MON!"
 	done
 
 _Route9Youngster2EndBattleText::
-	text "My"
-	line "bugs..."
+	text "Moji"
+	line "brouci..."
 	prompt
 
 _Route9Youngster2AfterBattleText::
-	text "If you don't like"
-	line "bug #MON, you"
-	cont "bug me!"
+	text "Pokud nemas rad"
+	line "brouci #MON, ty"
+	cont "me iritujes!"
 	done
 
 _Route9SignText::
-	text "ROUTE 9"
-	line "CERULEAN CITY-"
-	cont "ROCK TUNNEL"
+	text "Cesta 9"
+	line "CERULEANSKE MESTO-"
+	cont "SKALNI TUNEL"
 	done

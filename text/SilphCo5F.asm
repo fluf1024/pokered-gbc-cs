@@ -1,51 +1,53 @@
 _SilphCo5FSilphWorkerMThatsYouRightText::
-	text "TEAM ROCKET is"
-	line "in an uproar over"
-	cont "some intruder."
-	cont "That's you right?"
+	text "TEAM ROCKET je"
+	line "v pozdvizeni kvuli"
+	cont "nejakemu vetrelci."
+	cont "To jsi ty, ze?"
 	done
 
 _SilphCo5FSilphWorkerMYoureOurHeroText::
-	text "TEAM ROCKET took"
-	line "off! You're our"
-	cont "hero! Thank you!"
+	text "TEAM ROCKET"
+	line "utekl! Jsi nas"
+	cont "hrdina! Dekujeme!"
 	done
 
 _SilphCo5FRocket1BattleText::
-	text "I heard a kid was"
-	line "wandering around."
+	text "Slysel jsem, ze se"
+	line "tu potuluje nejaky"
+	cont "kluk."
 	done
 
 _SilphCo5FRocket1EndBattleText::
-	text "Boom!"
+	text "Bum!"
 	prompt
 
 _SilphCo5FRocket1AfterBattleText::
-	text "It's not smart"
-	line "to pick a fight"
-	cont "with TEAM ROCKET!"
+	text "Neni rozumne"
+	line "vyvolavat boj"
+	cont "s TEAM ROCKET!"
 	done
 
 _SilphCo5FScientistBattleText::
-	text "We study #"
-	line "BALL technology"
-	cont "on this floor!"
+	text "Studujeme"
+	line "technologii #"
+	cont "BALL na tomto"
+	cont "patre!"
 	done
 
 _SilphCo5FScientistEndBattleText::
-	text "Dang!"
-	line "Blast it!"
+	text "Sakra!"
+	line "Krucinal!"
 	prompt
 
 _SilphCo5FScientistAfterBattleText::
-	text "We worked on the"
-	line "ultimate #"
-	cont "BALL which would"
-	cont "catch anything!"
+	text "Pracovali jsme na"
+	line "ultimatnim #"
+	cont "BALL, ktery by"
+	cont "chytil cokoliv!"
 	done
 
 _SilphCo5FRockerBattleText::
-	text "Whaaat? There"
-	line "shouldn't be any"
-	cont "children here?"
+	text "Cooo? Tady by"
+	line "nemely byt zadne"
+	cont "deti?"
 	done

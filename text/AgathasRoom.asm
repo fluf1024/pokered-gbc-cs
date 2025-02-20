@@ -1,44 +1,45 @@
+
 _AgathaBeforeBattleText::
-	text "I am AGATHA of"
-	line "the ELITE FOUR!"
+	text "Jsem AGATHA z"
+	line "ELITNI CTYRKY!"
 
-	para "OAK's taken a lot"
-	line "of interest in"
-	cont "you, child!"
+	para "OAK ma o tebe"
+	line "velky zajem,"
+	cont "dite!"
 
-	para "That old duff was"
-	line "once tough and"
-	cont "handsome! That"
-	cont "was decades ago!"
+	para "Ten stary chlap byl"
+	line "kdysi tvrdy a"
+	cont "pohledny! To"
+	cont "uz je ale davno!"
 
-	para "Now he just wants"
-	line "to fiddle with"
-	cont "his #DEX! He's"
-	cont "wrong! #MON"
-	cont "are for fighting!"
+	para "Ted si jen preje"
+	line "hrat si se"
+	cont "svym #DEXem! Myli se!"
+	cont "#MON jsou"
+	cont "pro boj!"
 
-	para "<PLAYER>! I'll show"
-	line "you how a real"
-	cont "trainer fights!"
+	para "<PLAYER>! Ukazu ti,"
+	line "jak bojuje"
+	cont "skutecny trener!"
 	done
 
 _AgathaEndBattleText::
 	text "Oh ho!"
-	line "You're something"
-	cont "special, child!"
+	line "Jsi neco"
+	cont "vyjimecneho, dite!"
 	prompt
 
 _AgathaAfterBattleText::
-	text "You win! I see"
-	line "what the old duff"
-	cont "sees in you now!"
+	text "Vyhravas! Vidim,"
+	line "co stary chlap"
+	cont "v tobe vidi!"
 
-	para "I have nothing"
-	line "else to say! Run"
-	cont "along now, child!"
+	para "Nemam co dalsiho"
+	line "rici! Bez"
+	cont "dal, dite!"
 	done
 
 _AgathasRoomAgathaDontRunAwayText::
-	text "Someone's voice:"
-	line "Don't run away!"
+	text "Nekdo vola:"
+	line "Neutikej!"
 	done

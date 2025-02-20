@@ -1,13 +1,13 @@
 _CinnabarLabMetronomeRoomScientist1Text::
 	text "Tch-tch-tch!"
-	line "I made a cool TM!"
+	line "Vytvoril jsem skvely TM!"
 
-	para "It can cause all"
-	line "kinds of fun!"
+	para "Dokaze zpusobit vselijake zabavne veci!"
+	line ""
 	prompt
 
 _CinnabarLabMetronomeRoomScientist1ReceivedTM35Text::
-	text "<PLAYER> received "
+	text "<PLAYER> obdrzel "
 	line "@"
 	text_ram wStringBuffer
 	text "!@"
@@ -15,50 +15,48 @@ _CinnabarLabMetronomeRoomScientist1ReceivedTM35Text::
 
 _CinnabarLabMetronomeRoomScientist1TM35ExplanationText::
 	text "Tch-tch-tch!"
-	line "That's the sound"
-	cont "of a METRONOME!"
+	line "To je zvuk METRONOMU!"
 
-	para "It tweaks your"
-	line "#MON's brain"
-	cont "into using moves"
-	cont "it doesn't know!"
+	para "To vyladi mozek vaseho"
+	line "#MON, aby pouzil utoky,"
+	cont "ktere nezna!"
 	done
 
 _CinnabarLabMetronomeRoomScientist1TM35NoRoomText::
-	text "Your pack is"
-	line "crammed full!"
+	text "Vas batoh je"
+	line "plny!"
 	done
 
 _CinnabarLabMetronomeRoomScientist2Text::
-	text "EEVEE can evolve"
-	line "into 1 of 3 kinds"
-	cont "of #MON."
+	text "EEVEE se muze vyvinout"
+	line "do 1 ze 3 druhu"
+	cont "#MON."
 	done
 
 _CinnabarLabMetronomeRoomPCText::
-	text "There's an e-mail"
-	line "message!"
+	text "Je tu e-mailova"
+	line "zprava!"
 
 	para "..."
 
-	para "The 3 legendary"
-	line "bird #MON are"
+	para "3 legendarni"
+	line "ptaci #MON jsou"
 	cont "ARTICUNO, ZAPDOS"
-	cont "and MOLTRES."
+	cont "a MOLTRES."
 
-	para "Their whereabouts"
-	line "are unknown."
+	para "Jejich poloha"
+	line "je neznama."
 
-	para "We plan to explore"
-	line "the cavern close"
-	cont "to CERULEAN."
+	para "Planujeme prozkoumat"
+	line "jeskyni pobliz"
+	cont "mesta CERULEAN."
 
-	para "From: #MON"
+	para "Od: #MON"
 	line "RESEARCH TEAM"
 
 	para "..."
 	done
 
 _CinnabarLabMetronomeRoomAmberPipeText::
-	text "An amber pipe!"
+	text "Jantarova trubka!"
 	done

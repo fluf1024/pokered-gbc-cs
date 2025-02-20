@@ -1,33 +1,33 @@
 _SafariZoneNorthRestHouseSignText::
-	text "REST HOUSE"
+	text "ODPOCIVARNA"
 	done
 
 _SafariZoneNorthTrainerTips1Text::
-	text "TRAINER TIPS"
+	text "TIPY PRO TRENERY"
 
-	para "The SECRET HOUSE"
-	line "is still ahead!"
+	para "TAJNY DUM"
+	line "je stale vpredu!"
 	done
 
 _SafariZoneNorthSignText::
-	text "AREA 2"
+	text "OBLAST 2"
 	done
 
 _SafariZoneNorthTrainerTips2Text::
-	text "TRAINER TIPS"
+	text "TIPY PRO TRENERY"
 
-	para "#MON hide in"
-	line "tall grass!"
+	para "#MON se schovavaji v"
+	line "vysoke trave!"
 
-	para "Zigzag through"
-	line "grassy areas to"
-	cont "flush them out."
+	para "Klickuj skrz"
+	line "travnate oblasti, aby"
+	cont "je vyplasil."
 	done
 
 _SafariZoneNorthTrainerTips3Text::
-	text "TRAINER TIPS"
+	text "TIPY PRO TRENERY"
 
-	para "Win a free HM for"
-	line "finding the"
-	cont "SECRET HOUSE!"
+	para "Vyhraj volne HM za"
+	line "nalezeni"
+	cont "TAJNEHO DOMU!"
 	done

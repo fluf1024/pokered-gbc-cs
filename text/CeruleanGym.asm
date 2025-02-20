@@ -1,133 +1,132 @@
 _CeruleanGymMistyPreBattleText::
-	text "Hi, you're a new"
-	line "face!"
+	text "Ahoj, jsi nova"
+	line "tvar!"
 
-	para "Trainers who want"
-	line "to turn pro have"
-	cont "to have a policy"
-	cont "about #MON!"
+	para "Treneri, kteri"
+	line "chteji byt profici"
+	cont "musi mit politiku"
+	cont "ohledne #MON!"
 
-	para "What is your"
-	line "approach when you"
-	cont "catch #MON?"
+	para "Jaky je tvuj"
+	line "pristup, kdyz"
+	cont "chytas #MON?"
 
-	para "My policy is an"
-	line "all-out offensive"
-	cont "with water-type"
+	para "Moje politika je"
+	line "ciste ofenzivni"
+	cont "s vodnim typem"
 	cont "#MON!"
 	done
 
 _CeruleanGymMistyTM11ExplanationText::
-	text "TM11 teaches"
+	text "TM11 nauci"
 	line "BUBBLEBEAM!"
 
-	para "Use it on an"
-	line "aquatic #MON!"
+	para "Pouzij to na"
+	line "vodniho #MON!"
 	done
 
 _CeruleanGymMistyCascadeBadgeInfoText::
-	text "The CASCADEBADGE"
-	line "makes all #MON"
-	cont "up to L30 obey!"
+	text "ODZNAK CASCADE"
+	line "zpusobi, ze vsichni"
+	cont "#MON az do urovne"
+	cont "30 te budou poslouchat!"
 
-	para "That includes"
-	line "even outsiders!"
+	para "Patri sem i"
+	line "cizinci!"
 
-	para "There's more, you"
-	line "can now use CUT"
-	cont "any time!"
+	para "Je toho vic, nyni"
+	line "muzes kdykoliv pouzit"
+	cont "rezat!"
 
-	para "You can CUT down"
-	line "small bushes to"
-	cont "open new paths!"
+	para "Muzes rezat male"
+	line "kere, abys otevrel"
+	cont "nove cesty!"
 
-	para "You can also have"
-	line "my favorite TM!"
+	para "Take muzes mit"
+	line "muj oblibeny TM!"
 	done
 
 _CeruleanGymMistyReceivedTM11Text::
-	text "<PLAYER> received"
+	text "<PLAYER> dostal"
 	line "TM11!@"
 	text_end
 
 _CeruleanGymMistyTM11NoRoomText::
-	text "You better make"
-	line "room for this!"
+	text "Mel bys udelat"
+	line "misto pro tohle!"
 	done
 
 _CeruleanGymMistyReceivedCascadeBadgeText::
 	text "Wow!"
-	line "You're too much!"
+	line "Jsi ohromujici!"
 
-	para "All right!"
+	para "Dobra!"
 
-	para "You can have the"
-	line "CASCADEBADGE to"
-	cont "show you beat me!@"
+	para "Muzes mit"
+	line "ODZNAK CASCADE na"
+	cont "dukaz, ze jsi me porazil!@"
 	text_end
 
 _CeruleanGymBattleText1::
-	text "I'm more than good"
-	line "enough for you!"
+	text "Jsem vic nez"
+	line "dost dobra pro tebe!"
 
-	para "MISTY can wait!"
+	para "MISTY muze pockat!"
 	done
 
 _CeruleanGymEndBattleText1::
-	text "You"
-	line "overwhelmed me!"
-	prompt
+	text "Zasypal jsi me!"
+	done
 
 _CeruleanGymAfterBattleText1::
-	text "You have to face"
-	line "other trainers to"
-	cont "find out how good"
-	cont "you really are."
+	text "Musis se postavit"
+	line "ostatnim trenerum,"
+	cont "abys zjistil, jak"
+	cont "dobry vlastne jsi."
 	done
 
 _CeruleanGymBattleText2::
-	text "Splash!"
+	text "Vlna!"
 
-	para "I'm first up!"
-	line "Let's do it!"
+	para "Jsem prvni!"
+	line "Pojdme na to!"
 	done
 
 _CeruleanGymEndBattleText2::
-	text "That"
-	line "can't be!"
+	text "To neni mozne!"
 	prompt
 
 _CeruleanGymAfterBattleText2::
-	text "MISTY is going to"
-	line "keep improving!"
+	text "MISTY se bude"
+	line "stale zlepsovat!"
 
-	para "She won't lose to"
-	line "someone like you!"
+	para "Neprohraje s nekym"
+	line "jako jsi ty!"
 	done
 
 _CeruleanGymGymGuideChampInMakingText::
-	text "Yo! Champ in"
-	line "making!"
+	text "Cau! Budouci"
+	line "sampione!"
 
-	para "Here's my advice!"
+	para "Tady je moje rada!"
 
-	para "The LEADER, MISTY,"
-	line "is a pro who uses"
-	cont "water #MON!"
+	para "VUDCE, MISTY, je"
+	line "profik pouzivajici"
+	cont "vodni #MON!"
 
-	para "You can drain all"
-	line "their water with"
-	cont "plant #MON!"
+	para "Muzes vysat jejich"
+	line "vodu pomoci"
+	cont "rostlinnych #MON!"
 
-	para "Or, zap them with"
-	line "electricity!"
+	para "Nebo je"
+	line "srazit elektrinou!"
 	done
 
 _CeruleanGymGymGuideBeatMistyText::
-	text "You beat MISTY!"
-	line "What'd I tell ya?"
+	text "Porazil jsi MISTY!"
+	line "Co jsem ti rikal?"
 
-	para "You and me kid,"
-	line "we make a pretty"
-	cont "darn good team!"
+	para "Ty a ja, kluku,"
+	line "tvorime docela"
+	cont "skvely tym!"
 	done

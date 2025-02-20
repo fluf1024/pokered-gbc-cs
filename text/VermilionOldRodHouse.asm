@@ -1,23 +1,23 @@
 _VermilionOldRodHouseFishingGuruDoYouLikeToFishText::
-	text "I'm the FISHING"
+	text "Jsem RYBARSKY"
 	line "GURU!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "Proste miluji"
+	line "rybareni!"
 
-	para "Do you like to"
-	line "fish?"
+	para "Mas rad"
+	line "rybareni?"
 	done
 
 _VermilionOldRodHouseFishingGuruTakeThisText::
-	text "Grand! I like"
-	line "your style!"
+	text "Skvele! Libi se mi"
+	line "tvuj styl!"
 
-	para "Take this and"
-	line "fish, young one!"
-
-	para "<PLAYER> received"
-	line "an @"
+	para "Vezmi si tohle a"
+	line "rybar, mlady!"
+	
+	para "<PLAYER> obdrzel"
+	line "@"
 	text_ram wStringBuffer
 	text "!@"
 	text_end
@@ -25,31 +25,31 @@ _VermilionOldRodHouseFishingGuruTakeThisText::
 _VermilionOldRodHouseFishingGuruFishingIsAWayOfLifeText::
 	text_start
 
-	para "Fishing is a way"
-	line "of life!"
+	para "Rybareni je zpusob"
+	line "zivota!"
 
-	para "From the seas to"
-	line "rivers, go out"
-	cont "and land the big"
-	cont "one, young one!"
+	para "Od mori k"
+	line "rekam, vydej se"
+	cont "a ulov tu velkou"
+	cont "rybu, mlady!"
 	done
 
 _VermilionOldRodHouseFishingGuruThatsSoDisappointingText::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "Oh... To je tak"
+	line "zklamani..."
 	done
 
 _VermilionOldRodHouseFishingGuruHowAreTheFishBitingText::
-	text "Hello there,"
+	text "Ahoj,"
 	line "<PLAYER>!"
 
-	para "How are the fish"
-	line "biting?"
+	para "Jak berou"
+	line "ryby?"
 	done
 
 _VermilionOldRodHouseFishingGuruNoRoomText::
-	text "Oh no!"
+	text "Ach ne!"
 
-	para "You have no room"
-	line "for my gift!"
+	para "Nemas misto"
+	line "pro muj darek!"
 	done
